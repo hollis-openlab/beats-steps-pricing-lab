@@ -30,10 +30,11 @@ export function DataValidation({ report }: { report: ResearchReport }) {
       <p>{assetInfo[asset].name} · 历史诊断区间：{day(report.period[0])} 00:00 — {day(report.period[1])} 00:00 UTC · 末笔价格延续</p>
       <a className="secondary-button" href="/docs/正式提交答案.md" download><Download size={14} />正式答案</a>
     </div>
+    <p className="evidence-note">本页误差和历史返还只使用 Gate 真实成交；合成静市场景只检查边界规则，不计入这些指标。</p>
     <Card title="数据覆盖" subtitle={`${data.source.name} · ${day(data.source.start)} 至 ${day(data.source.end)} UTC`}>
       <div className="metric-grid compact evidence-metrics">
         <Metric label="真实历史成交" value={`${money(data.source.trades / 10000, 1)} 万笔`} />
-        <Metric label="最长完整同价时段" value={`${money(data.source.quietSeconds, 1)} 秒`} />
+        <Metric label="最长未变价时段" value={`${money(data.source.quietSeconds, 1)} 秒`} />
         <Metric label="历史诊断时点" value={money(result.snapshots, 0)} />
       </div>
     </Card>

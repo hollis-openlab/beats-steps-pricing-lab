@@ -231,7 +231,13 @@ const server = createServer(async (req, res) => {
     }
     if (req.method !== 'POST') return json(res, 405, { error: 'Method not allowed' });
     const origin = req.headers.origin;
-    if (origin && !['http://127.0.0.1:3000', 'http://localhost:3000', 'http://127.0.0.1:4318'].includes(origin)) return json(res, 403, { error: 'Origin rejected' });
+    const allowedOrigins = [
+      'http://127.0.0.1:3000',
+      'http://localhost:3000',
+      'http://127.0.0.1:4318',
+      process.env.PUBLIC_ORIGIN,
+    ].filter(Boolean);
+    if (origin && !allowedOrigins.includes(origin)) return json(res, 403, { error: 'Origin rejected' });
     let body = '';
     for await (const chunk of req) { body += chunk.toString(); if (body.length > 16_384) return json(res, 413, { error: 'Body too large' }); }
     const parsed = JSON.parse(body || '{}');

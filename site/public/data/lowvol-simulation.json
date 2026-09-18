@@ -1,0 +1,52 @@
+{
+  "model": "synthetic-lowvol-v1",
+  "asset": "LOWVOL_SIM",
+  "synthetic": true,
+  "library": {
+    "file": "data/artifacts/LOWVOL_SIM-library-v1.json.gz",
+    "sha256": "a77f9f3d40ff276b257432ff37d2eff52d9445ed9ad2e55244cb2f4aef6d831c"
+  },
+  "trainingSeed": 20260901,
+  "replaySeed": 20260919,
+  "trainingPaths": 1439,
+  "policy": "Synthetic 5-second events: two hours at one price, one 1% jump, then small one/two-tick moves; fixed 1.5 percentage-point demo uncertainty, not empirically calibrated; no claim of FX/metals probabilities or 80% quality floor.",
+  "cases": [
+    {
+      "id": "LOWVOL_SIM-lowvol",
+      "asset": "LOWVOL_SIM",
+      "name": "lowvol",
+      "start": 1789785000000,
+      "end": 1789785900000,
+      "eventAt": 1789783200000,
+      "synthetic": true,
+      "selectedAfterObservation": false,
+      "count": 1982
+    },
+    {
+      "id": "LOWVOL_SIM-flat",
+      "asset": "LOWVOL_SIM",
+      "name": "flat",
+      "start": 1789782900000,
+      "end": 1789783800000,
+      "eventAt": 1789783200000,
+      "synthetic": true,
+      "selectedAfterObservation": false,
+      "quietStart": 1789776000000,
+      "quietEnd": 1789783200000,
+      "count": 1562
+    },
+    {
+      "id": "LOWVOL_SIM-shock",
+      "asset": "LOWVOL_SIM",
+      "name": "shock",
+      "start": 1789783180000,
+      "end": 1789784080000,
+      "eventAt": 1789783200000,
+      "synthetic": true,
+      "selectedAfterObservation": false,
+      "quietStart": 1789776000000,
+      "quietEnd": 1789783200000,
+      "count": 1618
+    }
+  ]
+}

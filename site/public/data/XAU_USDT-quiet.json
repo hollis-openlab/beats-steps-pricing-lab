@@ -1,0 +1,5065 @@
+{
+  "id": "XAU_USDT-quiet",
+  "asset": "XAU_USDT",
+  "name": "quiet",
+  "start": 1789594500000,
+  "end": 1789595400000,
+  "eventAt": 1789594514206,
+  "count": 561,
+  "selectedAfterObservation": true,
+  "synthetic": false,
+  "source": "Gate XAU_USDT perpetual trades",
+  "quietStart": 1789594413262,
+  "quietEnd": 1789594514206,
+  "trades": [
+    {
+      "t": 1789594411339,
+      "p": 427615,
+      "id": "20092960",
+      "sequence": "20092960",
+      "sourceTime": "1789594411339",
+      "priceChangedAt": 1789594411339,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594413262,
+      "p": 427614,
+      "id": "20092961",
+      "sequence": "20092961",
+      "sourceTime": "1789594413262",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594415262,
+      "p": 427614,
+      "id": "20092962",
+      "sequence": "20092962",
+      "sourceTime": "1789594415262",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594417263,
+      "p": 427614,
+      "id": "20092963",
+      "sequence": "20092963",
+      "sourceTime": "1789594417263",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594419285,
+      "p": 427614,
+      "id": "20092964",
+      "sequence": "20092964",
+      "sourceTime": "1789594419285",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594423262,
+      "p": 427614,
+      "id": "20092965",
+      "sequence": "20092965",
+      "sourceTime": "1789594423262",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594427262,
+      "p": 427614,
+      "id": "20092966",
+      "sequence": "20092966",
+      "sourceTime": "1789594427262",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594429288,
+      "p": 427614,
+      "id": "20092967",
+      "sequence": "20092967",
+      "sourceTime": "1789594429288",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594431262,
+      "p": 427614,
+      "id": "20092968",
+      "sequence": "20092968",
+      "sourceTime": "1789594431262",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594437262,
+      "p": 427614,
+      "id": "20092969",
+      "sequence": "20092969",
+      "sourceTime": "1789594437262",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594443417,
+      "p": 427614,
+      "id": "20092970",
+      "sequence": "20092970",
+      "sourceTime": "1789594443417",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594445417,
+      "p": 427614,
+      "id": "20092971",
+      "sequence": "20092971",
+      "sourceTime": "1789594445417",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594447439,
+      "p": 427614,
+      "id": "20092972",
+      "sequence": "20092972",
+      "sourceTime": "1789594447439",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594453441,
+      "p": 427614,
+      "id": "20092973",
+      "sequence": "20092973",
+      "sourceTime": "1789594453441",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594455440,
+      "p": 427614,
+      "id": "20092974",
+      "sequence": "20092974",
+      "sourceTime": "1789594455440",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594457417,
+      "p": 427614,
+      "id": "20092975",
+      "sequence": "20092975",
+      "sourceTime": "1789594457417",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594461440,
+      "p": 427614,
+      "id": "20092976",
+      "sequence": "20092976",
+      "sourceTime": "1789594461440",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594465418,
+      "p": 427614,
+      "id": "20092977",
+      "sequence": "20092977",
+      "sourceTime": "1789594465418",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594467439,
+      "p": 427614,
+      "id": "20092978",
+      "sequence": "20092978",
+      "sourceTime": "1789594467439",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594469417,
+      "p": 427614,
+      "id": "20092979",
+      "sequence": "20092979",
+      "sourceTime": "1789594469417",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594471439,
+      "p": 427614,
+      "id": "20092980",
+      "sequence": "20092980",
+      "sourceTime": "1789594471439",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594473417,
+      "p": 427614,
+      "id": "20092981",
+      "sequence": "20092981",
+      "sourceTime": "1789594473417",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594475441,
+      "p": 427614,
+      "id": "20092982",
+      "sequence": "20092982",
+      "sourceTime": "1789594475441",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594479440,
+      "p": 427614,
+      "id": "20092983",
+      "sequence": "20092983",
+      "sourceTime": "1789594479440",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594481417,
+      "p": 427614,
+      "id": "20092984",
+      "sequence": "20092984",
+      "sourceTime": "1789594481417",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594483439,
+      "p": 427614,
+      "id": "20092985",
+      "sequence": "20092985",
+      "sourceTime": "1789594483439",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594485440,
+      "p": 427614,
+      "id": "20092986",
+      "sequence": "20092986",
+      "sourceTime": "1789594485440",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594487417,
+      "p": 427614,
+      "id": "20092987",
+      "sequence": "20092987",
+      "sourceTime": "1789594487417",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594489439,
+      "p": 427614,
+      "id": "20092988",
+      "sequence": "20092988",
+      "sourceTime": "1789594489439",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594491440,
+      "p": 427614,
+      "id": "20092989",
+      "sequence": "20092989",
+      "sourceTime": "1789594491440",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594492137,
+      "p": 427614,
+      "id": "20092990",
+      "sequence": "20092990",
+      "sourceTime": "1789594492137",
+      "priceChangedAt": 1789594413262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594514206,
+      "p": 427615,
+      "id": "20092991",
+      "sequence": "20092991",
+      "sourceTime": "1789594514206",
+      "priceChangedAt": 1789594514206,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594514206,
+      "p": 427615,
+      "id": "20092992",
+      "sequence": "20092992",
+      "sourceTime": "1789594514206",
+      "priceChangedAt": 1789594514206,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594514206,
+      "p": 427615,
+      "id": "20092993",
+      "sequence": "20092993",
+      "sourceTime": "1789594514206",
+      "priceChangedAt": 1789594514206,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594514206,
+      "p": 427615,
+      "id": "20092994",
+      "sequence": "20092994",
+      "sourceTime": "1789594514206",
+      "priceChangedAt": 1789594514206,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594560503,
+      "p": 427614,
+      "id": "20092995",
+      "sequence": "20092995",
+      "sourceTime": "1789594560503",
+      "priceChangedAt": 1789594560503,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594578546,
+      "p": 427615,
+      "id": "20092996",
+      "sequence": "20092996",
+      "sourceTime": "1789594578546",
+      "priceChangedAt": 1789594578546,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594620503,
+      "p": 427615,
+      "id": "20092997",
+      "sequence": "20092997",
+      "sourceTime": "1789594620503",
+      "priceChangedAt": 1789594578546,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594623620,
+      "p": 427615,
+      "id": "20092998",
+      "sequence": "20092998",
+      "sourceTime": "1789594623620",
+      "priceChangedAt": 1789594578546,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594623620,
+      "p": 427615,
+      "id": "20092999",
+      "sequence": "20092999",
+      "sourceTime": "1789594623620",
+      "priceChangedAt": 1789594578546,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594623620,
+      "p": 427647,
+      "id": "20093000",
+      "sequence": "20093000",
+      "sourceTime": "1789594623620",
+      "priceChangedAt": 1789594623620,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594623759,
+      "p": 427648,
+      "id": "20093001",
+      "sequence": "20093001",
+      "sourceTime": "1789594623759",
+      "priceChangedAt": 1789594623759,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594623851,
+      "p": 427648,
+      "id": "20093002",
+      "sequence": "20093002",
+      "sourceTime": "1789594623851",
+      "priceChangedAt": 1789594623759,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594623851,
+      "p": 427648,
+      "id": "20093003",
+      "sequence": "20093003",
+      "sourceTime": "1789594623851",
+      "priceChangedAt": 1789594623759,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594623851,
+      "p": 427648,
+      "id": "20093004",
+      "sequence": "20093004",
+      "sourceTime": "1789594623851",
+      "priceChangedAt": 1789594623759,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594623851,
+      "p": 427648,
+      "id": "20093005",
+      "sequence": "20093005",
+      "sourceTime": "1789594623851",
+      "priceChangedAt": 1789594623759,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594623851,
+      "p": 427648,
+      "id": "20093006",
+      "sequence": "20093006",
+      "sourceTime": "1789594623851",
+      "priceChangedAt": 1789594623759,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594625178,
+      "p": 427665,
+      "id": "20093007",
+      "sequence": "20093007",
+      "sourceTime": "1789594625178",
+      "priceChangedAt": 1789594625178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594627178,
+      "p": 427665,
+      "id": "20093008",
+      "sequence": "20093008",
+      "sourceTime": "1789594627178",
+      "priceChangedAt": 1789594625178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594629178,
+      "p": 427665,
+      "id": "20093009",
+      "sequence": "20093009",
+      "sourceTime": "1789594629178",
+      "priceChangedAt": 1789594625178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594631178,
+      "p": 427665,
+      "id": "20093010",
+      "sequence": "20093010",
+      "sourceTime": "1789594631178",
+      "priceChangedAt": 1789594625178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594633178,
+      "p": 427666,
+      "id": "20093011",
+      "sequence": "20093011",
+      "sourceTime": "1789594633178",
+      "priceChangedAt": 1789594633178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594635178,
+      "p": 427665,
+      "id": "20093012",
+      "sequence": "20093012",
+      "sourceTime": "1789594635178",
+      "priceChangedAt": 1789594635178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594637178,
+      "p": 427665,
+      "id": "20093013",
+      "sequence": "20093013",
+      "sourceTime": "1789594637178",
+      "priceChangedAt": 1789594635178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594639177,
+      "p": 427666,
+      "id": "20093014",
+      "sequence": "20093014",
+      "sourceTime": "1789594639177",
+      "priceChangedAt": 1789594639177,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594643178,
+      "p": 427665,
+      "id": "20093015",
+      "sequence": "20093015",
+      "sourceTime": "1789594643178",
+      "priceChangedAt": 1789594643178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594645178,
+      "p": 427665,
+      "id": "20093016",
+      "sequence": "20093016",
+      "sourceTime": "1789594645178",
+      "priceChangedAt": 1789594643178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594647177,
+      "p": 427666,
+      "id": "20093017",
+      "sequence": "20093017",
+      "sourceTime": "1789594647177",
+      "priceChangedAt": 1789594647177,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594649179,
+      "p": 427666,
+      "id": "20093018",
+      "sequence": "20093018",
+      "sourceTime": "1789594649179",
+      "priceChangedAt": 1789594647177,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594651178,
+      "p": 427666,
+      "id": "20093019",
+      "sequence": "20093019",
+      "sourceTime": "1789594651178",
+      "priceChangedAt": 1789594647177,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594653178,
+      "p": 427665,
+      "id": "20093020",
+      "sequence": "20093020",
+      "sourceTime": "1789594653178",
+      "priceChangedAt": 1789594653178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594655178,
+      "p": 427665,
+      "id": "20093021",
+      "sequence": "20093021",
+      "sourceTime": "1789594655178",
+      "priceChangedAt": 1789594653178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594657178,
+      "p": 427666,
+      "id": "20093022",
+      "sequence": "20093022",
+      "sourceTime": "1789594657178",
+      "priceChangedAt": 1789594657178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594659178,
+      "p": 427666,
+      "id": "20093023",
+      "sequence": "20093023",
+      "sourceTime": "1789594659178",
+      "priceChangedAt": 1789594657178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594661178,
+      "p": 427665,
+      "id": "20093024",
+      "sequence": "20093024",
+      "sourceTime": "1789594661178",
+      "priceChangedAt": 1789594661178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594663177,
+      "p": 427665,
+      "id": "20093025",
+      "sequence": "20093025",
+      "sourceTime": "1789594663177",
+      "priceChangedAt": 1789594661178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594665178,
+      "p": 427666,
+      "id": "20093026",
+      "sequence": "20093026",
+      "sourceTime": "1789594665178",
+      "priceChangedAt": 1789594665178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594667177,
+      "p": 427665,
+      "id": "20093027",
+      "sequence": "20093027",
+      "sourceTime": "1789594667177",
+      "priceChangedAt": 1789594667177,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594669178,
+      "p": 427665,
+      "id": "20093028",
+      "sequence": "20093028",
+      "sourceTime": "1789594669178",
+      "priceChangedAt": 1789594667177,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594671178,
+      "p": 427665,
+      "id": "20093029",
+      "sequence": "20093029",
+      "sourceTime": "1789594671178",
+      "priceChangedAt": 1789594667177,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594675177,
+      "p": 427666,
+      "id": "20093030",
+      "sequence": "20093030",
+      "sourceTime": "1789594675177",
+      "priceChangedAt": 1789594675177,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594677177,
+      "p": 427666,
+      "id": "20093031",
+      "sequence": "20093031",
+      "sourceTime": "1789594677177",
+      "priceChangedAt": 1789594675177,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594679177,
+      "p": 427665,
+      "id": "20093032",
+      "sequence": "20093032",
+      "sourceTime": "1789594679177",
+      "priceChangedAt": 1789594679177,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594683268,
+      "p": 427666,
+      "id": "20093033",
+      "sequence": "20093033",
+      "sourceTime": "1789594683268",
+      "priceChangedAt": 1789594683268,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594685269,
+      "p": 427666,
+      "id": "20093034",
+      "sequence": "20093034",
+      "sourceTime": "1789594685269",
+      "priceChangedAt": 1789594683268,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594687269,
+      "p": 427666,
+      "id": "20093035",
+      "sequence": "20093035",
+      "sourceTime": "1789594687269",
+      "priceChangedAt": 1789594683268,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594689184,
+      "p": 427665,
+      "id": "20093036",
+      "sequence": "20093036",
+      "sourceTime": "1789594689184",
+      "priceChangedAt": 1789594689184,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594689184,
+      "p": 427665,
+      "id": "20093037",
+      "sequence": "20093037",
+      "sourceTime": "1789594689184",
+      "priceChangedAt": 1789594689184,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594689184,
+      "p": 427665,
+      "id": "20093038",
+      "sequence": "20093038",
+      "sourceTime": "1789594689184",
+      "priceChangedAt": 1789594689184,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594689184,
+      "p": 427665,
+      "id": "20093039",
+      "sequence": "20093039",
+      "sourceTime": "1789594689184",
+      "priceChangedAt": 1789594689184,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594689185,
+      "p": 427665,
+      "id": "20093040",
+      "sequence": "20093040",
+      "sourceTime": "1789594689185",
+      "priceChangedAt": 1789594689184,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594689185,
+      "p": 427655,
+      "id": "20093041",
+      "sequence": "20093041",
+      "sourceTime": "1789594689185",
+      "priceChangedAt": 1789594689185,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594689269,
+      "p": 427605,
+      "id": "20093042",
+      "sequence": "20093042",
+      "sourceTime": "1789594689269",
+      "priceChangedAt": 1789594689269,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594690122,
+      "p": 427605,
+      "id": "20093043",
+      "sequence": "20093043",
+      "sourceTime": "1789594690122",
+      "priceChangedAt": 1789594689269,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594691292,
+      "p": 427606,
+      "id": "20093044",
+      "sequence": "20093044",
+      "sourceTime": "1789594691292",
+      "priceChangedAt": 1789594691292,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594693269,
+      "p": 427606,
+      "id": "20093045",
+      "sequence": "20093045",
+      "sourceTime": "1789594693269",
+      "priceChangedAt": 1789594691292,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594695291,
+      "p": 427606,
+      "id": "20093046",
+      "sequence": "20093046",
+      "sourceTime": "1789594695291",
+      "priceChangedAt": 1789594691292,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594697291,
+      "p": 427606,
+      "id": "20093047",
+      "sequence": "20093047",
+      "sourceTime": "1789594697291",
+      "priceChangedAt": 1789594691292,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594698638,
+      "p": 427605,
+      "id": "20093048",
+      "sequence": "20093048",
+      "sourceTime": "1789594698638",
+      "priceChangedAt": 1789594698638,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594699122,
+      "p": 427605,
+      "id": "20093049",
+      "sequence": "20093049",
+      "sourceTime": "1789594699122",
+      "priceChangedAt": 1789594698638,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594699269,
+      "p": 427606,
+      "id": "20093050",
+      "sequence": "20093050",
+      "sourceTime": "1789594699269",
+      "priceChangedAt": 1789594699269,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594700122,
+      "p": 427605,
+      "id": "20093051",
+      "sequence": "20093051",
+      "sourceTime": "1789594700122",
+      "priceChangedAt": 1789594700122,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594701123,
+      "p": 427605,
+      "id": "20093052",
+      "sequence": "20093052",
+      "sourceTime": "1789594701123",
+      "priceChangedAt": 1789594700122,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594701293,
+      "p": 427606,
+      "id": "20093053",
+      "sequence": "20093053",
+      "sourceTime": "1789594701293",
+      "priceChangedAt": 1789594701293,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594703270,
+      "p": 427606,
+      "id": "20093054",
+      "sequence": "20093054",
+      "sourceTime": "1789594703270",
+      "priceChangedAt": 1789594701293,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594705270,
+      "p": 427606,
+      "id": "20093055",
+      "sequence": "20093055",
+      "sourceTime": "1789594705270",
+      "priceChangedAt": 1789594701293,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594707269,
+      "p": 427606,
+      "id": "20093056",
+      "sequence": "20093056",
+      "sourceTime": "1789594707269",
+      "priceChangedAt": 1789594701293,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594709291,
+      "p": 427606,
+      "id": "20093057",
+      "sequence": "20093057",
+      "sourceTime": "1789594709291",
+      "priceChangedAt": 1789594701293,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594713269,
+      "p": 427606,
+      "id": "20093058",
+      "sequence": "20093058",
+      "sourceTime": "1789594713269",
+      "priceChangedAt": 1789594701293,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594715291,
+      "p": 427606,
+      "id": "20093059",
+      "sequence": "20093059",
+      "sourceTime": "1789594715291",
+      "priceChangedAt": 1789594701293,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594716419,
+      "p": 427606,
+      "id": "20093060",
+      "sequence": "20093060",
+      "sourceTime": "1789594716419",
+      "priceChangedAt": 1789594701293,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594716419,
+      "p": 427606,
+      "id": "20093061",
+      "sequence": "20093061",
+      "sourceTime": "1789594716419",
+      "priceChangedAt": 1789594701293,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594717269,
+      "p": 427648,
+      "id": "20093062",
+      "sequence": "20093062",
+      "sourceTime": "1789594717269",
+      "priceChangedAt": 1789594717269,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594719268,
+      "p": 427648,
+      "id": "20093063",
+      "sequence": "20093063",
+      "sourceTime": "1789594719268",
+      "priceChangedAt": 1789594717269,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594721269,
+      "p": 427648,
+      "id": "20093064",
+      "sequence": "20093064",
+      "sourceTime": "1789594721269",
+      "priceChangedAt": 1789594717269,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594723269,
+      "p": 427648,
+      "id": "20093065",
+      "sequence": "20093065",
+      "sourceTime": "1789594723269",
+      "priceChangedAt": 1789594717269,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594725269,
+      "p": 427647,
+      "id": "20093066",
+      "sequence": "20093066",
+      "sourceTime": "1789594725269",
+      "priceChangedAt": 1789594725269,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594729269,
+      "p": 427648,
+      "id": "20093067",
+      "sequence": "20093067",
+      "sourceTime": "1789594729269",
+      "priceChangedAt": 1789594729269,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594731269,
+      "p": 427647,
+      "id": "20093068",
+      "sequence": "20093068",
+      "sourceTime": "1789594731269",
+      "priceChangedAt": 1789594731269,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594733269,
+      "p": 427648,
+      "id": "20093069",
+      "sequence": "20093069",
+      "sourceTime": "1789594733269",
+      "priceChangedAt": 1789594733269,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594735269,
+      "p": 427648,
+      "id": "20093070",
+      "sequence": "20093070",
+      "sourceTime": "1789594735269",
+      "priceChangedAt": 1789594733269,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594737269,
+      "p": 427648,
+      "id": "20093071",
+      "sequence": "20093071",
+      "sourceTime": "1789594737269",
+      "priceChangedAt": 1789594733269,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594739269,
+      "p": 427647,
+      "id": "20093072",
+      "sequence": "20093072",
+      "sourceTime": "1789594739269",
+      "priceChangedAt": 1789594739269,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594745542,
+      "p": 427647,
+      "id": "20093073",
+      "sequence": "20093073",
+      "sourceTime": "1789594745542",
+      "priceChangedAt": 1789594739269,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594747543,
+      "p": 427648,
+      "id": "20093074",
+      "sequence": "20093074",
+      "sourceTime": "1789594747543",
+      "priceChangedAt": 1789594747543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594749542,
+      "p": 427647,
+      "id": "20093075",
+      "sequence": "20093075",
+      "sourceTime": "1789594749542",
+      "priceChangedAt": 1789594749542,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594751542,
+      "p": 427647,
+      "id": "20093076",
+      "sequence": "20093076",
+      "sourceTime": "1789594751542",
+      "priceChangedAt": 1789594749542,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594753542,
+      "p": 427647,
+      "id": "20093077",
+      "sequence": "20093077",
+      "sourceTime": "1789594753542",
+      "priceChangedAt": 1789594749542,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594757543,
+      "p": 427648,
+      "id": "20093078",
+      "sequence": "20093078",
+      "sourceTime": "1789594757543",
+      "priceChangedAt": 1789594757543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594759543,
+      "p": 427647,
+      "id": "20093079",
+      "sequence": "20093079",
+      "sourceTime": "1789594759543",
+      "priceChangedAt": 1789594759543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594761543,
+      "p": 427647,
+      "id": "20093080",
+      "sequence": "20093080",
+      "sourceTime": "1789594761543",
+      "priceChangedAt": 1789594759543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594763543,
+      "p": 427647,
+      "id": "20093081",
+      "sequence": "20093081",
+      "sourceTime": "1789594763543",
+      "priceChangedAt": 1789594759543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594765543,
+      "p": 427648,
+      "id": "20093082",
+      "sequence": "20093082",
+      "sourceTime": "1789594765543",
+      "priceChangedAt": 1789594765543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594767543,
+      "p": 427647,
+      "id": "20093083",
+      "sequence": "20093083",
+      "sourceTime": "1789594767543",
+      "priceChangedAt": 1789594767543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594769543,
+      "p": 427647,
+      "id": "20093084",
+      "sequence": "20093084",
+      "sourceTime": "1789594769543",
+      "priceChangedAt": 1789594767543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594771543,
+      "p": 427647,
+      "id": "20093085",
+      "sequence": "20093085",
+      "sourceTime": "1789594771543",
+      "priceChangedAt": 1789594767543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594773542,
+      "p": 427648,
+      "id": "20093086",
+      "sequence": "20093086",
+      "sourceTime": "1789594773542",
+      "priceChangedAt": 1789594773542,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594775543,
+      "p": 427648,
+      "id": "20093087",
+      "sequence": "20093087",
+      "sourceTime": "1789594775543",
+      "priceChangedAt": 1789594773542,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594777543,
+      "p": 427647,
+      "id": "20093088",
+      "sequence": "20093088",
+      "sourceTime": "1789594777543",
+      "priceChangedAt": 1789594777543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594779543,
+      "p": 427648,
+      "id": "20093089",
+      "sequence": "20093089",
+      "sourceTime": "1789594779543",
+      "priceChangedAt": 1789594779543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594781543,
+      "p": 427648,
+      "id": "20093090",
+      "sequence": "20093090",
+      "sourceTime": "1789594781543",
+      "priceChangedAt": 1789594779543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594783543,
+      "p": 427647,
+      "id": "20093091",
+      "sequence": "20093091",
+      "sourceTime": "1789594783543",
+      "priceChangedAt": 1789594783543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594785542,
+      "p": 427647,
+      "id": "20093092",
+      "sequence": "20093092",
+      "sourceTime": "1789594785542",
+      "priceChangedAt": 1789594783543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594787543,
+      "p": 427647,
+      "id": "20093093",
+      "sequence": "20093093",
+      "sourceTime": "1789594787543",
+      "priceChangedAt": 1789594783543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594789543,
+      "p": 427647,
+      "id": "20093094",
+      "sequence": "20093094",
+      "sourceTime": "1789594789543",
+      "priceChangedAt": 1789594783543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594791542,
+      "p": 427648,
+      "id": "20093095",
+      "sequence": "20093095",
+      "sourceTime": "1789594791542",
+      "priceChangedAt": 1789594791542,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594792187,
+      "p": 427648,
+      "id": "20093096",
+      "sequence": "20093096",
+      "sourceTime": "1789594792187",
+      "priceChangedAt": 1789594791542,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594792187,
+      "p": 427648,
+      "id": "20093097",
+      "sequence": "20093097",
+      "sourceTime": "1789594792187",
+      "priceChangedAt": 1789594791542,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594795543,
+      "p": 427647,
+      "id": "20093098",
+      "sequence": "20093098",
+      "sourceTime": "1789594795543",
+      "priceChangedAt": 1789594795543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594797543,
+      "p": 427647,
+      "id": "20093099",
+      "sequence": "20093099",
+      "sourceTime": "1789594797543",
+      "priceChangedAt": 1789594795543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800127,
+      "p": 427647,
+      "id": "20093100",
+      "sequence": "20093100",
+      "sourceTime": "1789594800127",
+      "priceChangedAt": 1789594795543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800127,
+      "p": 427647,
+      "id": "20093101",
+      "sequence": "20093101",
+      "sourceTime": "1789594800127",
+      "priceChangedAt": 1789594795543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800127,
+      "p": 427647,
+      "id": "20093102",
+      "sequence": "20093102",
+      "sourceTime": "1789594800127",
+      "priceChangedAt": 1789594795543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800127,
+      "p": 427647,
+      "id": "20093103",
+      "sequence": "20093103",
+      "sourceTime": "1789594800127",
+      "priceChangedAt": 1789594795543,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800127,
+      "p": 427639,
+      "id": "20093104",
+      "sequence": "20093104",
+      "sourceTime": "1789594800127",
+      "priceChangedAt": 1789594800127,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800127,
+      "p": 427630,
+      "id": "20093105",
+      "sequence": "20093105",
+      "sourceTime": "1789594800127",
+      "priceChangedAt": 1789594800127,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800127,
+      "p": 427606,
+      "id": "20093106",
+      "sequence": "20093106",
+      "sourceTime": "1789594800127",
+      "priceChangedAt": 1789594800127,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800127,
+      "p": 427606,
+      "id": "20093107",
+      "sequence": "20093107",
+      "sourceTime": "1789594800127",
+      "priceChangedAt": 1789594800127,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800127,
+      "p": 427583,
+      "id": "20093108",
+      "sequence": "20093108",
+      "sourceTime": "1789594800127",
+      "priceChangedAt": 1789594800127,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800127,
+      "p": 427579,
+      "id": "20093109",
+      "sequence": "20093109",
+      "sourceTime": "1789594800127",
+      "priceChangedAt": 1789594800127,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800127,
+      "p": 427579,
+      "id": "20093110",
+      "sequence": "20093110",
+      "sourceTime": "1789594800127",
+      "priceChangedAt": 1789594800127,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800127,
+      "p": 427578,
+      "id": "20093111",
+      "sequence": "20093111",
+      "sourceTime": "1789594800127",
+      "priceChangedAt": 1789594800127,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800320,
+      "p": 427647,
+      "id": "20093112",
+      "sequence": "20093112",
+      "sourceTime": "1789594800320",
+      "priceChangedAt": 1789594800320,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594801558,
+      "p": 427703,
+      "id": "20093113",
+      "sequence": "20093113",
+      "sourceTime": "1789594801558",
+      "priceChangedAt": 1789594801558,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594803559,
+      "p": 427703,
+      "id": "20093114",
+      "sequence": "20093114",
+      "sourceTime": "1789594803559",
+      "priceChangedAt": 1789594801558,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594809558,
+      "p": 427703,
+      "id": "20093115",
+      "sequence": "20093115",
+      "sourceTime": "1789594809558",
+      "priceChangedAt": 1789594801558,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594811560,
+      "p": 427703,
+      "id": "20093116",
+      "sequence": "20093116",
+      "sourceTime": "1789594811560",
+      "priceChangedAt": 1789594801558,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594815560,
+      "p": 427703,
+      "id": "20093117",
+      "sequence": "20093117",
+      "sourceTime": "1789594815560",
+      "priceChangedAt": 1789594801558,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594817559,
+      "p": 427703,
+      "id": "20093118",
+      "sequence": "20093118",
+      "sourceTime": "1789594817559",
+      "priceChangedAt": 1789594801558,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594819559,
+      "p": 427703,
+      "id": "20093119",
+      "sequence": "20093119",
+      "sourceTime": "1789594819559",
+      "priceChangedAt": 1789594801558,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594821558,
+      "p": 427703,
+      "id": "20093120",
+      "sequence": "20093120",
+      "sourceTime": "1789594821558",
+      "priceChangedAt": 1789594801558,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594825559,
+      "p": 427703,
+      "id": "20093121",
+      "sequence": "20093121",
+      "sourceTime": "1789594825559",
+      "priceChangedAt": 1789594801558,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594827559,
+      "p": 427703,
+      "id": "20093122",
+      "sequence": "20093122",
+      "sourceTime": "1789594827559",
+      "priceChangedAt": 1789594801558,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594830773,
+      "p": 427703,
+      "id": "20093123",
+      "sequence": "20093123",
+      "sourceTime": "1789594830773",
+      "priceChangedAt": 1789594801558,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594830873,
+      "p": 427691,
+      "id": "20093124",
+      "sequence": "20093124",
+      "sourceTime": "1789594830873",
+      "priceChangedAt": 1789594830873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594830873,
+      "p": 427691,
+      "id": "20093125",
+      "sequence": "20093125",
+      "sourceTime": "1789594830873",
+      "priceChangedAt": 1789594830873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594830873,
+      "p": 427691,
+      "id": "20093126",
+      "sequence": "20093126",
+      "sourceTime": "1789594830873",
+      "priceChangedAt": 1789594830873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594830873,
+      "p": 427691,
+      "id": "20093127",
+      "sequence": "20093127",
+      "sourceTime": "1789594830873",
+      "priceChangedAt": 1789594830873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594831560,
+      "p": 427690,
+      "id": "20093128",
+      "sequence": "20093128",
+      "sourceTime": "1789594831560",
+      "priceChangedAt": 1789594831560,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594831873,
+      "p": 427691,
+      "id": "20093129",
+      "sequence": "20093129",
+      "sourceTime": "1789594831873",
+      "priceChangedAt": 1789594831873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594831873,
+      "p": 427691,
+      "id": "20093130",
+      "sequence": "20093130",
+      "sourceTime": "1789594831873",
+      "priceChangedAt": 1789594831873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594831873,
+      "p": 427691,
+      "id": "20093131",
+      "sequence": "20093131",
+      "sourceTime": "1789594831873",
+      "priceChangedAt": 1789594831873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594831873,
+      "p": 427691,
+      "id": "20093132",
+      "sequence": "20093132",
+      "sourceTime": "1789594831873",
+      "priceChangedAt": 1789594831873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594832873,
+      "p": 427696,
+      "id": "20093133",
+      "sequence": "20093133",
+      "sourceTime": "1789594832873",
+      "priceChangedAt": 1789594832873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594832873,
+      "p": 427696,
+      "id": "20093134",
+      "sequence": "20093134",
+      "sourceTime": "1789594832873",
+      "priceChangedAt": 1789594832873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594832873,
+      "p": 427696,
+      "id": "20093135",
+      "sequence": "20093135",
+      "sourceTime": "1789594832873",
+      "priceChangedAt": 1789594832873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594833559,
+      "p": 427697,
+      "id": "20093136",
+      "sequence": "20093136",
+      "sourceTime": "1789594833559",
+      "priceChangedAt": 1789594833559,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594834873,
+      "p": 427702,
+      "id": "20093137",
+      "sequence": "20093137",
+      "sourceTime": "1789594834873",
+      "priceChangedAt": 1789594834873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594834873,
+      "p": 427702,
+      "id": "20093138",
+      "sequence": "20093138",
+      "sourceTime": "1789594834873",
+      "priceChangedAt": 1789594834873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594835559,
+      "p": 427703,
+      "id": "20093139",
+      "sequence": "20093139",
+      "sourceTime": "1789594835559",
+      "priceChangedAt": 1789594835559,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594835873,
+      "p": 427704,
+      "id": "20093140",
+      "sequence": "20093140",
+      "sourceTime": "1789594835873",
+      "priceChangedAt": 1789594835873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594836873,
+      "p": 427704,
+      "id": "20093141",
+      "sequence": "20093141",
+      "sourceTime": "1789594836873",
+      "priceChangedAt": 1789594835873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594836873,
+      "p": 427704,
+      "id": "20093142",
+      "sequence": "20093142",
+      "sourceTime": "1789594836873",
+      "priceChangedAt": 1789594835873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594839559,
+      "p": 427706,
+      "id": "20093143",
+      "sequence": "20093143",
+      "sourceTime": "1789594839559",
+      "priceChangedAt": 1789594839559,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594840873,
+      "p": 427710,
+      "id": "20093144",
+      "sequence": "20093144",
+      "sourceTime": "1789594840873",
+      "priceChangedAt": 1789594840873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594841873,
+      "p": 427710,
+      "id": "20093145",
+      "sequence": "20093145",
+      "sourceTime": "1789594841873",
+      "priceChangedAt": 1789594840873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594843873,
+      "p": 427725,
+      "id": "20093146",
+      "sequence": "20093146",
+      "sourceTime": "1789594843873",
+      "priceChangedAt": 1789594843873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594844876,
+      "p": 427732,
+      "id": "20093147",
+      "sequence": "20093147",
+      "sourceTime": "1789594844876",
+      "priceChangedAt": 1789594844876,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594845561,
+      "p": 427736,
+      "id": "20093148",
+      "sequence": "20093148",
+      "sourceTime": "1789594845561",
+      "priceChangedAt": 1789594845561,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594846873,
+      "p": 427738,
+      "id": "20093149",
+      "sequence": "20093149",
+      "sourceTime": "1789594846873",
+      "priceChangedAt": 1789594846873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594847559,
+      "p": 427740,
+      "id": "20093150",
+      "sequence": "20093150",
+      "sourceTime": "1789594847559",
+      "priceChangedAt": 1789594847559,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594847874,
+      "p": 427741,
+      "id": "20093151",
+      "sequence": "20093151",
+      "sourceTime": "1789594847874",
+      "priceChangedAt": 1789594847874,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594848874,
+      "p": 427738,
+      "id": "20093152",
+      "sequence": "20093152",
+      "sourceTime": "1789594848874",
+      "priceChangedAt": 1789594848874,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594848874,
+      "p": 427738,
+      "id": "20093153",
+      "sequence": "20093153",
+      "sourceTime": "1789594848874",
+      "priceChangedAt": 1789594848874,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594849876,
+      "p": 427743,
+      "id": "20093154",
+      "sequence": "20093154",
+      "sourceTime": "1789594849876",
+      "priceChangedAt": 1789594849876,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594850873,
+      "p": 427738,
+      "id": "20093155",
+      "sequence": "20093155",
+      "sourceTime": "1789594850873",
+      "priceChangedAt": 1789594850873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594851873,
+      "p": 427738,
+      "id": "20093156",
+      "sequence": "20093156",
+      "sourceTime": "1789594851873",
+      "priceChangedAt": 1789594850873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594852873,
+      "p": 427742,
+      "id": "20093157",
+      "sequence": "20093157",
+      "sourceTime": "1789594852873",
+      "priceChangedAt": 1789594852873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594853558,
+      "p": 427742,
+      "id": "20093158",
+      "sequence": "20093158",
+      "sourceTime": "1789594853558",
+      "priceChangedAt": 1789594852873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594853873,
+      "p": 427743,
+      "id": "20093159",
+      "sequence": "20093159",
+      "sourceTime": "1789594853873",
+      "priceChangedAt": 1789594853873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594855559,
+      "p": 427744,
+      "id": "20093160",
+      "sequence": "20093160",
+      "sourceTime": "1789594855559",
+      "priceChangedAt": 1789594855559,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594855874,
+      "p": 427744,
+      "id": "20093161",
+      "sequence": "20093161",
+      "sourceTime": "1789594855874",
+      "priceChangedAt": 1789594855559,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594856873,
+      "p": 427745,
+      "id": "20093162",
+      "sequence": "20093162",
+      "sourceTime": "1789594856873",
+      "priceChangedAt": 1789594856873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594857560,
+      "p": 427745,
+      "id": "20093163",
+      "sequence": "20093163",
+      "sourceTime": "1789594857560",
+      "priceChangedAt": 1789594856873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594857873,
+      "p": 427745,
+      "id": "20093164",
+      "sequence": "20093164",
+      "sourceTime": "1789594857873",
+      "priceChangedAt": 1789594856873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594857873,
+      "p": 427745,
+      "id": "20093165",
+      "sequence": "20093165",
+      "sourceTime": "1789594857873",
+      "priceChangedAt": 1789594856873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594858873,
+      "p": 427745,
+      "id": "20093166",
+      "sequence": "20093166",
+      "sourceTime": "1789594858873",
+      "priceChangedAt": 1789594856873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594859558,
+      "p": 427752,
+      "id": "20093167",
+      "sequence": "20093167",
+      "sourceTime": "1789594859558",
+      "priceChangedAt": 1789594859558,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594859873,
+      "p": 427753,
+      "id": "20093168",
+      "sequence": "20093168",
+      "sourceTime": "1789594859873",
+      "priceChangedAt": 1789594859873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594860873,
+      "p": 427747,
+      "id": "20093169",
+      "sequence": "20093169",
+      "sourceTime": "1789594860873",
+      "priceChangedAt": 1789594860873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594861193,
+      "p": 427746,
+      "id": "20093170",
+      "sequence": "20093170",
+      "sourceTime": "1789594861193",
+      "priceChangedAt": 1789594861193,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594861873,
+      "p": 427747,
+      "id": "20093171",
+      "sequence": "20093171",
+      "sourceTime": "1789594861873",
+      "priceChangedAt": 1789594861873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594861873,
+      "p": 427747,
+      "id": "20093172",
+      "sequence": "20093172",
+      "sourceTime": "1789594861873",
+      "priceChangedAt": 1789594861873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594863193,
+      "p": 427748,
+      "id": "20093173",
+      "sequence": "20093173",
+      "sourceTime": "1789594863193",
+      "priceChangedAt": 1789594863193,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594863873,
+      "p": 427748,
+      "id": "20093174",
+      "sequence": "20093174",
+      "sourceTime": "1789594863873",
+      "priceChangedAt": 1789594863193,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594863875,
+      "p": 427749,
+      "id": "20093175",
+      "sequence": "20093175",
+      "sourceTime": "1789594863875",
+      "priceChangedAt": 1789594863875,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594863876,
+      "p": 427754,
+      "id": "20093176",
+      "sequence": "20093176",
+      "sourceTime": "1789594863876",
+      "priceChangedAt": 1789594863876,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594863877,
+      "p": 427756,
+      "id": "20093177",
+      "sequence": "20093177",
+      "sourceTime": "1789594863877",
+      "priceChangedAt": 1789594863877,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594864908,
+      "p": 427755,
+      "id": "20093178",
+      "sequence": "20093178",
+      "sourceTime": "1789594864908",
+      "priceChangedAt": 1789594864908,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594865193,
+      "p": 427756,
+      "id": "20093179",
+      "sequence": "20093179",
+      "sourceTime": "1789594865193",
+      "priceChangedAt": 1789594865193,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594865877,
+      "p": 427756,
+      "id": "20093180",
+      "sequence": "20093180",
+      "sourceTime": "1789594865877",
+      "priceChangedAt": 1789594865193,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594865877,
+      "p": 427756,
+      "id": "20093181",
+      "sequence": "20093181",
+      "sourceTime": "1789594865877",
+      "priceChangedAt": 1789594865193,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594866873,
+      "p": 427758,
+      "id": "20093182",
+      "sequence": "20093182",
+      "sourceTime": "1789594866873",
+      "priceChangedAt": 1789594866873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594867195,
+      "p": 427761,
+      "id": "20093183",
+      "sequence": "20093183",
+      "sourceTime": "1789594867195",
+      "priceChangedAt": 1789594867195,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594867873,
+      "p": 427762,
+      "id": "20093184",
+      "sequence": "20093184",
+      "sourceTime": "1789594867873",
+      "priceChangedAt": 1789594867873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594868873,
+      "p": 427759,
+      "id": "20093185",
+      "sequence": "20093185",
+      "sourceTime": "1789594868873",
+      "priceChangedAt": 1789594868873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594869193,
+      "p": 427758,
+      "id": "20093186",
+      "sequence": "20093186",
+      "sourceTime": "1789594869193",
+      "priceChangedAt": 1789594869193,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594869873,
+      "p": 427759,
+      "id": "20093187",
+      "sequence": "20093187",
+      "sourceTime": "1789594869873",
+      "priceChangedAt": 1789594869873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594869873,
+      "p": 427759,
+      "id": "20093188",
+      "sequence": "20093188",
+      "sourceTime": "1789594869873",
+      "priceChangedAt": 1789594869873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594870873,
+      "p": 427759,
+      "id": "20093189",
+      "sequence": "20093189",
+      "sourceTime": "1789594870873",
+      "priceChangedAt": 1789594869873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594871196,
+      "p": 427758,
+      "id": "20093190",
+      "sequence": "20093190",
+      "sourceTime": "1789594871196",
+      "priceChangedAt": 1789594871196,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594871873,
+      "p": 427759,
+      "id": "20093191",
+      "sequence": "20093191",
+      "sourceTime": "1789594871873",
+      "priceChangedAt": 1789594871873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594871873,
+      "p": 427759,
+      "id": "20093192",
+      "sequence": "20093192",
+      "sourceTime": "1789594871873",
+      "priceChangedAt": 1789594871873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594872873,
+      "p": 427763,
+      "id": "20093193",
+      "sequence": "20093193",
+      "sourceTime": "1789594872873",
+      "priceChangedAt": 1789594872873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594873192,
+      "p": 427758,
+      "id": "20093194",
+      "sequence": "20093194",
+      "sourceTime": "1789594873192",
+      "priceChangedAt": 1789594873192,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594873873,
+      "p": 427759,
+      "id": "20093195",
+      "sequence": "20093195",
+      "sourceTime": "1789594873873",
+      "priceChangedAt": 1789594873873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594875193,
+      "p": 427759,
+      "id": "20093196",
+      "sequence": "20093196",
+      "sourceTime": "1789594875193",
+      "priceChangedAt": 1789594873873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594876873,
+      "p": 427764,
+      "id": "20093197",
+      "sequence": "20093197",
+      "sourceTime": "1789594876873",
+      "priceChangedAt": 1789594876873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594876873,
+      "p": 427764,
+      "id": "20093198",
+      "sequence": "20093198",
+      "sourceTime": "1789594876873",
+      "priceChangedAt": 1789594876873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594877193,
+      "p": 427767,
+      "id": "20093199",
+      "sequence": "20093199",
+      "sourceTime": "1789594877193",
+      "priceChangedAt": 1789594877193,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594877873,
+      "p": 427768,
+      "id": "20093200",
+      "sequence": "20093200",
+      "sourceTime": "1789594877873",
+      "priceChangedAt": 1789594877873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594877873,
+      "p": 427768,
+      "id": "20093201",
+      "sequence": "20093201",
+      "sourceTime": "1789594877873",
+      "priceChangedAt": 1789594877873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594878873,
+      "p": 427768,
+      "id": "20093202",
+      "sequence": "20093202",
+      "sourceTime": "1789594878873",
+      "priceChangedAt": 1789594877873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594878873,
+      "p": 427768,
+      "id": "20093203",
+      "sequence": "20093203",
+      "sourceTime": "1789594878873",
+      "priceChangedAt": 1789594877873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594878873,
+      "p": 427768,
+      "id": "20093204",
+      "sequence": "20093204",
+      "sourceTime": "1789594878873",
+      "priceChangedAt": 1789594877873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594879198,
+      "p": 427769,
+      "id": "20093205",
+      "sequence": "20093205",
+      "sourceTime": "1789594879198",
+      "priceChangedAt": 1789594879198,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594879873,
+      "p": 427770,
+      "id": "20093206",
+      "sequence": "20093206",
+      "sourceTime": "1789594879873",
+      "priceChangedAt": 1789594879873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594880873,
+      "p": 427770,
+      "id": "20093207",
+      "sequence": "20093207",
+      "sourceTime": "1789594880873",
+      "priceChangedAt": 1789594879873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594881192,
+      "p": 427769,
+      "id": "20093208",
+      "sequence": "20093208",
+      "sourceTime": "1789594881192",
+      "priceChangedAt": 1789594881192,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594881873,
+      "p": 427770,
+      "id": "20093209",
+      "sequence": "20093209",
+      "sourceTime": "1789594881873",
+      "priceChangedAt": 1789594881873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594882873,
+      "p": 427770,
+      "id": "20093210",
+      "sequence": "20093210",
+      "sourceTime": "1789594882873",
+      "priceChangedAt": 1789594881873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594883193,
+      "p": 427783,
+      "id": "20093211",
+      "sequence": "20093211",
+      "sourceTime": "1789594883193",
+      "priceChangedAt": 1789594883193,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594884873,
+      "p": 427785,
+      "id": "20093212",
+      "sequence": "20093212",
+      "sourceTime": "1789594884873",
+      "priceChangedAt": 1789594884873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594885194,
+      "p": 427785,
+      "id": "20093213",
+      "sequence": "20093213",
+      "sourceTime": "1789594885194",
+      "priceChangedAt": 1789594884873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594885873,
+      "p": 427786,
+      "id": "20093214",
+      "sequence": "20093214",
+      "sourceTime": "1789594885873",
+      "priceChangedAt": 1789594885873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594887873,
+      "p": 427787,
+      "id": "20093215",
+      "sequence": "20093215",
+      "sourceTime": "1789594887873",
+      "priceChangedAt": 1789594887873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594888873,
+      "p": 427789,
+      "id": "20093216",
+      "sequence": "20093216",
+      "sourceTime": "1789594888873",
+      "priceChangedAt": 1789594888873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594889193,
+      "p": 427786,
+      "id": "20093217",
+      "sequence": "20093217",
+      "sourceTime": "1789594889193",
+      "priceChangedAt": 1789594889193,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594889873,
+      "p": 427818,
+      "id": "20093218",
+      "sequence": "20093218",
+      "sourceTime": "1789594889873",
+      "priceChangedAt": 1789594889873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594890873,
+      "p": 427787,
+      "id": "20093219",
+      "sequence": "20093219",
+      "sourceTime": "1789594890873",
+      "priceChangedAt": 1789594890873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594891193,
+      "p": 427787,
+      "id": "20093220",
+      "sequence": "20093220",
+      "sourceTime": "1789594891193",
+      "priceChangedAt": 1789594890873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594893193,
+      "p": 427787,
+      "id": "20093221",
+      "sequence": "20093221",
+      "sourceTime": "1789594893193",
+      "priceChangedAt": 1789594890873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594895193,
+      "p": 427786,
+      "id": "20093222",
+      "sequence": "20093222",
+      "sourceTime": "1789594895193",
+      "priceChangedAt": 1789594895193,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594897193,
+      "p": 427786,
+      "id": "20093223",
+      "sequence": "20093223",
+      "sourceTime": "1789594897193",
+      "priceChangedAt": 1789594895193,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594899193,
+      "p": 427786,
+      "id": "20093224",
+      "sequence": "20093224",
+      "sourceTime": "1789594899193",
+      "priceChangedAt": 1789594895193,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594901192,
+      "p": 427787,
+      "id": "20093225",
+      "sequence": "20093225",
+      "sourceTime": "1789594901192",
+      "priceChangedAt": 1789594901192,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594907059,
+      "p": 427786,
+      "id": "20093226",
+      "sequence": "20093226",
+      "sourceTime": "1789594907059",
+      "priceChangedAt": 1789594907059,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594907059,
+      "p": 427786,
+      "id": "20093227",
+      "sequence": "20093227",
+      "sourceTime": "1789594907059",
+      "priceChangedAt": 1789594907059,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594920463,
+      "p": 427786,
+      "id": "20093228",
+      "sequence": "20093228",
+      "sourceTime": "1789594920463",
+      "priceChangedAt": 1789594907059,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594920463,
+      "p": 427780,
+      "id": "20093229",
+      "sequence": "20093229",
+      "sourceTime": "1789594920463",
+      "priceChangedAt": 1789594920463,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594925445,
+      "p": 427786,
+      "id": "20093230",
+      "sequence": "20093230",
+      "sourceTime": "1789594925445",
+      "priceChangedAt": 1789594925445,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594931445,
+      "p": 427786,
+      "id": "20093231",
+      "sequence": "20093231",
+      "sourceTime": "1789594931445",
+      "priceChangedAt": 1789594925445,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594933445,
+      "p": 427786,
+      "id": "20093232",
+      "sequence": "20093232",
+      "sourceTime": "1789594933445",
+      "priceChangedAt": 1789594925445,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594935445,
+      "p": 427786,
+      "id": "20093233",
+      "sequence": "20093233",
+      "sourceTime": "1789594935445",
+      "priceChangedAt": 1789594925445,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594937445,
+      "p": 427786,
+      "id": "20093234",
+      "sequence": "20093234",
+      "sourceTime": "1789594937445",
+      "priceChangedAt": 1789594925445,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594939445,
+      "p": 427786,
+      "id": "20093235",
+      "sequence": "20093235",
+      "sourceTime": "1789594939445",
+      "priceChangedAt": 1789594925445,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594941445,
+      "p": 427786,
+      "id": "20093236",
+      "sequence": "20093236",
+      "sourceTime": "1789594941445",
+      "priceChangedAt": 1789594925445,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594943445,
+      "p": 427786,
+      "id": "20093237",
+      "sequence": "20093237",
+      "sourceTime": "1789594943445",
+      "priceChangedAt": 1789594925445,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594945445,
+      "p": 427786,
+      "id": "20093238",
+      "sequence": "20093238",
+      "sourceTime": "1789594945445",
+      "priceChangedAt": 1789594925445,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594951447,
+      "p": 427786,
+      "id": "20093239",
+      "sequence": "20093239",
+      "sourceTime": "1789594951447",
+      "priceChangedAt": 1789594925445,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594952367,
+      "p": 427786,
+      "id": "20093240",
+      "sequence": "20093240",
+      "sourceTime": "1789594952367",
+      "priceChangedAt": 1789594925445,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594952367,
+      "p": 427786,
+      "id": "20093241",
+      "sequence": "20093241",
+      "sourceTime": "1789594952367",
+      "priceChangedAt": 1789594925445,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594952367,
+      "p": 427786,
+      "id": "20093242",
+      "sequence": "20093242",
+      "sourceTime": "1789594952367",
+      "priceChangedAt": 1789594925445,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594953447,
+      "p": 427780,
+      "id": "20093243",
+      "sequence": "20093243",
+      "sourceTime": "1789594953447",
+      "priceChangedAt": 1789594953447,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594955445,
+      "p": 427780,
+      "id": "20093244",
+      "sequence": "20093244",
+      "sourceTime": "1789594955445",
+      "priceChangedAt": 1789594953447,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594957445,
+      "p": 427780,
+      "id": "20093245",
+      "sequence": "20093245",
+      "sourceTime": "1789594957445",
+      "priceChangedAt": 1789594953447,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594958937,
+      "p": 427781,
+      "id": "20093246",
+      "sequence": "20093246",
+      "sourceTime": "1789594958937",
+      "priceChangedAt": 1789594958937,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594958937,
+      "p": 427781,
+      "id": "20093247",
+      "sequence": "20093247",
+      "sourceTime": "1789594958937",
+      "priceChangedAt": 1789594958937,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594958937,
+      "p": 427781,
+      "id": "20093248",
+      "sequence": "20093248",
+      "sourceTime": "1789594958937",
+      "priceChangedAt": 1789594958937,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594958937,
+      "p": 427781,
+      "id": "20093249",
+      "sequence": "20093249",
+      "sourceTime": "1789594958937",
+      "priceChangedAt": 1789594958937,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594958937,
+      "p": 427781,
+      "id": "20093250",
+      "sequence": "20093250",
+      "sourceTime": "1789594958937",
+      "priceChangedAt": 1789594958937,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594958937,
+      "p": 427781,
+      "id": "20093251",
+      "sequence": "20093251",
+      "sourceTime": "1789594958937",
+      "priceChangedAt": 1789594958937,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594958937,
+      "p": 427781,
+      "id": "20093252",
+      "sequence": "20093252",
+      "sourceTime": "1789594958937",
+      "priceChangedAt": 1789594958937,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594961446,
+      "p": 427784,
+      "id": "20093253",
+      "sequence": "20093253",
+      "sourceTime": "1789594961446",
+      "priceChangedAt": 1789594961446,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594963446,
+      "p": 427784,
+      "id": "20093254",
+      "sequence": "20093254",
+      "sourceTime": "1789594963446",
+      "priceChangedAt": 1789594961446,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594964837,
+      "p": 427785,
+      "id": "20093255",
+      "sequence": "20093255",
+      "sourceTime": "1789594964837",
+      "priceChangedAt": 1789594964837,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594965321,
+      "p": 427785,
+      "id": "20093256",
+      "sequence": "20093256",
+      "sourceTime": "1789594965321",
+      "priceChangedAt": 1789594964837,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594965446,
+      "p": 427784,
+      "id": "20093257",
+      "sequence": "20093257",
+      "sourceTime": "1789594965446",
+      "priceChangedAt": 1789594965446,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594967446,
+      "p": 427784,
+      "id": "20093258",
+      "sequence": "20093258",
+      "sourceTime": "1789594967446",
+      "priceChangedAt": 1789594965446,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594969446,
+      "p": 427784,
+      "id": "20093259",
+      "sequence": "20093259",
+      "sourceTime": "1789594969446",
+      "priceChangedAt": 1789594965446,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594971447,
+      "p": 427784,
+      "id": "20093260",
+      "sequence": "20093260",
+      "sourceTime": "1789594971447",
+      "priceChangedAt": 1789594965446,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594973824,
+      "p": 427784,
+      "id": "20093261",
+      "sequence": "20093261",
+      "sourceTime": "1789594973824",
+      "priceChangedAt": 1789594965446,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594973824,
+      "p": 427784,
+      "id": "20093262",
+      "sequence": "20093262",
+      "sourceTime": "1789594973824",
+      "priceChangedAt": 1789594965446,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594973824,
+      "p": 427784,
+      "id": "20093263",
+      "sequence": "20093263",
+      "sourceTime": "1789594973824",
+      "priceChangedAt": 1789594965446,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594975472,
+      "p": 427785,
+      "id": "20093264",
+      "sequence": "20093264",
+      "sourceTime": "1789594975472",
+      "priceChangedAt": 1789594975472,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594977471,
+      "p": 427785,
+      "id": "20093265",
+      "sequence": "20093265",
+      "sourceTime": "1789594977471",
+      "priceChangedAt": 1789594975472,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594978683,
+      "p": 427784,
+      "id": "20093266",
+      "sequence": "20093266",
+      "sourceTime": "1789594978683",
+      "priceChangedAt": 1789594978683,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594979474,
+      "p": 427785,
+      "id": "20093267",
+      "sequence": "20093267",
+      "sourceTime": "1789594979474",
+      "priceChangedAt": 1789594979474,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594981485,
+      "p": 427785,
+      "id": "20093268",
+      "sequence": "20093268",
+      "sourceTime": "1789594981485",
+      "priceChangedAt": 1789594979474,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594983483,
+      "p": 427785,
+      "id": "20093269",
+      "sequence": "20093269",
+      "sourceTime": "1789594983483",
+      "priceChangedAt": 1789594979474,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594985483,
+      "p": 427785,
+      "id": "20093270",
+      "sequence": "20093270",
+      "sourceTime": "1789594985483",
+      "priceChangedAt": 1789594979474,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594986489,
+      "p": 427785,
+      "id": "20093271",
+      "sequence": "20093271",
+      "sourceTime": "1789594986489",
+      "priceChangedAt": 1789594979474,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594997649,
+      "p": 427784,
+      "id": "20093272",
+      "sequence": "20093272",
+      "sourceTime": "1789594997649",
+      "priceChangedAt": 1789594997649,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594997649,
+      "p": 427784,
+      "id": "20093273",
+      "sequence": "20093273",
+      "sourceTime": "1789594997649",
+      "priceChangedAt": 1789594997649,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594997649,
+      "p": 427784,
+      "id": "20093274",
+      "sequence": "20093274",
+      "sourceTime": "1789594997649",
+      "priceChangedAt": 1789594997649,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594997823,
+      "p": 427766,
+      "id": "20093275",
+      "sequence": "20093275",
+      "sourceTime": "1789594997823",
+      "priceChangedAt": 1789594997823,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594997827,
+      "p": 427767,
+      "id": "20093276",
+      "sequence": "20093276",
+      "sourceTime": "1789594997827",
+      "priceChangedAt": 1789594997827,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594999459,
+      "p": 427766,
+      "id": "20093277",
+      "sequence": "20093277",
+      "sourceTime": "1789594999459",
+      "priceChangedAt": 1789594999459,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595001458,
+      "p": 427767,
+      "id": "20093278",
+      "sequence": "20093278",
+      "sourceTime": "1789595001458",
+      "priceChangedAt": 1789595001458,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595007467,
+      "p": 427766,
+      "id": "20093279",
+      "sequence": "20093279",
+      "sourceTime": "1789595007467",
+      "priceChangedAt": 1789595007467,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595008353,
+      "p": 427767,
+      "id": "20093280",
+      "sequence": "20093280",
+      "sourceTime": "1789595008353",
+      "priceChangedAt": 1789595008353,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595008353,
+      "p": 427767,
+      "id": "20093281",
+      "sequence": "20093281",
+      "sourceTime": "1789595008353",
+      "priceChangedAt": 1789595008353,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595008353,
+      "p": 427767,
+      "id": "20093282",
+      "sequence": "20093282",
+      "sourceTime": "1789595008353",
+      "priceChangedAt": 1789595008353,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595009458,
+      "p": 427766,
+      "id": "20093283",
+      "sequence": "20093283",
+      "sourceTime": "1789595009458",
+      "priceChangedAt": 1789595009458,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595011483,
+      "p": 427766,
+      "id": "20093284",
+      "sequence": "20093284",
+      "sourceTime": "1789595011483",
+      "priceChangedAt": 1789595009458,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595015458,
+      "p": 427766,
+      "id": "20093285",
+      "sequence": "20093285",
+      "sourceTime": "1789595015458",
+      "priceChangedAt": 1789595009458,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595017484,
+      "p": 427766,
+      "id": "20093286",
+      "sequence": "20093286",
+      "sourceTime": "1789595017484",
+      "priceChangedAt": 1789595009458,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595019459,
+      "p": 427766,
+      "id": "20093287",
+      "sequence": "20093287",
+      "sourceTime": "1789595019459",
+      "priceChangedAt": 1789595009458,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595023484,
+      "p": 427766,
+      "id": "20093288",
+      "sequence": "20093288",
+      "sourceTime": "1789595023484",
+      "priceChangedAt": 1789595009458,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027457,
+      "p": 427766,
+      "id": "20093289",
+      "sequence": "20093289",
+      "sourceTime": "1789595027457",
+      "priceChangedAt": 1789595009458,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595029483,
+      "p": 427766,
+      "id": "20093290",
+      "sequence": "20093290",
+      "sourceTime": "1789595029483",
+      "priceChangedAt": 1789595009458,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595030140,
+      "p": 427767,
+      "id": "20093291",
+      "sequence": "20093291",
+      "sourceTime": "1789595030140",
+      "priceChangedAt": 1789595030140,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595030140,
+      "p": 427767,
+      "id": "20093292",
+      "sequence": "20093292",
+      "sourceTime": "1789595030140",
+      "priceChangedAt": 1789595030140,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595031458,
+      "p": 427800,
+      "id": "20093293",
+      "sequence": "20093293",
+      "sourceTime": "1789595031458",
+      "priceChangedAt": 1789595031458,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033459,
+      "p": 427799,
+      "id": "20093294",
+      "sequence": "20093294",
+      "sourceTime": "1789595033459",
+      "priceChangedAt": 1789595033459,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033731,
+      "p": 427799,
+      "id": "20093295",
+      "sequence": "20093295",
+      "sourceTime": "1789595033731",
+      "priceChangedAt": 1789595033459,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033731,
+      "p": 427794,
+      "id": "20093296",
+      "sequence": "20093296",
+      "sourceTime": "1789595033731",
+      "priceChangedAt": 1789595033731,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033733,
+      "p": 427799,
+      "id": "20093297",
+      "sequence": "20093297",
+      "sourceTime": "1789595033733",
+      "priceChangedAt": 1789595033733,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033733,
+      "p": 427799,
+      "id": "20093298",
+      "sequence": "20093298",
+      "sourceTime": "1789595033733",
+      "priceChangedAt": 1789595033733,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033733,
+      "p": 427738,
+      "id": "20093299",
+      "sequence": "20093299",
+      "sourceTime": "1789595033733",
+      "priceChangedAt": 1789595033733,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033733,
+      "p": 427737,
+      "id": "20093300",
+      "sequence": "20093300",
+      "sourceTime": "1789595033733",
+      "priceChangedAt": 1789595033733,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595036969,
+      "p": 427853,
+      "id": "20093301",
+      "sequence": "20093301",
+      "sourceTime": "1789595036969",
+      "priceChangedAt": 1789595036969,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595037146,
+      "p": 427872,
+      "id": "20093302",
+      "sequence": "20093302",
+      "sourceTime": "1789595037146",
+      "priceChangedAt": 1789595037146,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595037146,
+      "p": 427872,
+      "id": "20093303",
+      "sequence": "20093303",
+      "sourceTime": "1789595037146",
+      "priceChangedAt": 1789595037146,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595037146,
+      "p": 427880,
+      "id": "20093304",
+      "sequence": "20093304",
+      "sourceTime": "1789595037146",
+      "priceChangedAt": 1789595037146,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595037146,
+      "p": 427885,
+      "id": "20093305",
+      "sequence": "20093305",
+      "sourceTime": "1789595037146",
+      "priceChangedAt": 1789595037146,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595037146,
+      "p": 427891,
+      "id": "20093306",
+      "sequence": "20093306",
+      "sourceTime": "1789595037146",
+      "priceChangedAt": 1789595037146,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595037146,
+      "p": 427892,
+      "id": "20093307",
+      "sequence": "20093307",
+      "sourceTime": "1789595037146",
+      "priceChangedAt": 1789595037146,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595037146,
+      "p": 427900,
+      "id": "20093308",
+      "sequence": "20093308",
+      "sourceTime": "1789595037146",
+      "priceChangedAt": 1789595037146,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595037154,
+      "p": 427892,
+      "id": "20093309",
+      "sequence": "20093309",
+      "sourceTime": "1789595037154",
+      "priceChangedAt": 1789595037154,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595037458,
+      "p": 427872,
+      "id": "20093310",
+      "sequence": "20093310",
+      "sourceTime": "1789595037458",
+      "priceChangedAt": 1789595037458,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595037528,
+      "p": 427873,
+      "id": "20093311",
+      "sequence": "20093311",
+      "sourceTime": "1789595037528",
+      "priceChangedAt": 1789595037528,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595037573,
+      "p": 427925,
+      "id": "20093312",
+      "sequence": "20093312",
+      "sourceTime": "1789595037573",
+      "priceChangedAt": 1789595037573,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595038301,
+      "p": 427895,
+      "id": "20093313",
+      "sequence": "20093313",
+      "sourceTime": "1789595038301",
+      "priceChangedAt": 1789595038301,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595038303,
+      "p": 427926,
+      "id": "20093314",
+      "sequence": "20093314",
+      "sourceTime": "1789595038303",
+      "priceChangedAt": 1789595038303,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595039458,
+      "p": 427926,
+      "id": "20093315",
+      "sequence": "20093315",
+      "sourceTime": "1789595039458",
+      "priceChangedAt": 1789595038303,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595041605,
+      "p": 427927,
+      "id": "20093316",
+      "sequence": "20093316",
+      "sourceTime": "1789595041605",
+      "priceChangedAt": 1789595041605,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595041729,
+      "p": 427927,
+      "id": "20093317",
+      "sequence": "20093317",
+      "sourceTime": "1789595041729",
+      "priceChangedAt": 1789595041605,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595041729,
+      "p": 427927,
+      "id": "20093318",
+      "sequence": "20093318",
+      "sourceTime": "1789595041729",
+      "priceChangedAt": 1789595041605,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595041731,
+      "p": 427927,
+      "id": "20093319",
+      "sequence": "20093319",
+      "sourceTime": "1789595041731",
+      "priceChangedAt": 1789595041605,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595041731,
+      "p": 427927,
+      "id": "20093320",
+      "sequence": "20093320",
+      "sourceTime": "1789595041731",
+      "priceChangedAt": 1789595041605,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595041731,
+      "p": 427928,
+      "id": "20093321",
+      "sequence": "20093321",
+      "sourceTime": "1789595041731",
+      "priceChangedAt": 1789595041731,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595041731,
+      "p": 427928,
+      "id": "20093322",
+      "sequence": "20093322",
+      "sourceTime": "1789595041731",
+      "priceChangedAt": 1789595041731,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595043584,
+      "p": 427933,
+      "id": "20093323",
+      "sequence": "20093323",
+      "sourceTime": "1789595043584",
+      "priceChangedAt": 1789595043584,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595045582,
+      "p": 427933,
+      "id": "20093324",
+      "sequence": "20093324",
+      "sourceTime": "1789595045582",
+      "priceChangedAt": 1789595043584,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595047586,
+      "p": 427933,
+      "id": "20093325",
+      "sequence": "20093325",
+      "sourceTime": "1789595047586",
+      "priceChangedAt": 1789595043584,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595049608,
+      "p": 427933,
+      "id": "20093326",
+      "sequence": "20093326",
+      "sourceTime": "1789595049608",
+      "priceChangedAt": 1789595043584,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595051608,
+      "p": 427933,
+      "id": "20093327",
+      "sequence": "20093327",
+      "sourceTime": "1789595051608",
+      "priceChangedAt": 1789595043584,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595053583,
+      "p": 427933,
+      "id": "20093328",
+      "sequence": "20093328",
+      "sourceTime": "1789595053583",
+      "priceChangedAt": 1789595043584,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595055584,
+      "p": 427933,
+      "id": "20093329",
+      "sequence": "20093329",
+      "sourceTime": "1789595055584",
+      "priceChangedAt": 1789595043584,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595057584,
+      "p": 427933,
+      "id": "20093330",
+      "sequence": "20093330",
+      "sourceTime": "1789595057584",
+      "priceChangedAt": 1789595043584,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595059609,
+      "p": 427933,
+      "id": "20093331",
+      "sequence": "20093331",
+      "sourceTime": "1789595059609",
+      "priceChangedAt": 1789595043584,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595061583,
+      "p": 427933,
+      "id": "20093332",
+      "sequence": "20093332",
+      "sourceTime": "1789595061583",
+      "priceChangedAt": 1789595043584,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595065584,
+      "p": 427933,
+      "id": "20093333",
+      "sequence": "20093333",
+      "sourceTime": "1789595065584",
+      "priceChangedAt": 1789595043584,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595067609,
+      "p": 427933,
+      "id": "20093334",
+      "sequence": "20093334",
+      "sourceTime": "1789595067609",
+      "priceChangedAt": 1789595043584,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595073608,
+      "p": 427933,
+      "id": "20093335",
+      "sequence": "20093335",
+      "sourceTime": "1789595073608",
+      "priceChangedAt": 1789595043584,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595075608,
+      "p": 427933,
+      "id": "20093336",
+      "sequence": "20093336",
+      "sourceTime": "1789595075608",
+      "priceChangedAt": 1789595043584,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595076716,
+      "p": 427933,
+      "id": "20093337",
+      "sequence": "20093337",
+      "sourceTime": "1789595076716",
+      "priceChangedAt": 1789595043584,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595096722,
+      "p": 427932,
+      "id": "20093338",
+      "sequence": "20093338",
+      "sourceTime": "1789595096722",
+      "priceChangedAt": 1789595096722,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595096722,
+      "p": 427932,
+      "id": "20093339",
+      "sequence": "20093339",
+      "sourceTime": "1789595096722",
+      "priceChangedAt": 1789595096722,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595096723,
+      "p": 427929,
+      "id": "20093340",
+      "sequence": "20093340",
+      "sourceTime": "1789595096723",
+      "priceChangedAt": 1789595096723,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595096740,
+      "p": 427929,
+      "id": "20093341",
+      "sequence": "20093341",
+      "sourceTime": "1789595096740",
+      "priceChangedAt": 1789595096723,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595096747,
+      "p": 427894,
+      "id": "20093342",
+      "sequence": "20093342",
+      "sourceTime": "1789595096747",
+      "priceChangedAt": 1789595096747,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595096747,
+      "p": 427894,
+      "id": "20093343",
+      "sequence": "20093343",
+      "sourceTime": "1789595096747",
+      "priceChangedAt": 1789595096747,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595097585,
+      "p": 427894,
+      "id": "20093344",
+      "sequence": "20093344",
+      "sourceTime": "1789595097585",
+      "priceChangedAt": 1789595096747,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595099581,
+      "p": 427894,
+      "id": "20093345",
+      "sequence": "20093345",
+      "sourceTime": "1789595099581",
+      "priceChangedAt": 1789595096747,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595100531,
+      "p": 427894,
+      "id": "20093346",
+      "sequence": "20093346",
+      "sourceTime": "1789595100531",
+      "priceChangedAt": 1789595096747,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595100531,
+      "p": 427894,
+      "id": "20093347",
+      "sequence": "20093347",
+      "sourceTime": "1789595100531",
+      "priceChangedAt": 1789595096747,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595100531,
+      "p": 427894,
+      "id": "20093348",
+      "sequence": "20093348",
+      "sourceTime": "1789595100531",
+      "priceChangedAt": 1789595096747,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595100531,
+      "p": 427894,
+      "id": "20093349",
+      "sequence": "20093349",
+      "sourceTime": "1789595100531",
+      "priceChangedAt": 1789595096747,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595100531,
+      "p": 427894,
+      "id": "20093350",
+      "sequence": "20093350",
+      "sourceTime": "1789595100531",
+      "priceChangedAt": 1789595096747,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595100531,
+      "p": 427894,
+      "id": "20093351",
+      "sequence": "20093351",
+      "sourceTime": "1789595100531",
+      "priceChangedAt": 1789595096747,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595101044,
+      "p": 427894,
+      "id": "20093352",
+      "sequence": "20093352",
+      "sourceTime": "1789595101044",
+      "priceChangedAt": 1789595096747,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595101044,
+      "p": 427894,
+      "id": "20093353",
+      "sequence": "20093353",
+      "sourceTime": "1789595101044",
+      "priceChangedAt": 1789595096747,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595101044,
+      "p": 427894,
+      "id": "20093354",
+      "sequence": "20093354",
+      "sourceTime": "1789595101044",
+      "priceChangedAt": 1789595096747,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595101172,
+      "p": 427863,
+      "id": "20093355",
+      "sequence": "20093355",
+      "sourceTime": "1789595101172",
+      "priceChangedAt": 1789595101172,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595101894,
+      "p": 427863,
+      "id": "20093356",
+      "sequence": "20093356",
+      "sourceTime": "1789595101894",
+      "priceChangedAt": 1789595101172,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595101894,
+      "p": 427863,
+      "id": "20093357",
+      "sequence": "20093357",
+      "sourceTime": "1789595101894",
+      "priceChangedAt": 1789595101172,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595103173,
+      "p": 427863,
+      "id": "20093358",
+      "sequence": "20093358",
+      "sourceTime": "1789595103173",
+      "priceChangedAt": 1789595101172,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595105173,
+      "p": 427864,
+      "id": "20093359",
+      "sequence": "20093359",
+      "sourceTime": "1789595105173",
+      "priceChangedAt": 1789595105173,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595106342,
+      "p": 427864,
+      "id": "20093360",
+      "sequence": "20093360",
+      "sourceTime": "1789595106342",
+      "priceChangedAt": 1789595105173,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595106583,
+      "p": 427864,
+      "id": "20093361",
+      "sequence": "20093361",
+      "sourceTime": "1789595106583",
+      "priceChangedAt": 1789595105173,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595106583,
+      "p": 427864,
+      "id": "20093362",
+      "sequence": "20093362",
+      "sourceTime": "1789595106583",
+      "priceChangedAt": 1789595105173,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595107203,
+      "p": 427863,
+      "id": "20093363",
+      "sequence": "20093363",
+      "sourceTime": "1789595107203",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595109198,
+      "p": 427863,
+      "id": "20093364",
+      "sequence": "20093364",
+      "sourceTime": "1789595109198",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595111199,
+      "p": 427863,
+      "id": "20093365",
+      "sequence": "20093365",
+      "sourceTime": "1789595111199",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595113195,
+      "p": 427863,
+      "id": "20093366",
+      "sequence": "20093366",
+      "sourceTime": "1789595113195",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595115195,
+      "p": 427863,
+      "id": "20093367",
+      "sequence": "20093367",
+      "sourceTime": "1789595115195",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595117196,
+      "p": 427863,
+      "id": "20093368",
+      "sequence": "20093368",
+      "sourceTime": "1789595117196",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595119196,
+      "p": 427863,
+      "id": "20093369",
+      "sequence": "20093369",
+      "sourceTime": "1789595119196",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595121196,
+      "p": 427863,
+      "id": "20093370",
+      "sequence": "20093370",
+      "sourceTime": "1789595121196",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595123195,
+      "p": 427863,
+      "id": "20093371",
+      "sequence": "20093371",
+      "sourceTime": "1789595123195",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595125195,
+      "p": 427863,
+      "id": "20093372",
+      "sequence": "20093372",
+      "sourceTime": "1789595125195",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595127196,
+      "p": 427863,
+      "id": "20093373",
+      "sequence": "20093373",
+      "sourceTime": "1789595127196",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595129197,
+      "p": 427863,
+      "id": "20093374",
+      "sequence": "20093374",
+      "sourceTime": "1789595129197",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595131197,
+      "p": 427863,
+      "id": "20093375",
+      "sequence": "20093375",
+      "sourceTime": "1789595131197",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595133196,
+      "p": 427863,
+      "id": "20093376",
+      "sequence": "20093376",
+      "sourceTime": "1789595133196",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595135196,
+      "p": 427863,
+      "id": "20093377",
+      "sequence": "20093377",
+      "sourceTime": "1789595135196",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595141196,
+      "p": 427863,
+      "id": "20093378",
+      "sequence": "20093378",
+      "sourceTime": "1789595141196",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595143196,
+      "p": 427863,
+      "id": "20093379",
+      "sequence": "20093379",
+      "sourceTime": "1789595143196",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595145198,
+      "p": 427863,
+      "id": "20093380",
+      "sequence": "20093380",
+      "sourceTime": "1789595145198",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595147196,
+      "p": 427863,
+      "id": "20093381",
+      "sequence": "20093381",
+      "sourceTime": "1789595147196",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595149196,
+      "p": 427863,
+      "id": "20093382",
+      "sequence": "20093382",
+      "sourceTime": "1789595149196",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595151197,
+      "p": 427863,
+      "id": "20093383",
+      "sequence": "20093383",
+      "sourceTime": "1789595151197",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595153195,
+      "p": 427863,
+      "id": "20093384",
+      "sequence": "20093384",
+      "sourceTime": "1789595153195",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595155196,
+      "p": 427863,
+      "id": "20093385",
+      "sequence": "20093385",
+      "sourceTime": "1789595155196",
+      "priceChangedAt": 1789595107203,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595157173,
+      "p": 427892,
+      "id": "20093386",
+      "sequence": "20093386",
+      "sourceTime": "1789595157173",
+      "priceChangedAt": 1789595157173,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595159173,
+      "p": 427916,
+      "id": "20093387",
+      "sequence": "20093387",
+      "sourceTime": "1789595159173",
+      "priceChangedAt": 1789595159173,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595161346,
+      "p": 427916,
+      "id": "20093388",
+      "sequence": "20093388",
+      "sourceTime": "1789595161346",
+      "priceChangedAt": 1789595159173,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595163346,
+      "p": 427916,
+      "id": "20093389",
+      "sequence": "20093389",
+      "sourceTime": "1789595163346",
+      "priceChangedAt": 1789595159173,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595165347,
+      "p": 427916,
+      "id": "20093390",
+      "sequence": "20093390",
+      "sourceTime": "1789595165347",
+      "priceChangedAt": 1789595159173,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595167347,
+      "p": 427916,
+      "id": "20093391",
+      "sequence": "20093391",
+      "sourceTime": "1789595167347",
+      "priceChangedAt": 1789595159173,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595169347,
+      "p": 427915,
+      "id": "20093392",
+      "sequence": "20093392",
+      "sourceTime": "1789595169347",
+      "priceChangedAt": 1789595169347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595171347,
+      "p": 427916,
+      "id": "20093393",
+      "sequence": "20093393",
+      "sourceTime": "1789595171347",
+      "priceChangedAt": 1789595171347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595173347,
+      "p": 427916,
+      "id": "20093394",
+      "sequence": "20093394",
+      "sourceTime": "1789595173347",
+      "priceChangedAt": 1789595171347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595175347,
+      "p": 427916,
+      "id": "20093395",
+      "sequence": "20093395",
+      "sourceTime": "1789595175347",
+      "priceChangedAt": 1789595171347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595177346,
+      "p": 427916,
+      "id": "20093396",
+      "sequence": "20093396",
+      "sourceTime": "1789595177346",
+      "priceChangedAt": 1789595171347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595181347,
+      "p": 427916,
+      "id": "20093397",
+      "sequence": "20093397",
+      "sourceTime": "1789595181347",
+      "priceChangedAt": 1789595171347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595183347,
+      "p": 427915,
+      "id": "20093398",
+      "sequence": "20093398",
+      "sourceTime": "1789595183347",
+      "priceChangedAt": 1789595183347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595185347,
+      "p": 427916,
+      "id": "20093399",
+      "sequence": "20093399",
+      "sourceTime": "1789595185347",
+      "priceChangedAt": 1789595185347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595187347,
+      "p": 427916,
+      "id": "20093400",
+      "sequence": "20093400",
+      "sourceTime": "1789595187347",
+      "priceChangedAt": 1789595185347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595190004,
+      "p": 427915,
+      "id": "20093401",
+      "sequence": "20093401",
+      "sourceTime": "1789595190004",
+      "priceChangedAt": 1789595190004,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595191347,
+      "p": 427916,
+      "id": "20093402",
+      "sequence": "20093402",
+      "sourceTime": "1789595191347",
+      "priceChangedAt": 1789595191347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595193347,
+      "p": 427915,
+      "id": "20093403",
+      "sequence": "20093403",
+      "sourceTime": "1789595193347",
+      "priceChangedAt": 1789595193347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595195346,
+      "p": 427915,
+      "id": "20093404",
+      "sequence": "20093404",
+      "sourceTime": "1789595195346",
+      "priceChangedAt": 1789595193347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595197347,
+      "p": 427916,
+      "id": "20093405",
+      "sequence": "20093405",
+      "sourceTime": "1789595197347",
+      "priceChangedAt": 1789595197347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595199347,
+      "p": 427916,
+      "id": "20093406",
+      "sequence": "20093406",
+      "sourceTime": "1789595199347",
+      "priceChangedAt": 1789595197347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595201346,
+      "p": 427916,
+      "id": "20093407",
+      "sequence": "20093407",
+      "sourceTime": "1789595201346",
+      "priceChangedAt": 1789595197347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595203347,
+      "p": 427915,
+      "id": "20093408",
+      "sequence": "20093408",
+      "sourceTime": "1789595203347",
+      "priceChangedAt": 1789595203347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595205347,
+      "p": 427915,
+      "id": "20093409",
+      "sequence": "20093409",
+      "sourceTime": "1789595205347",
+      "priceChangedAt": 1789595203347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595207347,
+      "p": 427915,
+      "id": "20093410",
+      "sequence": "20093410",
+      "sourceTime": "1789595207347",
+      "priceChangedAt": 1789595203347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595209347,
+      "p": 427915,
+      "id": "20093411",
+      "sequence": "20093411",
+      "sourceTime": "1789595209347",
+      "priceChangedAt": 1789595203347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595211347,
+      "p": 427915,
+      "id": "20093412",
+      "sequence": "20093412",
+      "sourceTime": "1789595211347",
+      "priceChangedAt": 1789595203347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595213348,
+      "p": 427915,
+      "id": "20093413",
+      "sequence": "20093413",
+      "sourceTime": "1789595213348",
+      "priceChangedAt": 1789595203347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595215348,
+      "p": 427915,
+      "id": "20093414",
+      "sequence": "20093414",
+      "sourceTime": "1789595215348",
+      "priceChangedAt": 1789595203347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595219347,
+      "p": 427915,
+      "id": "20093415",
+      "sequence": "20093415",
+      "sourceTime": "1789595219347",
+      "priceChangedAt": 1789595203347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595221480,
+      "p": 427915,
+      "id": "20093416",
+      "sequence": "20093416",
+      "sourceTime": "1789595221480",
+      "priceChangedAt": 1789595203347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595223480,
+      "p": 427915,
+      "id": "20093417",
+      "sequence": "20093417",
+      "sourceTime": "1789595223480",
+      "priceChangedAt": 1789595203347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595225480,
+      "p": 427915,
+      "id": "20093418",
+      "sequence": "20093418",
+      "sourceTime": "1789595225480",
+      "priceChangedAt": 1789595203347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595231480,
+      "p": 427915,
+      "id": "20093419",
+      "sequence": "20093419",
+      "sourceTime": "1789595231480",
+      "priceChangedAt": 1789595203347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595233481,
+      "p": 427915,
+      "id": "20093420",
+      "sequence": "20093420",
+      "sourceTime": "1789595233481",
+      "priceChangedAt": 1789595203347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595237480,
+      "p": 427915,
+      "id": "20093421",
+      "sequence": "20093421",
+      "sourceTime": "1789595237480",
+      "priceChangedAt": 1789595203347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595237660,
+      "p": 427916,
+      "id": "20093422",
+      "sequence": "20093422",
+      "sourceTime": "1789595237660",
+      "priceChangedAt": 1789595237660,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595239480,
+      "p": 427915,
+      "id": "20093423",
+      "sequence": "20093423",
+      "sourceTime": "1789595239480",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595241480,
+      "p": 427915,
+      "id": "20093424",
+      "sequence": "20093424",
+      "sourceTime": "1789595241480",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595245479,
+      "p": 427915,
+      "id": "20093425",
+      "sequence": "20093425",
+      "sourceTime": "1789595245479",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595247506,
+      "p": 427915,
+      "id": "20093426",
+      "sequence": "20093426",
+      "sourceTime": "1789595247506",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595249502,
+      "p": 427915,
+      "id": "20093427",
+      "sequence": "20093427",
+      "sourceTime": "1789595249502",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595255505,
+      "p": 427915,
+      "id": "20093428",
+      "sequence": "20093428",
+      "sourceTime": "1789595255505",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595257504,
+      "p": 427915,
+      "id": "20093429",
+      "sequence": "20093429",
+      "sourceTime": "1789595257504",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595259503,
+      "p": 427915,
+      "id": "20093430",
+      "sequence": "20093430",
+      "sourceTime": "1789595259503",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595261503,
+      "p": 427915,
+      "id": "20093431",
+      "sequence": "20093431",
+      "sourceTime": "1789595261503",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595263504,
+      "p": 427915,
+      "id": "20093432",
+      "sequence": "20093432",
+      "sourceTime": "1789595263504",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595265503,
+      "p": 427915,
+      "id": "20093433",
+      "sequence": "20093433",
+      "sourceTime": "1789595265503",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595267503,
+      "p": 427915,
+      "id": "20093434",
+      "sequence": "20093434",
+      "sourceTime": "1789595267503",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595269503,
+      "p": 427915,
+      "id": "20093435",
+      "sequence": "20093435",
+      "sourceTime": "1789595269503",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595271503,
+      "p": 427915,
+      "id": "20093436",
+      "sequence": "20093436",
+      "sourceTime": "1789595271503",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595273502,
+      "p": 427915,
+      "id": "20093437",
+      "sequence": "20093437",
+      "sourceTime": "1789595273502",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595275503,
+      "p": 427915,
+      "id": "20093438",
+      "sequence": "20093438",
+      "sourceTime": "1789595275503",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595277503,
+      "p": 427915,
+      "id": "20093439",
+      "sequence": "20093439",
+      "sourceTime": "1789595277503",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595278124,
+      "p": 427915,
+      "id": "20093440",
+      "sequence": "20093440",
+      "sourceTime": "1789595278124",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595278124,
+      "p": 427915,
+      "id": "20093441",
+      "sequence": "20093441",
+      "sourceTime": "1789595278124",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595278124,
+      "p": 427915,
+      "id": "20093442",
+      "sequence": "20093442",
+      "sourceTime": "1789595278124",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595278124,
+      "p": 427915,
+      "id": "20093443",
+      "sequence": "20093443",
+      "sourceTime": "1789595278124",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595279482,
+      "p": 427915,
+      "id": "20093444",
+      "sequence": "20093444",
+      "sourceTime": "1789595279482",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595280501,
+      "p": 427915,
+      "id": "20093445",
+      "sequence": "20093445",
+      "sourceTime": "1789595280501",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595280501,
+      "p": 427915,
+      "id": "20093446",
+      "sequence": "20093446",
+      "sourceTime": "1789595280501",
+      "priceChangedAt": 1789595239480,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595281597,
+      "p": 427901,
+      "id": "20093447",
+      "sequence": "20093447",
+      "sourceTime": "1789595281597",
+      "priceChangedAt": 1789595281597,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595285596,
+      "p": 427900,
+      "id": "20093448",
+      "sequence": "20093448",
+      "sourceTime": "1789595285596",
+      "priceChangedAt": 1789595285596,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595287597,
+      "p": 427900,
+      "id": "20093449",
+      "sequence": "20093449",
+      "sourceTime": "1789595287597",
+      "priceChangedAt": 1789595285596,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595289022,
+      "p": 427900,
+      "id": "20093450",
+      "sequence": "20093450",
+      "sourceTime": "1789595289022",
+      "priceChangedAt": 1789595285596,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595289022,
+      "p": 427900,
+      "id": "20093451",
+      "sequence": "20093451",
+      "sourceTime": "1789595289022",
+      "priceChangedAt": 1789595285596,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595289022,
+      "p": 427900,
+      "id": "20093452",
+      "sequence": "20093452",
+      "sourceTime": "1789595289022",
+      "priceChangedAt": 1789595285596,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595289621,
+      "p": 427854,
+      "id": "20093453",
+      "sequence": "20093453",
+      "sourceTime": "1789595289621",
+      "priceChangedAt": 1789595289621,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595290191,
+      "p": 427852,
+      "id": "20093454",
+      "sequence": "20093454",
+      "sourceTime": "1789595290191",
+      "priceChangedAt": 1789595290191,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595291597,
+      "p": 427837,
+      "id": "20093455",
+      "sequence": "20093455",
+      "sourceTime": "1789595291597",
+      "priceChangedAt": 1789595291597,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595292857,
+      "p": 427836,
+      "id": "20093456",
+      "sequence": "20093456",
+      "sourceTime": "1789595292857",
+      "priceChangedAt": 1789595292857,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595293597,
+      "p": 427836,
+      "id": "20093457",
+      "sequence": "20093457",
+      "sourceTime": "1789595293597",
+      "priceChangedAt": 1789595292857,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595294883,
+      "p": 427813,
+      "id": "20093458",
+      "sequence": "20093458",
+      "sourceTime": "1789595294883",
+      "priceChangedAt": 1789595294883,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595295597,
+      "p": 427829,
+      "id": "20093459",
+      "sequence": "20093459",
+      "sourceTime": "1789595295597",
+      "priceChangedAt": 1789595295597,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595295677,
+      "p": 427804,
+      "id": "20093460",
+      "sequence": "20093460",
+      "sourceTime": "1789595295677",
+      "priceChangedAt": 1789595295677,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595297597,
+      "p": 427812,
+      "id": "20093461",
+      "sequence": "20093461",
+      "sourceTime": "1789595297597",
+      "priceChangedAt": 1789595297597,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595298124,
+      "p": 427801,
+      "id": "20093462",
+      "sequence": "20093462",
+      "sourceTime": "1789595298124",
+      "priceChangedAt": 1789595298124,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595299597,
+      "p": 427800,
+      "id": "20093463",
+      "sequence": "20093463",
+      "sourceTime": "1789595299597",
+      "priceChangedAt": 1789595299597,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595303597,
+      "p": 427806,
+      "id": "20093464",
+      "sequence": "20093464",
+      "sourceTime": "1789595303597",
+      "priceChangedAt": 1789595303597,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595305597,
+      "p": 427805,
+      "id": "20093465",
+      "sequence": "20093465",
+      "sourceTime": "1789595305597",
+      "priceChangedAt": 1789595305597,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595306307,
+      "p": 427794,
+      "id": "20093466",
+      "sequence": "20093466",
+      "sourceTime": "1789595306307",
+      "priceChangedAt": 1789595306307,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595307597,
+      "p": 427802,
+      "id": "20093467",
+      "sequence": "20093467",
+      "sourceTime": "1789595307597",
+      "priceChangedAt": 1789595307597,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595308126,
+      "p": 427794,
+      "id": "20093468",
+      "sequence": "20093468",
+      "sourceTime": "1789595308126",
+      "priceChangedAt": 1789595308126,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595309599,
+      "p": 427798,
+      "id": "20093469",
+      "sequence": "20093469",
+      "sourceTime": "1789595309599",
+      "priceChangedAt": 1789595309599,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595311151,
+      "p": 427794,
+      "id": "20093470",
+      "sequence": "20093470",
+      "sourceTime": "1789595311151",
+      "priceChangedAt": 1789595311151,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595311597,
+      "p": 427785,
+      "id": "20093471",
+      "sequence": "20093471",
+      "sourceTime": "1789595311597",
+      "priceChangedAt": 1789595311597,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595312365,
+      "p": 427786,
+      "id": "20093472",
+      "sequence": "20093472",
+      "sourceTime": "1789595312365",
+      "priceChangedAt": 1789595312365,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595312365,
+      "p": 427797,
+      "id": "20093473",
+      "sequence": "20093473",
+      "sourceTime": "1789595312365",
+      "priceChangedAt": 1789595312365,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595315598,
+      "p": 427794,
+      "id": "20093474",
+      "sequence": "20093474",
+      "sourceTime": "1789595315598",
+      "priceChangedAt": 1789595315598,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595316146,
+      "p": 427781,
+      "id": "20093475",
+      "sequence": "20093475",
+      "sourceTime": "1789595316146",
+      "priceChangedAt": 1789595316146,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595317597,
+      "p": 427782,
+      "id": "20093476",
+      "sequence": "20093476",
+      "sourceTime": "1789595317597",
+      "priceChangedAt": 1789595317597,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595319448,
+      "p": 427781,
+      "id": "20093477",
+      "sequence": "20093477",
+      "sourceTime": "1789595319448",
+      "priceChangedAt": 1789595319448,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595319448,
+      "p": 427781,
+      "id": "20093478",
+      "sequence": "20093478",
+      "sourceTime": "1789595319448",
+      "priceChangedAt": 1789595319448,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595319448,
+      "p": 427781,
+      "id": "20093479",
+      "sequence": "20093479",
+      "sourceTime": "1789595319448",
+      "priceChangedAt": 1789595319448,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595319628,
+      "p": 427781,
+      "id": "20093480",
+      "sequence": "20093480",
+      "sourceTime": "1789595319628",
+      "priceChangedAt": 1789595319448,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595321599,
+      "p": 427782,
+      "id": "20093481",
+      "sequence": "20093481",
+      "sourceTime": "1789595321599",
+      "priceChangedAt": 1789595321599,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595323597,
+      "p": 427782,
+      "id": "20093482",
+      "sequence": "20093482",
+      "sourceTime": "1789595323597",
+      "priceChangedAt": 1789595321599,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595325505,
+      "p": 427782,
+      "id": "20093483",
+      "sequence": "20093483",
+      "sourceTime": "1789595325505",
+      "priceChangedAt": 1789595321599,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595334189,
+      "p": 427804,
+      "id": "20093484",
+      "sequence": "20093484",
+      "sourceTime": "1789595334189",
+      "priceChangedAt": 1789595334189,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595334192,
+      "p": 427805,
+      "id": "20093485",
+      "sequence": "20093485",
+      "sourceTime": "1789595334192",
+      "priceChangedAt": 1789595334192,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595335596,
+      "p": 427802,
+      "id": "20093486",
+      "sequence": "20093486",
+      "sourceTime": "1789595335596",
+      "priceChangedAt": 1789595335596,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595337597,
+      "p": 427798,
+      "id": "20093487",
+      "sequence": "20093487",
+      "sourceTime": "1789595337597",
+      "priceChangedAt": 1789595337597,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595339597,
+      "p": 427796,
+      "id": "20093488",
+      "sequence": "20093488",
+      "sourceTime": "1789595339597",
+      "priceChangedAt": 1789595339597,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595343215,
+      "p": 427781,
+      "id": "20093489",
+      "sequence": "20093489",
+      "sourceTime": "1789595343215",
+      "priceChangedAt": 1789595343215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595344792,
+      "p": 427781,
+      "id": "20093490",
+      "sequence": "20093490",
+      "sourceTime": "1789595344792",
+      "priceChangedAt": 1789595343215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595345216,
+      "p": 427780,
+      "id": "20093491",
+      "sequence": "20093491",
+      "sourceTime": "1789595345216",
+      "priceChangedAt": 1789595345216,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595347215,
+      "p": 427779,
+      "id": "20093492",
+      "sequence": "20093492",
+      "sourceTime": "1789595347215",
+      "priceChangedAt": 1789595347215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595348605,
+      "p": 427779,
+      "id": "20093493",
+      "sequence": "20093493",
+      "sourceTime": "1789595348605",
+      "priceChangedAt": 1789595347215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595348893,
+      "p": 427779,
+      "id": "20093494",
+      "sequence": "20093494",
+      "sourceTime": "1789595348893",
+      "priceChangedAt": 1789595347215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595349214,
+      "p": 427779,
+      "id": "20093495",
+      "sequence": "20093495",
+      "sourceTime": "1789595349214",
+      "priceChangedAt": 1789595347215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595351215,
+      "p": 427779,
+      "id": "20093496",
+      "sequence": "20093496",
+      "sourceTime": "1789595351215",
+      "priceChangedAt": 1789595347215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595353215,
+      "p": 427779,
+      "id": "20093497",
+      "sequence": "20093497",
+      "sourceTime": "1789595353215",
+      "priceChangedAt": 1789595347215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595355214,
+      "p": 427780,
+      "id": "20093498",
+      "sequence": "20093498",
+      "sourceTime": "1789595355214",
+      "priceChangedAt": 1789595355214,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595359215,
+      "p": 427779,
+      "id": "20093499",
+      "sequence": "20093499",
+      "sourceTime": "1789595359215",
+      "priceChangedAt": 1789595359215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595361215,
+      "p": 427779,
+      "id": "20093500",
+      "sequence": "20093500",
+      "sourceTime": "1789595361215",
+      "priceChangedAt": 1789595359215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595362996,
+      "p": 427779,
+      "id": "20093501",
+      "sequence": "20093501",
+      "sourceTime": "1789595362996",
+      "priceChangedAt": 1789595359215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595363215,
+      "p": 427779,
+      "id": "20093502",
+      "sequence": "20093502",
+      "sourceTime": "1789595363215",
+      "priceChangedAt": 1789595359215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595365215,
+      "p": 427779,
+      "id": "20093503",
+      "sequence": "20093503",
+      "sourceTime": "1789595365215",
+      "priceChangedAt": 1789595359215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595367215,
+      "p": 427780,
+      "id": "20093504",
+      "sequence": "20093504",
+      "sourceTime": "1789595367215",
+      "priceChangedAt": 1789595367215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595371215,
+      "p": 427780,
+      "id": "20093505",
+      "sequence": "20093505",
+      "sourceTime": "1789595371215",
+      "priceChangedAt": 1789595367215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595373215,
+      "p": 427780,
+      "id": "20093506",
+      "sequence": "20093506",
+      "sourceTime": "1789595373215",
+      "priceChangedAt": 1789595367215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595375215,
+      "p": 427780,
+      "id": "20093507",
+      "sequence": "20093507",
+      "sourceTime": "1789595375215",
+      "priceChangedAt": 1789595367215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595379220,
+      "p": 427780,
+      "id": "20093508",
+      "sequence": "20093508",
+      "sourceTime": "1789595379220",
+      "priceChangedAt": 1789595367215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595381215,
+      "p": 427779,
+      "id": "20093509",
+      "sequence": "20093509",
+      "sourceTime": "1789595381215",
+      "priceChangedAt": 1789595381215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595383215,
+      "p": 427780,
+      "id": "20093510",
+      "sequence": "20093510",
+      "sourceTime": "1789595383215",
+      "priceChangedAt": 1789595383215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595383535,
+      "p": 427780,
+      "id": "20093511",
+      "sequence": "20093511",
+      "sourceTime": "1789595383535",
+      "priceChangedAt": 1789595383215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595383535,
+      "p": 427780,
+      "id": "20093512",
+      "sequence": "20093512",
+      "sourceTime": "1789595383535",
+      "priceChangedAt": 1789595383215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595383535,
+      "p": 427780,
+      "id": "20093513",
+      "sequence": "20093513",
+      "sourceTime": "1789595383535",
+      "priceChangedAt": 1789595383215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595383535,
+      "p": 427782,
+      "id": "20093514",
+      "sequence": "20093514",
+      "sourceTime": "1789595383535",
+      "priceChangedAt": 1789595383535,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595387215,
+      "p": 427794,
+      "id": "20093515",
+      "sequence": "20093515",
+      "sourceTime": "1789595387215",
+      "priceChangedAt": 1789595387215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595389215,
+      "p": 427794,
+      "id": "20093516",
+      "sequence": "20093516",
+      "sourceTime": "1789595389215",
+      "priceChangedAt": 1789595387215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595391215,
+      "p": 427794,
+      "id": "20093517",
+      "sequence": "20093517",
+      "sourceTime": "1789595391215",
+      "priceChangedAt": 1789595387215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595393215,
+      "p": 427795,
+      "id": "20093518",
+      "sequence": "20093518",
+      "sourceTime": "1789595393215",
+      "priceChangedAt": 1789595393215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595397216,
+      "p": 427795,
+      "id": "20093519",
+      "sequence": "20093519",
+      "sourceTime": "1789595397216",
+      "priceChangedAt": 1789595393215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595399215,
+      "p": 427795,
+      "id": "20093520",
+      "sequence": "20093520",
+      "sourceTime": "1789595399215",
+      "priceChangedAt": 1789595393215,
+      "quietCensored": false
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "modelVersion": "conditional-event-path-v5",
+  "checkedAt": "2026-09-18T04:09:39.196Z",
+  "period": [
+    1789430400000,
+    1789689600000
+  ],
+  "independent": false,
+  "assets": {
+    "BTC_USDT": {
+      "source": {
+        "name": "Gate BTC_USDT 现货",
+        "start": 1788393600000,
+        "end": 1789689600000,
+        "trades": 1603915,
+        "quietSeconds": 66.12907397460937
+      },
+      "results": [
+        {
+          "convention": "carried",
+          "snapshots": 4315,
+          "beats": {
+            "count": 3728160,
+            "brier": 0.05653167398941853,
+            "baselineBrier": 0.0571730574294378,
+            "logLoss": 0.22344873109383834,
+            "baselineLogLoss": 0.24648402930598154,
+            "quoted": 3171311,
+            "violations": 0,
+            "qualityViolations": 0,
+            "quoteAvailability": 0.850637043474529
+          },
+          "steps": {
+            "count": 25890,
+            "brier": 0.6819325385430521,
+            "baselineBrier": 0.6886717005464827,
+            "logLoss": 1.3856130793759933,
+            "baselineLogLoss": 1.4505810744561494,
+            "quoted": 23940,
+            "violations": 0,
+            "qualityViolations": 0,
+            "quoteAvailability": 0.9246813441483198
+          },
+          "strategies": [
+            {
+              "name": "uniformQuoted",
+              "attempts": 4315,
+              "quoted": 4311,
+              "rtp": 0.7006471816283923,
+              "hourlyBootstrapInterval": [
+                0.6153263921113687,
+                0.7950322775099934
+              ],
+              "hourBlocks": 72,
+              "pnl": 1290.510000000001,
+              "maxDrawdown": 81.55
+            },
+            {
+              "name": "maximumBaseline",
+              "attempts": 4315,
+              "quoted": 4311,
+              "rtp": 0.6526838320575253,
+              "hourlyBootstrapInterval": [
+                0.5656109399385394,
+                0.723793269064976
+              ],
+              "hourBlocks": 72,
+              "pnl": 1497.2800000000084,
+              "maxDrawdown": 52.23999999999978
+            }
+          ]
+        },
+        {
+          "convention": "trade",
+          "snapshots": 4315,
+          "beats": {
+            "count": 3728160,
+            "brier": 0.049784421539007986,
+            "baselineBrier": 0.05025824012329055,
+            "logLoss": 0.20210864767851977,
+            "baselineLogLoss": 0.226000310617357,
+            "quoted": 2970938,
+            "violations": 0,
+            "qualityViolations": 0,
+            "quoteAvailability": 0.7968912278442986
+          },
+          "steps": {
+            "count": 25890,
+            "brier": 0.6819325385430521,
+            "baselineBrier": 0.6886717005464827,
+            "logLoss": 1.3856130793759933,
+            "baselineLogLoss": 1.4505810744561494,
+            "quoted": 23940,
+            "violations": 0,
+            "qualityViolations": 0,
+            "quoteAvailability": 0.9246813441483198
+          },
+          "strategies": [
+            {
+              "name": "uniformQuoted",
+              "attempts": 4315,
+              "quoted": 4311,
+              "rtp": 0.6487682672233819,
+              "hourlyBootstrapInterval": [
+                0.5760425567198918,
+                0.7332736916547465
+              ],
+              "hourBlocks": 72,
+              "pnl": 1514.160000000001,
+              "maxDrawdown": 59.250000000000085
+            },
+            {
+              "name": "maximumBaseline",
+              "attempts": 4315,
+              "quoted": 4311,
+              "rtp": 0.5378334493157029,
+              "hourlyBootstrapInterval": [
+                0.4555543821824577,
+                0.6097766179540708
+              ],
+              "hourBlocks": 72,
+              "pnl": 1992.4000000000049,
+              "maxDrawdown": 57.23999999999967
+            }
+          ]
+        }
+      ]
+    },
+    "ETH_USDT": {
+      "source": {
+        "name": "Gate ETH_USDT 现货",
+        "start": 1788393600000,
+        "end": 1789689600000,
+        "trades": 2107337,
+        "quietSeconds": 151.93635522460937
+      },
+      "results": [
+        {
+          "convention": "carried",
+          "snapshots": 4315,
+          "beats": {
+            "count": 3728160,
+            "brier": 0.06125574026865778,
+            "baselineBrier": 0.06193526611681747,
+            "logLoss": 0.23905086585072596,
+            "baselineLogLoss": 0.2624933347581916,
+            "quoted": 3364817,
+            "violations": 0,
+            "qualityViolations": 0,
+            "quoteAvailability": 0.9025409317196686
+          },
+          "steps": {
+            "count": 25890,
+            "brier": 0.6804406008079371,
+            "baselineBrier": 0.6876560227389316,
+            "logLoss": 1.3820560844750225,
+            "baselineLogLoss": 1.4336244116901558,
+            "quoted": 24900,
+            "violations": 0,
+            "qualityViolations": 0,
+            "quoteAvailability": 0.9617612977983777
+          },
+          "strategies": [
+            {
+              "name": "uniformQuoted",
+              "attempts": 4315,
+              "quoted": 4306,
+              "rtp": 0.7381908964235944,
+              "hourlyBootstrapInterval": [
+                0.6484344740091708,
+                0.8285518991729364
+              ],
+              "hourBlocks": 72,
+              "pnl": 1127.3500000000024,
+              "maxDrawdown": 102.10999999999984
+            },
+            {
+              "name": "maximumBaseline",
+              "attempts": 4315,
+              "quoted": 4306,
+              "rtp": 0.714895494658613,
+              "hourlyBootstrapInterval": [
+                0.6402421558813065,
+                0.7848581414301471
+              ],
+              "hourBlocks": 72,
+              "pnl": 1227.6600000000121,
+              "maxDrawdown": 64.55999999999949
+            }
+          ]
+        },
+        {
+          "convention": "trade",
+          "snapshots": 4315,
+          "beats": {
+            "count": 3728160,
+            "brier": 0.05458342108226685,
+            "baselineBrier": 0.05514672874744386,
+            "logLoss": 0.21844174539458766,
+            "baselineLogLoss": 0.2422800298271599,
+            "quoted": 3237978,
+            "violations": 0,
+            "qualityViolations": 0,
+            "quoteAvailability": 0.8685190549761813
+          },
+          "steps": {
+            "count": 25890,
+            "brier": 0.6804406008079371,
+            "baselineBrier": 0.6876560227389316,
+            "logLoss": 1.3820560844750225,
+            "baselineLogLoss": 1.4336244116901558,
+            "quoted": 24900,
+            "violations": 0,
+            "qualityViolations": 0,
+            "quoteAvailability": 0.9617612977983777
+          },
+          "strategies": [
+            {
+              "name": "uniformQuoted",
+              "attempts": 4315,
+              "quoted": 4306,
+              "rtp": 0.793973525313516,
+              "hourlyBootstrapInterval": [
+                0.6981697938383137,
+                0.8982787368762836
+              ],
+              "hourBlocks": 72,
+              "pnl": 887.1500000000004,
+              "maxDrawdown": 130.61
+            },
+            {
+              "name": "maximumBaseline",
+              "attempts": 4315,
+              "quoted": 4306,
+              "rtp": 0.7353646075243834,
+              "hourlyBootstrapInterval": [
+                0.6538391953213941,
+                0.8134202123530432
+              ],
+              "hourBlocks": 72,
+              "pnl": 1139.5200000000054,
+              "maxDrawdown": 147.72000000000043
+            }
+          ]
+        }
+      ]
+    },
+    "XAU_USDT": {
+      "source": {
+        "name": "Gate XAU_USDT 黄金永续",
+        "start": 1788566400000,
+        "end": 1789689600000,
+        "trades": 1193263,
+        "quietSeconds": 1395.606
+      },
+      "results": [
+        {
+          "convention": "carried",
+          "snapshots": 4315,
+          "beats": {
+            "count": 3728160,
+            "brier": 0.05673237943088587,
+            "baselineBrier": 0.060789591805330494,
+            "logLoss": 0.22089483990665612,
+            "baselineLogLoss": 0.2789004635953042,
+            "quoted": 2749673,
+            "violations": 0,
+            "qualityViolations": 0,
+            "quoteAvailability": 0.737541575468864
+          },
+          "steps": {
+            "count": 25890,
+            "brier": 0.684733137565764,
+            "baselineBrier": 0.7065273056531238,
+            "logLoss": 1.3860909446335825,
+            "baselineLogLoss": 1.4943048082268047,
+            "quoted": 22335,
+            "violations": 0,
+            "qualityViolations": 0,
+            "quoteAvailability": 0.8626882966396292
+          },
+          "strategies": [
+            {
+              "name": "uniformQuoted",
+              "attempts": 4315,
+              "quoted": 4285,
+              "rtp": 0.6277806301050182,
+              "hourlyBootstrapInterval": [
+                0.5525564842349137,
+                0.7027424074572298
+              ],
+              "hourBlocks": 72,
+              "pnl": 1594.9599999999973,
+              "maxDrawdown": 43.960000000000264
+            },
+            {
+              "name": "maximumBaseline",
+              "attempts": 4315,
+              "quoted": 4285,
+              "rtp": 0.4977689614935805,
+              "hourlyBootstrapInterval": [
+                0.44226952188699337,
+                0.559286985823435
+              ],
+              "hourBlocks": 72,
+              "pnl": 2152.0600000000077,
+              "maxDrawdown": 68.54999999999973
+            }
+          ]
+        },
+        {
+          "convention": "trade",
+          "snapshots": 4315,
+          "beats": {
+            "count": 3728160,
+            "brier": 0.05126655041938643,
+            "baselineBrier": 0.053165110409666524,
+            "logLoss": 0.20420177632314201,
+            "baselineLogLoss": 0.25890111995944176,
+            "quoted": 2600072,
+            "violations": 0,
+            "qualityViolations": 0,
+            "quoteAvailability": 0.6974142740654907
+          },
+          "steps": {
+            "count": 25890,
+            "brier": 0.684733137565764,
+            "baselineBrier": 0.7065273056531238,
+            "logLoss": 1.3860909446335825,
+            "baselineLogLoss": 1.4943048082268047,
+            "quoted": 22335,
+            "violations": 0,
+            "qualityViolations": 0,
+            "quoteAvailability": 0.8626882966396292
+          },
+          "strategies": [
+            {
+              "name": "uniformQuoted",
+              "attempts": 4315,
+              "quoted": 4285,
+              "rtp": 0.6021260210035003,
+              "hourlyBootstrapInterval": [
+                0.5075715857276388,
+                0.6942000509906757
+              ],
+              "hourBlocks": 72,
+              "pnl": 1704.890000000001,
+              "maxDrawdown": 82.47999999999968
+            },
+            {
+              "name": "maximumBaseline",
+              "attempts": 4315,
+              "quoted": 4285,
+              "rtp": 0.49615869311551664,
+              "hourlyBootstrapInterval": [
+                0.43137102539695155,
+                0.5743857398914337
+              ],
+              "hourBlocks": 72,
+              "pnl": 2158.9600000000114,
+              "maxDrawdown": 67.69999999999948
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

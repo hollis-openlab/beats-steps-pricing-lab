@@ -1,0 +1,1786 @@
+{
+  "checkedAt": "2026-09-18T04:09:39.196Z",
+  "protocol": {
+    "version": "v5-beats-risk-budget",
+    "writtenAt": "2026-09-18T02:08:50.792502+00:00",
+    "training": "Event paths before 2026-09-09T00:00:00Z; recompute every feature scale, volatility floor and jump limit on this prefix only",
+    "selectionAndCenterFit": [
+      "2026-09-09T00:00:00Z",
+      "2026-09-12T00:00:00Z"
+    ],
+    "riskCalibration": [
+      "2026-09-12T00:00:00Z",
+      "2026-09-15T00:00:00Z"
+    ],
+    "anchorSeconds": 300,
+    "purgeSeconds": 300,
+    "candidates": {
+      "localWeight": [
+        0,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ],
+      "neighbors": [
+        128
+      ]
+    },
+    "score": "Brier on fixed common full-board contracts; both Beats conventions independently; Steps five classes",
+    "risk": "score bins merged until >=32 distinct anchors and >=8 hours, horizon and state with explicit pooled fallback; center monotone isotonic; risk hourly bootstrap upper residual and Wilson effective-anchor support floor; Steps coherent ordered exceedance bounds",
+    "bootstrapReplicates": 400,
+    "bootstrapQuantile": 0.95,
+    "evaluation": "Already-observed history; regression and diagnostic evidence, not a new independent test.",
+    "unchangedPolicies": "94% budget, 50 cap, minimum odds 1.01, equal-log-increments utility are declared product choices, not uniquely market-implied",
+    "stress": "1.5x return scenarios retained for threshold geometry, no longer asserted as nominal probabilities",
+    "developmentCorrection": {
+      "at": "2026-09-18T02:22:55.379214+00:00",
+      "reason": "Coarse cumulative center bins created zero-probability exclusive middle tiers. Preserve a five-class mixture with Jeffreys half-count smoothing instead; use monotone risk curves only as upper bounds for Steps.",
+      "selection": "Same pre-diagnostic candidate weights; no retuning weights on diagnostics.",
+      "qualityPolicy": {
+        "minimumEstimatedRtp": 0.8,
+        "interpretation": "Explicit product minimum, not an empirical optimum or actual-return guarantee",
+        "steps": "Constrained utility optimization includes the nominal lower bound, with cent-rounding reserve."
+      }
+    },
+    "stepGeometry": {
+      "id": "positive-quartiles-v3",
+      "objective": "Divide same-direction positive price moves into four equal-frequency outcome tiers before legal-tick constraints. Scenario-wise maximum of quartiles for common candidate contracts.",
+      "why": "Previous .60/.80/.93/.99 absolute-return thresholds plus 1.5x stress made all four tiers rare and the honest risk bounds incompatible with player-return quality. The first threshold is now one positive attainable displacement.",
+      "levels": [
+        0,
+        0.25,
+        0.5,
+        0.75
+      ],
+      "calibration": "Chronological training through Sep09, center selection Sep09-12, independent risk fit Sep12-15."
+    },
+    "allocationReason": "Reserve three full days for each calibration stage; one-day risk cells were too uncertain to support useful odds. Do not reduce confidence settings using diagnostic outcomes.",
+    "riskEnvelope": "Add local and unconditional probabilities to calibrated upper bounds, for Beats probabilities and each Steps cumulative tail. Preserve fitted center and calibration curves.",
+    "revisionReason": "Undo the added Beats 80% nominal-return stop condition that made all carried horizons from 65 seconds permanently unavailable; preserve fitted probabilities, conservative risk envelope, 94% budget, odds limits, support and jump guards. Steps payout optimization is unchanged."
+  },
+  "period": [
+    1789430400000,
+    1789689600000
+  ],
+  "results": [
+    {
+      "asset": "BTC_USDT",
+      "convention": "carried",
+      "snapshots": 4315,
+      "windows": [
+        {
+          "lead": 5,
+          "computed": 103560,
+          "quoted": 62761,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 10,
+          "computed": 103560,
+          "quoted": 72751,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 15,
+          "computed": 103560,
+          "quoted": 76970,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 20,
+          "computed": 103560,
+          "quoted": 81120,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 25,
+          "computed": 103560,
+          "quoted": 80009,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 30,
+          "computed": 103560,
+          "quoted": 81442,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 35,
+          "computed": 103560,
+          "quoted": 84195,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 40,
+          "computed": 103560,
+          "quoted": 86333,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 45,
+          "computed": 103560,
+          "quoted": 88541,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 50,
+          "computed": 103560,
+          "quoted": 87597,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 55,
+          "computed": 103560,
+          "quoted": 87481,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 60,
+          "computed": 103560,
+          "quoted": 91730,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 65,
+          "computed": 103560,
+          "quoted": 90760,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 70,
+          "computed": 103560,
+          "quoted": 92039,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 75,
+          "computed": 103560,
+          "quoted": 89531,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 80,
+          "computed": 103560,
+          "quoted": 92218,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 85,
+          "computed": 103560,
+          "quoted": 92085,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 90,
+          "computed": 103560,
+          "quoted": 91288,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 95,
+          "computed": 103560,
+          "quoted": 90838,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 100,
+          "computed": 103560,
+          "quoted": 91069,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 105,
+          "computed": 103560,
+          "quoted": 89436,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 110,
+          "computed": 103560,
+          "quoted": 88598,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 115,
+          "computed": 103560,
+          "quoted": 89611,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 120,
+          "computed": 103560,
+          "quoted": 95016,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 125,
+          "computed": 103560,
+          "quoted": 92960,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 130,
+          "computed": 103560,
+          "quoted": 93963,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 135,
+          "computed": 103560,
+          "quoted": 89936,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 140,
+          "computed": 103560,
+          "quoted": 92386,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 145,
+          "computed": 103560,
+          "quoted": 90377,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 150,
+          "computed": 103560,
+          "quoted": 91788,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 155,
+          "computed": 103560,
+          "quoted": 90159,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 160,
+          "computed": 103560,
+          "quoted": 90213,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 165,
+          "computed": 103560,
+          "quoted": 90025,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 170,
+          "computed": 103560,
+          "quoted": 90526,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 175,
+          "computed": 103560,
+          "quoted": 90593,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 180,
+          "computed": 103560,
+          "quoted": 94966,
+          "snapshotsWithQuotes": 4311
+        }
+      ],
+      "beats": {
+        "count": 3728160,
+        "brier": 0.05653167398941853,
+        "baselineBrier": 0.0571730574294378,
+        "logLoss": 0.22344873109383834,
+        "baselineLogLoss": 0.24648402930598154,
+        "quoted": 3171311,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.850637043474529
+      },
+      "steps": {
+        "count": 25890,
+        "brier": 0.6819325385430521,
+        "baselineBrier": 0.6886717005464827,
+        "logLoss": 1.3856130793759933,
+        "baselineLogLoss": 1.4505810744561494,
+        "quoted": 23940,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.9246813441483198
+      },
+      "strategies": [
+        {
+          "name": "uniform",
+          "attempts": 4315,
+          "quoted": 3708,
+          "rtp": 0.7147869471413155,
+          "hourlyBootstrapInterval": [
+            0.6111398577809343,
+            0.8078309345143819
+          ],
+          "hourBlocks": 72,
+          "pnl": 1057.5700000000018,
+          "maxDrawdown": 144.12999999999977
+        },
+        {
+          "name": "uniformQuoted",
+          "attempts": 4315,
+          "quoted": 4311,
+          "rtp": 0.7006471816283923,
+          "hourlyBootstrapInterval": [
+            0.6153263921113687,
+            0.7950322775099934
+          ],
+          "hourBlocks": 72,
+          "pnl": 1290.510000000001,
+          "maxDrawdown": 81.55
+        },
+        {
+          "name": "maximumBaseline",
+          "attempts": 4315,
+          "quoted": 4311,
+          "rtp": 0.6526838320575253,
+          "hourlyBootstrapInterval": [
+            0.5656109399385394,
+            0.723793269064976
+          ],
+          "hourBlocks": 72,
+          "pnl": 1497.2800000000084,
+          "maxDrawdown": 52.23999999999978
+        }
+      ]
+    },
+    {
+      "asset": "BTC_USDT",
+      "convention": "trade",
+      "snapshots": 4315,
+      "windows": [
+        {
+          "lead": 5,
+          "computed": 103560,
+          "quoted": 60778,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 10,
+          "computed": 103560,
+          "quoted": 71452,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 15,
+          "computed": 103560,
+          "quoted": 74155,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 20,
+          "computed": 103560,
+          "quoted": 79026,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 25,
+          "computed": 103560,
+          "quoted": 76874,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 30,
+          "computed": 103560,
+          "quoted": 76529,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 35,
+          "computed": 103560,
+          "quoted": 79382,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 40,
+          "computed": 103560,
+          "quoted": 81476,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 45,
+          "computed": 103560,
+          "quoted": 84333,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 50,
+          "computed": 103560,
+          "quoted": 81879,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 55,
+          "computed": 103560,
+          "quoted": 81783,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 60,
+          "computed": 103560,
+          "quoted": 88446,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 65,
+          "computed": 103560,
+          "quoted": 86557,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 70,
+          "computed": 103560,
+          "quoted": 90139,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 75,
+          "computed": 103560,
+          "quoted": 85444,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 80,
+          "computed": 103560,
+          "quoted": 88620,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 85,
+          "computed": 103560,
+          "quoted": 85346,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 90,
+          "computed": 103560,
+          "quoted": 83829,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 95,
+          "computed": 103560,
+          "quoted": 84326,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 100,
+          "computed": 103560,
+          "quoted": 82870,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 105,
+          "computed": 103560,
+          "quoted": 81870,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 110,
+          "computed": 103560,
+          "quoted": 80130,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 115,
+          "computed": 103560,
+          "quoted": 82388,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 120,
+          "computed": 103560,
+          "quoted": 90313,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 125,
+          "computed": 103560,
+          "quoted": 88058,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 130,
+          "computed": 103560,
+          "quoted": 91788,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 135,
+          "computed": 103560,
+          "quoted": 84045,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 140,
+          "computed": 103560,
+          "quoted": 86803,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 145,
+          "computed": 103560,
+          "quoted": 82575,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 150,
+          "computed": 103560,
+          "quoted": 84272,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 155,
+          "computed": 103560,
+          "quoted": 80566,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 160,
+          "computed": 103560,
+          "quoted": 80875,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 165,
+          "computed": 103560,
+          "quoted": 79893,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 170,
+          "computed": 103560,
+          "quoted": 82060,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 175,
+          "computed": 103560,
+          "quoted": 82599,
+          "snapshotsWithQuotes": 4311
+        },
+        {
+          "lead": 180,
+          "computed": 103560,
+          "quoted": 89459,
+          "snapshotsWithQuotes": 4311
+        }
+      ],
+      "beats": {
+        "count": 3728160,
+        "brier": 0.049784421539007986,
+        "baselineBrier": 0.05025824012329055,
+        "logLoss": 0.20210864767851977,
+        "baselineLogLoss": 0.226000310617357,
+        "quoted": 2970938,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.7968912278442986
+      },
+      "steps": {
+        "count": 25890,
+        "brier": 0.6819325385430521,
+        "baselineBrier": 0.6886717005464827,
+        "logLoss": 1.3856130793759933,
+        "baselineLogLoss": 1.4505810744561494,
+        "quoted": 23940,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.9246813441483198
+      },
+      "strategies": [
+        {
+          "name": "uniform",
+          "attempts": 4315,
+          "quoted": 3472,
+          "rtp": 0.7578917050691243,
+          "hourlyBootstrapInterval": [
+            0.6345201170333681,
+            0.8772395644609826
+          ],
+          "hourBlocks": 72,
+          "pnl": 840.6000000000007,
+          "maxDrawdown": 198.76999999999998
+        },
+        {
+          "name": "uniformQuoted",
+          "attempts": 4315,
+          "quoted": 4311,
+          "rtp": 0.6487682672233819,
+          "hourlyBootstrapInterval": [
+            0.5760425567198918,
+            0.7332736916547465
+          ],
+          "hourBlocks": 72,
+          "pnl": 1514.160000000001,
+          "maxDrawdown": 59.250000000000085
+        },
+        {
+          "name": "maximumBaseline",
+          "attempts": 4315,
+          "quoted": 4311,
+          "rtp": 0.5378334493157029,
+          "hourlyBootstrapInterval": [
+            0.4555543821824577,
+            0.6097766179540708
+          ],
+          "hourBlocks": 72,
+          "pnl": 1992.4000000000049,
+          "maxDrawdown": 57.23999999999967
+        }
+      ]
+    },
+    {
+      "asset": "ETH_USDT",
+      "convention": "carried",
+      "snapshots": 4315,
+      "windows": [
+        {
+          "lead": 5,
+          "computed": 103560,
+          "quoted": 76414,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 10,
+          "computed": 103560,
+          "quoted": 83490,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 15,
+          "computed": 103560,
+          "quoted": 86681,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 20,
+          "computed": 103560,
+          "quoted": 86414,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 25,
+          "computed": 103560,
+          "quoted": 90072,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 30,
+          "computed": 103560,
+          "quoted": 89448,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 35,
+          "computed": 103560,
+          "quoted": 90932,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 40,
+          "computed": 103560,
+          "quoted": 91969,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 45,
+          "computed": 103560,
+          "quoted": 93872,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 50,
+          "computed": 103560,
+          "quoted": 92320,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 55,
+          "computed": 103560,
+          "quoted": 93128,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 60,
+          "computed": 103560,
+          "quoted": 96224,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 65,
+          "computed": 103560,
+          "quoted": 96933,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 70,
+          "computed": 103560,
+          "quoted": 97255,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 75,
+          "computed": 103560,
+          "quoted": 95673,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 80,
+          "computed": 103560,
+          "quoted": 96368,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 85,
+          "computed": 103560,
+          "quoted": 97105,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 90,
+          "computed": 103560,
+          "quoted": 95873,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 95,
+          "computed": 103560,
+          "quoted": 94775,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 100,
+          "computed": 103560,
+          "quoted": 96253,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 105,
+          "computed": 103560,
+          "quoted": 93828,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 110,
+          "computed": 103560,
+          "quoted": 94658,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 115,
+          "computed": 103560,
+          "quoted": 94636,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 120,
+          "computed": 103560,
+          "quoted": 97912,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 125,
+          "computed": 103560,
+          "quoted": 97493,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 130,
+          "computed": 103560,
+          "quoted": 96501,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 135,
+          "computed": 103560,
+          "quoted": 95393,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 140,
+          "computed": 103560,
+          "quoted": 96345,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 145,
+          "computed": 103560,
+          "quoted": 94791,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 150,
+          "computed": 103560,
+          "quoted": 94839,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 155,
+          "computed": 103560,
+          "quoted": 94308,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 160,
+          "computed": 103560,
+          "quoted": 92931,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 165,
+          "computed": 103560,
+          "quoted": 93046,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 170,
+          "computed": 103560,
+          "quoted": 94823,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 175,
+          "computed": 103560,
+          "quoted": 93307,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 180,
+          "computed": 103560,
+          "quoted": 98807,
+          "snapshotsWithQuotes": 4306
+        }
+      ],
+      "beats": {
+        "count": 3728160,
+        "brier": 0.06125574026865778,
+        "baselineBrier": 0.06193526611681747,
+        "logLoss": 0.23905086585072596,
+        "baselineLogLoss": 0.2624933347581916,
+        "quoted": 3364817,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.9025409317196686
+      },
+      "steps": {
+        "count": 25890,
+        "brier": 0.6804406008079371,
+        "baselineBrier": 0.6876560227389316,
+        "logLoss": 1.3820560844750225,
+        "baselineLogLoss": 1.4336244116901558,
+        "quoted": 24900,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.9617612977983777
+      },
+      "strategies": [
+        {
+          "name": "uniform",
+          "attempts": 4315,
+          "quoted": 3905,
+          "rtp": 0.669882202304737,
+          "hourlyBootstrapInterval": [
+            0.5830207029345921,
+            0.7634424634460067
+          ],
+          "hourBlocks": 72,
+          "pnl": 1289.1100000000015,
+          "maxDrawdown": 75.43999999999983
+        },
+        {
+          "name": "uniformQuoted",
+          "attempts": 4315,
+          "quoted": 4306,
+          "rtp": 0.7381908964235944,
+          "hourlyBootstrapInterval": [
+            0.6484344740091708,
+            0.8285518991729364
+          ],
+          "hourBlocks": 72,
+          "pnl": 1127.3500000000024,
+          "maxDrawdown": 102.10999999999984
+        },
+        {
+          "name": "maximumBaseline",
+          "attempts": 4315,
+          "quoted": 4306,
+          "rtp": 0.714895494658613,
+          "hourlyBootstrapInterval": [
+            0.6402421558813065,
+            0.7848581414301471
+          ],
+          "hourBlocks": 72,
+          "pnl": 1227.6600000000121,
+          "maxDrawdown": 64.55999999999949
+        }
+      ]
+    },
+    {
+      "asset": "ETH_USDT",
+      "convention": "trade",
+      "snapshots": 4315,
+      "windows": [
+        {
+          "lead": 5,
+          "computed": 103560,
+          "quoted": 75247,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 10,
+          "computed": 103560,
+          "quoted": 82172,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 15,
+          "computed": 103560,
+          "quoted": 84937,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 20,
+          "computed": 103560,
+          "quoted": 84537,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 25,
+          "computed": 103560,
+          "quoted": 88043,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 30,
+          "computed": 103560,
+          "quoted": 86689,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 35,
+          "computed": 103560,
+          "quoted": 88431,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 40,
+          "computed": 103560,
+          "quoted": 89869,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 45,
+          "computed": 103560,
+          "quoted": 92143,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 50,
+          "computed": 103560,
+          "quoted": 89697,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 55,
+          "computed": 103560,
+          "quoted": 90779,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 60,
+          "computed": 103560,
+          "quoted": 95421,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 65,
+          "computed": 103560,
+          "quoted": 95200,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 70,
+          "computed": 103560,
+          "quoted": 95230,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 75,
+          "computed": 103560,
+          "quoted": 92514,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 80,
+          "computed": 103560,
+          "quoted": 93984,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 85,
+          "computed": 103560,
+          "quoted": 94587,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 90,
+          "computed": 103560,
+          "quoted": 91657,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 95,
+          "computed": 103560,
+          "quoted": 91245,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 100,
+          "computed": 103560,
+          "quoted": 91941,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 105,
+          "computed": 103560,
+          "quoted": 89116,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 110,
+          "computed": 103560,
+          "quoted": 88698,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 115,
+          "computed": 103560,
+          "quoted": 89827,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 120,
+          "computed": 103560,
+          "quoted": 96250,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 125,
+          "computed": 103560,
+          "quoted": 93978,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 130,
+          "computed": 103560,
+          "quoted": 91964,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 135,
+          "computed": 103560,
+          "quoted": 90607,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 140,
+          "computed": 103560,
+          "quoted": 92020,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 145,
+          "computed": 103560,
+          "quoted": 89315,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 150,
+          "computed": 103560,
+          "quoted": 89333,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 155,
+          "computed": 103560,
+          "quoted": 87440,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 160,
+          "computed": 103560,
+          "quoted": 86105,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 165,
+          "computed": 103560,
+          "quoted": 85963,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 170,
+          "computed": 103560,
+          "quoted": 89400,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 175,
+          "computed": 103560,
+          "quoted": 87273,
+          "snapshotsWithQuotes": 4306
+        },
+        {
+          "lead": 180,
+          "computed": 103560,
+          "quoted": 96366,
+          "snapshotsWithQuotes": 4306
+        }
+      ],
+      "beats": {
+        "count": 3728160,
+        "brier": 0.05458342108226685,
+        "baselineBrier": 0.05514672874744386,
+        "logLoss": 0.21844174539458766,
+        "baselineLogLoss": 0.2422800298271599,
+        "quoted": 3237978,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.8685190549761813
+      },
+      "steps": {
+        "count": 25890,
+        "brier": 0.6804406008079371,
+        "baselineBrier": 0.6876560227389316,
+        "logLoss": 1.3820560844750225,
+        "baselineLogLoss": 1.4336244116901558,
+        "quoted": 24900,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.9617612977983777
+      },
+      "strategies": [
+        {
+          "name": "uniform",
+          "attempts": 4315,
+          "quoted": 3768,
+          "rtp": 0.7205838641188956,
+          "hourlyBootstrapInterval": [
+            0.6275731605184446,
+            0.8349823648768249
+          ],
+          "hourBlocks": 72,
+          "pnl": 1052.8400000000013,
+          "maxDrawdown": 109.38999999999965
+        },
+        {
+          "name": "uniformQuoted",
+          "attempts": 4315,
+          "quoted": 4306,
+          "rtp": 0.793973525313516,
+          "hourlyBootstrapInterval": [
+            0.6981697938383137,
+            0.8982787368762836
+          ],
+          "hourBlocks": 72,
+          "pnl": 887.1500000000004,
+          "maxDrawdown": 130.61
+        },
+        {
+          "name": "maximumBaseline",
+          "attempts": 4315,
+          "quoted": 4306,
+          "rtp": 0.7353646075243834,
+          "hourlyBootstrapInterval": [
+            0.6538391953213941,
+            0.8134202123530432
+          ],
+          "hourBlocks": 72,
+          "pnl": 1139.5200000000054,
+          "maxDrawdown": 147.72000000000043
+        }
+      ]
+    },
+    {
+      "asset": "XAU_USDT",
+      "convention": "carried",
+      "snapshots": 4315,
+      "windows": [
+        {
+          "lead": 5,
+          "computed": 103560,
+          "quoted": 48393,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 10,
+          "computed": 103560,
+          "quoted": 51980,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 15,
+          "computed": 103560,
+          "quoted": 56604,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 20,
+          "computed": 103560,
+          "quoted": 62315,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 25,
+          "computed": 103560,
+          "quoted": 65652,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 30,
+          "computed": 103560,
+          "quoted": 65364,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 35,
+          "computed": 103560,
+          "quoted": 69636,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 40,
+          "computed": 103560,
+          "quoted": 69404,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 45,
+          "computed": 103560,
+          "quoted": 73300,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 50,
+          "computed": 103560,
+          "quoted": 72611,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 55,
+          "computed": 103560,
+          "quoted": 72867,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 60,
+          "computed": 103560,
+          "quoted": 80205,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 65,
+          "computed": 103560,
+          "quoted": 80297,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 70,
+          "computed": 103560,
+          "quoted": 81036,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 75,
+          "computed": 103560,
+          "quoted": 82283,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 80,
+          "computed": 103560,
+          "quoted": 81777,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 85,
+          "computed": 103560,
+          "quoted": 83935,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 90,
+          "computed": 103560,
+          "quoted": 80826,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 95,
+          "computed": 103560,
+          "quoted": 81086,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 100,
+          "computed": 103560,
+          "quoted": 78279,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 105,
+          "computed": 103560,
+          "quoted": 80212,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 110,
+          "computed": 103560,
+          "quoted": 78770,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 115,
+          "computed": 103560,
+          "quoted": 79147,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 120,
+          "computed": 103560,
+          "quoted": 83042,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 125,
+          "computed": 103560,
+          "quoted": 83598,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 130,
+          "computed": 103560,
+          "quoted": 80994,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 135,
+          "computed": 103560,
+          "quoted": 84331,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 140,
+          "computed": 103560,
+          "quoted": 81965,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 145,
+          "computed": 103560,
+          "quoted": 81822,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 150,
+          "computed": 103560,
+          "quoted": 80925,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 155,
+          "computed": 103560,
+          "quoted": 82888,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 160,
+          "computed": 103560,
+          "quoted": 81096,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 165,
+          "computed": 103560,
+          "quoted": 84130,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 170,
+          "computed": 103560,
+          "quoted": 80987,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 175,
+          "computed": 103560,
+          "quoted": 81216,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 180,
+          "computed": 103560,
+          "quoted": 86700,
+          "snapshotsWithQuotes": 4285
+        }
+      ],
+      "beats": {
+        "count": 3728160,
+        "brier": 0.05673237943088587,
+        "baselineBrier": 0.060789591805330494,
+        "logLoss": 0.22089483990665612,
+        "baselineLogLoss": 0.2789004635953042,
+        "quoted": 2749673,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.737541575468864
+      },
+      "steps": {
+        "count": 25890,
+        "brier": 0.684733137565764,
+        "baselineBrier": 0.7065273056531238,
+        "logLoss": 1.3860909446335825,
+        "baselineLogLoss": 1.4943048082268047,
+        "quoted": 22335,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.8626882966396292
+      },
+      "strategies": [
+        {
+          "name": "uniform",
+          "attempts": 4315,
+          "quoted": 3215,
+          "rtp": 0.662597200622084,
+          "hourlyBootstrapInterval": [
+            0.5812769808794386,
+            0.7421297379729078
+          ],
+          "hourBlocks": 72,
+          "pnl": 1084.7499999999998,
+          "maxDrawdown": 64.98000000000013
+        },
+        {
+          "name": "uniformQuoted",
+          "attempts": 4315,
+          "quoted": 4285,
+          "rtp": 0.6277806301050182,
+          "hourlyBootstrapInterval": [
+            0.5525564842349137,
+            0.7027424074572298
+          ],
+          "hourBlocks": 72,
+          "pnl": 1594.9599999999973,
+          "maxDrawdown": 43.960000000000264
+        },
+        {
+          "name": "maximumBaseline",
+          "attempts": 4315,
+          "quoted": 4285,
+          "rtp": 0.4977689614935805,
+          "hourlyBootstrapInterval": [
+            0.44226952188699337,
+            0.559286985823435
+          ],
+          "hourBlocks": 72,
+          "pnl": 2152.0600000000077,
+          "maxDrawdown": 68.54999999999973
+        }
+      ]
+    },
+    {
+      "asset": "XAU_USDT",
+      "convention": "trade",
+      "snapshots": 4315,
+      "windows": [
+        {
+          "lead": 5,
+          "computed": 103560,
+          "quoted": 46823,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 10,
+          "computed": 103560,
+          "quoted": 51008,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 15,
+          "computed": 103560,
+          "quoted": 54502,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 20,
+          "computed": 103560,
+          "quoted": 60852,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 25,
+          "computed": 103560,
+          "quoted": 63308,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 30,
+          "computed": 103560,
+          "quoted": 62943,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 35,
+          "computed": 103560,
+          "quoted": 67029,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 40,
+          "computed": 103560,
+          "quoted": 67198,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 45,
+          "computed": 103560,
+          "quoted": 70497,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 50,
+          "computed": 103560,
+          "quoted": 68245,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 55,
+          "computed": 103560,
+          "quoted": 64508,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 60,
+          "computed": 103560,
+          "quoted": 76185,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 65,
+          "computed": 103560,
+          "quoted": 77286,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 70,
+          "computed": 103560,
+          "quoted": 78606,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 75,
+          "computed": 103560,
+          "quoted": 79677,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 80,
+          "computed": 103560,
+          "quoted": 78983,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 85,
+          "computed": 103560,
+          "quoted": 80771,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 90,
+          "computed": 103560,
+          "quoted": 77013,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 95,
+          "computed": 103560,
+          "quoted": 77247,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 100,
+          "computed": 103560,
+          "quoted": 74687,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 105,
+          "computed": 103560,
+          "quoted": 74913,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 110,
+          "computed": 103560,
+          "quoted": 71437,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 115,
+          "computed": 103560,
+          "quoted": 70834,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 120,
+          "computed": 103560,
+          "quoted": 78235,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 125,
+          "computed": 103560,
+          "quoted": 79979,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 130,
+          "computed": 103560,
+          "quoted": 77367,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 135,
+          "computed": 103560,
+          "quoted": 80743,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 140,
+          "computed": 103560,
+          "quoted": 78479,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 145,
+          "computed": 103560,
+          "quoted": 77147,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 150,
+          "computed": 103560,
+          "quoted": 76912,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 155,
+          "computed": 103560,
+          "quoted": 78642,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 160,
+          "computed": 103560,
+          "quoted": 76170,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 165,
+          "computed": 103560,
+          "quoted": 79008,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 170,
+          "computed": 103560,
+          "quoted": 72421,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 175,
+          "computed": 103560,
+          "quoted": 69441,
+          "snapshotsWithQuotes": 4285
+        },
+        {
+          "lead": 180,
+          "computed": 103560,
+          "quoted": 80976,
+          "snapshotsWithQuotes": 4285
+        }
+      ],
+      "beats": {
+        "count": 3728160,
+        "brier": 0.05126655041938643,
+        "baselineBrier": 0.053165110409666524,
+        "logLoss": 0.20420177632314201,
+        "baselineLogLoss": 0.25890111995944176,
+        "quoted": 2600072,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.6974142740654907
+      },
+      "steps": {
+        "count": 25890,
+        "brier": 0.684733137565764,
+        "baselineBrier": 0.7065273056531238,
+        "logLoss": 1.3860909446335825,
+        "baselineLogLoss": 1.4943048082268047,
+        "quoted": 22335,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.8626882966396292
+      },
+      "strategies": [
+        {
+          "name": "uniform",
+          "attempts": 4315,
+          "quoted": 3024,
+          "rtp": 0.657437169312169,
+          "hourlyBootstrapInterval": [
+            0.5530919958312264,
+            0.7528913025493295
+          ],
+          "hourBlocks": 72,
+          "pnl": 1035.910000000001,
+          "maxDrawdown": 56.54000000000002
+        },
+        {
+          "name": "uniformQuoted",
+          "attempts": 4315,
+          "quoted": 4285,
+          "rtp": 0.6021260210035003,
+          "hourlyBootstrapInterval": [
+            0.5075715857276388,
+            0.6942000509906757
+          ],
+          "hourBlocks": 72,
+          "pnl": 1704.890000000001,
+          "maxDrawdown": 82.47999999999968
+        },
+        {
+          "name": "maximumBaseline",
+          "attempts": 4315,
+          "quoted": 4285,
+          "rtp": 0.49615869311551664,
+          "hourlyBootstrapInterval": [
+            0.43137102539695155,
+            0.5743857398914337
+          ],
+          "hourBlocks": 72,
+          "pnl": 2158.9600000000114,
+          "maxDrawdown": 67.69999999999948
+        }
+      ]
+    }
+  ],
+  "independent": false,
+  "conclusion": "Observed historical diagnostic only. Earlier work inspected these outcomes; no independent validation claim."
+}

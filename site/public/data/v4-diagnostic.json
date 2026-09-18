@@ -1,0 +1,345 @@
+{
+  "checkedAt": "2026-09-18T02:42:10.833Z",
+  "protocol": {
+    "version": "v4-component-risk-envelope",
+    "writtenAt": "2026-09-18T02:08:50.792502+00:00",
+    "training": "Event paths before 2026-09-09T00:00:00Z; recompute every feature scale, volatility floor and jump limit on this prefix only",
+    "selectionAndCenterFit": [
+      "2026-09-09T00:00:00Z",
+      "2026-09-12T00:00:00Z"
+    ],
+    "riskCalibration": [
+      "2026-09-12T00:00:00Z",
+      "2026-09-15T00:00:00Z"
+    ],
+    "anchorSeconds": 300,
+    "purgeSeconds": 300,
+    "candidates": {
+      "localWeight": [
+        0,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ],
+      "neighbors": [
+        128
+      ]
+    },
+    "score": "Brier on fixed common full-board contracts; both Beats conventions independently; Steps five classes",
+    "risk": "score bins merged until >=32 distinct anchors and >=8 hours, horizon and state with explicit pooled fallback; center monotone isotonic; risk hourly bootstrap upper residual and Wilson effective-anchor support floor; Steps coherent ordered exceedance bounds",
+    "bootstrapReplicates": 400,
+    "bootstrapQuantile": 0.95,
+    "evaluation": "Sep15-18 already observed, diagnostic only; no independent V4 performance claim from this interval",
+    "unchangedPolicies": "94% budget, 50 cap, minimum odds 1.01, equal-log-increments utility are declared product choices, not uniquely market-implied",
+    "stress": "1.5x return scenarios retained for threshold geometry, no longer asserted as nominal probabilities",
+    "developmentCorrection": {
+      "at": "2026-09-18T02:22:55.379214+00:00",
+      "reason": "Coarse cumulative center bins created zero-probability exclusive middle tiers. Preserve a five-class mixture with Jeffreys half-count smoothing instead; use monotone risk curves only as upper bounds for Steps.",
+      "selection": "Same pre-diagnostic candidate weights; no retuning weights on diagnostics.",
+      "qualityPolicy": {
+        "minimumEstimatedRtp": 0.8,
+        "interpretation": "Explicit product minimum, not an empirical optimum or actual-return guarantee",
+        "steps": "Constrained utility optimization includes the nominal lower bound, with cent-rounding reserve."
+      }
+    },
+    "stepGeometry": {
+      "id": "positive-quartiles-v3",
+      "objective": "Divide same-direction positive price moves into four equal-frequency outcome tiers before legal-tick constraints. Scenario-wise maximum of quartiles for common candidate contracts.",
+      "why": "Previous .60/.80/.93/.99 absolute-return thresholds plus 1.5x stress made all four tiers rare and the honest risk bounds incompatible with player-return quality. The first threshold is now one positive attainable displacement.",
+      "levels": [
+        0,
+        0.25,
+        0.5,
+        0.75
+      ],
+      "calibration": "Chronological training through Sep09, center selection Sep09-12, independent risk fit Sep12-15."
+    },
+    "allocationReason": "Reserve three full days for each calibration stage; one-day risk cells were too uncertain to support useful odds. Do not reduce confidence settings using diagnostic outcomes.",
+    "riskEnvelope": "Add local and unconditional probabilities to calibrated upper bounds, for Beats probabilities and each Steps cumulative tail. Preserve fitted center and calibration curves."
+  },
+  "period": [
+    1789430400000,
+    1789689600000
+  ],
+  "results": [
+    {
+      "asset": "BTC_USDT",
+      "convention": "carried",
+      "snapshots": 4315,
+      "beats": {
+        "count": 3728160,
+        "brier": 0.05653167398941853,
+        "baselineBrier": 0.0571730574294378,
+        "logLoss": 0.22344873109383834,
+        "baselineLogLoss": 0.24648402930598154,
+        "quoted": 554506,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.1487344963735462
+      },
+      "steps": {
+        "count": 25890,
+        "brier": 0.6819325385430521,
+        "baselineBrier": 0.6886717005464827,
+        "logLoss": 1.3856130793759933,
+        "baselineLogLoss": 1.4505810744561494,
+        "quoted": 23940,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.9246813441483198
+      },
+      "strategies": [
+        {
+          "name": "uniform",
+          "attempts": 4315,
+          "quoted": 678,
+          "rtp": 1.0703687315634218,
+          "hourlyBootstrapInterval": [
+            0.7419654260021722,
+            1.4381618222891563
+          ],
+          "hourBlocks": 72,
+          "pnl": -47.709999999999965,
+          "maxDrawdown": 173.23999999999995
+        },
+        {
+          "name": "uniformQuoted",
+          "attempts": 4315,
+          "quoted": 4311,
+          "rtp": 0.8305056831361629,
+          "hourlyBootstrapInterval": [
+            0.7222347579834529,
+            0.950571722812749
+          ],
+          "hourBlocks": 72,
+          "pnl": 730.6900000000016,
+          "maxDrawdown": 263.2699999999997
+        },
+        {
+          "name": "maximumBaseline",
+          "attempts": 4315,
+          "quoted": 4311,
+          "rtp": 0.8326096033402922,
+          "hourlyBootstrapInterval": [
+            0.6803381773753875,
+            0.9855304741589388
+          ],
+          "hourBlocks": 72,
+          "pnl": 721.6200000000001,
+          "maxDrawdown": 319.8699999999999
+        }
+      ]
+    },
+    {
+      "asset": "BTC_USDT",
+      "convention": "trade",
+      "snapshots": 4315,
+      "beats": {
+        "count": 3728160,
+        "brier": 0.049784421539007986,
+        "baselineBrier": 0.05025824012329055,
+        "logLoss": 0.20210864767851977,
+        "baselineLogLoss": 0.226000310617357,
+        "quoted": 1394002,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.3739115274022574
+      },
+      "steps": {
+        "count": 25890,
+        "brier": 0.6819325385430521,
+        "baselineBrier": 0.6886717005464827,
+        "logLoss": 1.3856130793759933,
+        "baselineLogLoss": 1.4505810744561494,
+        "quoted": 23940,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.9246813441483198
+      },
+      "strategies": [
+        {
+          "name": "uniform",
+          "attempts": 4315,
+          "quoted": 1645,
+          "rtp": 0.7341580547112461,
+          "hourlyBootstrapInterval": [
+            0.5609346153394038,
+            0.9335398134903284
+          ],
+          "hourBlocks": 72,
+          "pnl": 437.3100000000001,
+          "maxDrawdown": 137.9699999999998
+        },
+        {
+          "name": "uniformQuoted",
+          "attempts": 4315,
+          "quoted": 4311,
+          "rtp": 0.8558431918348407,
+          "hourlyBootstrapInterval": [
+            0.7269821471795871,
+            0.9942633009810368
+          ],
+          "hourBlocks": 72,
+          "pnl": 621.4600000000017,
+          "maxDrawdown": 246.0199999999997
+        },
+        {
+          "name": "maximumBaseline",
+          "attempts": 4315,
+          "quoted": 4311,
+          "rtp": 0.89455114822547,
+          "hourlyBootstrapInterval": [
+            0.7438229623772937,
+            1.0245259878862474
+          ],
+          "hourBlocks": 72,
+          "pnl": 454.5899999999989,
+          "maxDrawdown": 296.48000000000036
+        }
+      ]
+    },
+    {
+      "asset": "ETH_USDT",
+      "convention": "carried",
+      "snapshots": 4315,
+      "beats": {
+        "count": 3728160,
+        "brier": 0.06125574026865778,
+        "baselineBrier": 0.06193526611681747,
+        "logLoss": 0.23905086585072596,
+        "baselineLogLoss": 0.2624933347581916,
+        "quoted": 505167,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.13550035406205743
+      },
+      "steps": {
+        "count": 25890,
+        "brier": 0.6804406008079371,
+        "baselineBrier": 0.6876560227389316,
+        "logLoss": 1.3820560844750225,
+        "baselineLogLoss": 1.4336244116901558,
+        "quoted": 24900,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.9617612977983777
+      },
+      "strategies": [
+        {
+          "name": "uniform",
+          "attempts": 4315,
+          "quoted": 618,
+          "rtp": 0.7560841423948221,
+          "hourlyBootstrapInterval": [
+            0.5602321527437663,
+            0.9784450181369141
+          ],
+          "hourBlocks": 72,
+          "pnl": 150.73999999999995,
+          "maxDrawdown": 57.450000000000045
+        },
+        {
+          "name": "uniformQuoted",
+          "attempts": 4315,
+          "quoted": 4306,
+          "rtp": 0.8527775197398975,
+          "hourlyBootstrapInterval": [
+            0.7222637076930447,
+            0.9888631859321928
+          ],
+          "hourBlocks": 72,
+          "pnl": 633.9400000000016,
+          "maxDrawdown": 231.10000000000002
+        },
+        {
+          "name": "maximumBaseline",
+          "attempts": 4315,
+          "quoted": 4306,
+          "rtp": 0.8747631212261964,
+          "hourlyBootstrapInterval": [
+            0.7752772629074653,
+            0.9823584986187058
+          ],
+          "hourBlocks": 72,
+          "pnl": 539.2699999999985,
+          "maxDrawdown": 193.38999999999965
+        }
+      ]
+    },
+    {
+      "asset": "ETH_USDT",
+      "convention": "trade",
+      "snapshots": 4315,
+      "beats": {
+        "count": 3728160,
+        "brier": 0.05458342108226685,
+        "baselineBrier": 0.05514672874744386,
+        "logLoss": 0.21844174539458766,
+        "baselineLogLoss": 0.2422800298271599,
+        "quoted": 622809,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.16705533024333719
+      },
+      "steps": {
+        "count": 25890,
+        "brier": 0.6804406008079371,
+        "baselineBrier": 0.6876560227389316,
+        "logLoss": 1.3820560844750225,
+        "baselineLogLoss": 1.4336244116901558,
+        "quoted": 24900,
+        "violations": 0,
+        "qualityViolations": 0,
+        "quoteAvailability": 0.9617612977983777
+      },
+      "strategies": [
+        {
+          "name": "uniform",
+          "attempts": 4315,
+          "quoted": 755,
+          "rtp": 0.6733112582781458,
+          "hourlyBootstrapInterval": [
+            0.4918584582499794,
+            0.9010321522524589
+          ],
+          "hourBlocks": 72,
+          "pnl": 246.64999999999998,
+          "maxDrawdown": 39.609999999999985
+        },
+        {
+          "name": "uniformQuoted",
+          "attempts": 4315,
+          "quoted": 4306,
+          "rtp": 0.8763980492336273,
+          "hourlyBootstrapInterval": [
+            0.7609966410076788,
+            0.9856441123241949
+          ],
+          "hourBlocks": 72,
+          "pnl": 532.2300000000007,
+          "maxDrawdown": 202.78999999999996
+        },
+        {
+          "name": "maximumBaseline",
+          "attempts": 4315,
+          "quoted": 4306,
+          "rtp": 0.8377751973989779,
+          "hourlyBootstrapInterval": [
+            0.7512975544068562,
+            0.9330504197930247
+          ],
+          "hourBlocks": 72,
+          "pnl": 698.5400000000011,
+          "maxDrawdown": 98.08999999999997
+        }
+      ]
+    }
+  ],
+  "independent": false,
+  "conclusion": "Observed historical diagnostic only. Earlier work inspected these outcomes; no independent validation claim.",
+  "metadataCorrection": {
+    "at": "2026-09-18T03:02:02.979545+00:00",
+    "reason": "Replace inherited V3 protocol label with the V4 component risk envelope used in this run; prediction and outcome results unchanged."
+  }
+}

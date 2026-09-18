@@ -1,0 +1,157 @@
+{
+  "checkedAt": "2026-09-18T01:49:02.922Z",
+  "protocolHash": "5e3f79127a4f366ff32624df6b1f21ccc9169c714b37acff1d32621660c3311f",
+  "protocol": {
+    "frozenAt": "2026-09-18T01:46:25.454Z",
+    "window": {
+      "start": "2026-09-17T18:00:00Z",
+      "end": "2026-09-18T00:00:00Z"
+    },
+    "reason": "This six-hour interval has not been loaded into this project or used for V2 model selection. Freeze before public acquisition.",
+    "rule": "One snapshot per minute; carry convention; all 864 Beats cells and 6 Steps groups; compare raw conditional probability with global baseline; one deterministic uniform contract and one highest baseline-expected-payout quoted contract per asset/minute; no tuning on this window.",
+    "limits": "Historical event-time evaluation; no observed receipt times, true client latency, fees or automated real capital approval. Six hours is short.",
+    "modelChecks": [
+      {
+        "file": "site/lib/engine/pricing.ts",
+        "sha256": "039c6f5b760945b0662f02b68f99ee91952988a3ea6a5ebb289e3fc890177989"
+      },
+      {
+        "file": "site/lib/engine/types.ts",
+        "sha256": "1dcdc83ca57750a821755421e53ae04a24c7f884ed7726e63e7542f6fa3dc811"
+      },
+      {
+        "file": "site/lib/engine/math.ts",
+        "sha256": "edf3399f4af0188bbf6596cc64e8f965d5aab82f36ab558f5b652432f109b511"
+      },
+      {
+        "file": "site/lib/engine/market.ts",
+        "sha256": "b9ff3d214fb1d0fde54932e7cac95795d254fd6070e4f6f08ff872cd0c81672b"
+      },
+      {
+        "file": "site/lib/engine/settlement.ts",
+        "sha256": "07f0309e5d4666efd40ce9b1379cc557b823058737649eb7ffb153b6d4a9a02b"
+      },
+      {
+        "file": "site/lib/engine/odds.ts",
+        "sha256": "3bcf6e1709eb3125806c808d6504906afae343b42530bec60178ea49f5c27209"
+      },
+      {
+        "file": "data/artifacts/BTC_USDT-library-v2.json.gz",
+        "sha256": "6753539f740ba57c61eb72cddd28b207d362f3cca278851a08ad277b86b759d6"
+      },
+      {
+        "file": "data/artifacts/ETH_USDT-library-v2.json.gz",
+        "sha256": "8da2e4e8513ff0fd07f303fdf97c2456e0451950c13757cd2c4eba61b5616892"
+      }
+    ]
+  },
+  "manifestHash": "df5b32f850971f6bc7e9fef8c33e3f471a96cc14db9eb9d7143dad282cb1826d",
+  "modelHashesMatched": true,
+  "results": [
+    {
+      "asset": "BTC_USDT",
+      "snapshots": 355,
+      "beats": {
+        "count": 306720,
+        "brier": 0.04743755561458486,
+        "baselineBrier": 0.04770864209098995,
+        "logLoss": 0.19746279927005436,
+        "baselineLogLoss": 0.1980864522271504,
+        "quoted": 264609,
+        "violations": 0,
+        "quoteAvailability": 0.8627053990610328
+      },
+      "steps": {
+        "count": 2130,
+        "brier": 0.20574423919821008,
+        "baselineBrier": 0.20968882959213614,
+        "logLoss": 0.4539473657025735,
+        "baselineLogLoss": 0.47171242408502434,
+        "quoted": 2130,
+        "violations": 0,
+        "quoteAvailability": 1
+      },
+      "strategies": [
+        {
+          "name": "uniform",
+          "attempts": 355,
+          "quoted": 323,
+          "rtp": 0.5538080495356038,
+          "hourlyBootstrapInterval": [
+            0.4141528645833332,
+            0.7020552147239263
+          ],
+          "hourBlocks": 6,
+          "pnl": 144.11999999999998,
+          "maxDrawdown": 36.01
+        },
+        {
+          "name": "maximumBaseline",
+          "attempts": 355,
+          "quoted": 355,
+          "rtp": 0.7547042253521126,
+          "hourlyBootstrapInterval": [
+            0.6589465277777778,
+            0.8529142857142856
+          ],
+          "hourBlocks": 6,
+          "pnl": 87.08000000000006,
+          "maxDrawdown": 9.86999999999999
+        }
+      ]
+    },
+    {
+      "asset": "ETH_USDT",
+      "snapshots": 355,
+      "beats": {
+        "count": 306720,
+        "brier": 0.05600335027130557,
+        "baselineBrier": 0.05599500310874943,
+        "logLoss": 0.2270535735774862,
+        "baselineLogLoss": 0.22697663298726478,
+        "quoted": 281897,
+        "violations": 0,
+        "quoteAvailability": 0.9190695096504956
+      },
+      "steps": {
+        "count": 2130,
+        "brier": 0.19847750238409625,
+        "baselineBrier": 0.20146925662045187,
+        "logLoss": 0.43850918028581604,
+        "baselineLogLoss": 0.4443186584368051,
+        "quoted": 2130,
+        "violations": 0,
+        "quoteAvailability": 1
+      },
+      "strategies": [
+        {
+          "name": "uniform",
+          "attempts": 355,
+          "quoted": 330,
+          "rtp": 0.21336363636363664,
+          "hourlyBootstrapInterval": [
+            0.16775449101796408,
+            0.2600920245398773
+          ],
+          "hourBlocks": 6,
+          "pnl": 259.5899999999999,
+          "maxDrawdown": 3.3999999999999986
+        },
+        {
+          "name": "maximumBaseline",
+          "attempts": 355,
+          "quoted": 355,
+          "rtp": 0.561661971830986,
+          "hourlyBootstrapInterval": [
+            0.5001388888888891,
+            0.641359420289855
+          ],
+          "hourBlocks": 6,
+          "pnl": 155.60999999999999,
+          "maxDrawdown": 1.5300000000000011
+        }
+      ]
+    }
+  ],
+  "conclusion": "A new six-hour historical check, not production certification. Inspect prediction and player-selection outcomes; do not tune this model on this interval."
+}

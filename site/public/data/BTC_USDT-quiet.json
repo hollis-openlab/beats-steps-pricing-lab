@@ -1,0 +1,6199 @@
+{
+  "id": "BTC_USDT-quiet",
+  "asset": "BTC_USDT",
+  "name": "quiet",
+  "start": 1789594500000,
+  "end": 1789595400000,
+  "eventAt": 1789594516584.04,
+  "count": 687,
+  "selectedAfterObservation": true,
+  "synthetic": false,
+  "source": "Gate BTC_USDT spot trades",
+  "quietStart": 1789594495604.237,
+  "quietEnd": 1789594507461.004,
+  "trades": [
+    {
+      "t": 1789594433346.107,
+      "p": 760637,
+      "id": "219417481",
+      "sequence": "219417481",
+      "sourceTime": "1789594433346.107000",
+      "priceChangedAt": 1789594424960.481,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594435779.875,
+      "p": 760637,
+      "id": "219417482",
+      "sequence": "219417482",
+      "sourceTime": "1789594435779.875000",
+      "priceChangedAt": 1789594424960.481,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594436939.914,
+      "p": 760638,
+      "id": "219417483",
+      "sequence": "219417483",
+      "sourceTime": "1789594436939.914000",
+      "priceChangedAt": 1789594436939.914,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594440891.398,
+      "p": 760638,
+      "id": "219417484",
+      "sequence": "219417484",
+      "sourceTime": "1789594440891.398000",
+      "priceChangedAt": 1789594436939.914,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594448598.769,
+      "p": 760637,
+      "id": "219417485",
+      "sequence": "219417485",
+      "sourceTime": "1789594448598.769000",
+      "priceChangedAt": 1789594448598.769,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594448923.186,
+      "p": 760622,
+      "id": "219417486",
+      "sequence": "219417486",
+      "sourceTime": "1789594448923.186000",
+      "priceChangedAt": 1789594448923.186,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594451753.871,
+      "p": 760622,
+      "id": "219417487",
+      "sequence": "219417487",
+      "sourceTime": "1789594451753.871000",
+      "priceChangedAt": 1789594448923.186,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594451780.911,
+      "p": 760623,
+      "id": "219417488",
+      "sequence": "219417488",
+      "sourceTime": "1789594451780.911000",
+      "priceChangedAt": 1789594451780.911,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594457491.156,
+      "p": 760622,
+      "id": "219417489",
+      "sequence": "219417489",
+      "sourceTime": "1789594457491.156000",
+      "priceChangedAt": 1789594457491.156,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594457491.19,
+      "p": 760622,
+      "id": "219417490",
+      "sequence": "219417490",
+      "sourceTime": "1789594457491.190000",
+      "priceChangedAt": 1789594457491.156,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594458028.873,
+      "p": 760622,
+      "id": "219417491",
+      "sequence": "219417491",
+      "sourceTime": "1789594458028.873000",
+      "priceChangedAt": 1789594457491.156,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594463204.329,
+      "p": 760622,
+      "id": "219417492",
+      "sequence": "219417492",
+      "sourceTime": "1789594463204.329000",
+      "priceChangedAt": 1789594457491.156,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594463529.711,
+      "p": 760622,
+      "id": "219417493",
+      "sequence": "219417493",
+      "sourceTime": "1789594463529.711000",
+      "priceChangedAt": 1789594457491.156,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594469432.712,
+      "p": 760622,
+      "id": "219417494",
+      "sequence": "219417494",
+      "sourceTime": "1789594469432.712000",
+      "priceChangedAt": 1789594457491.156,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594472064.058,
+      "p": 760622,
+      "id": "219417495",
+      "sequence": "219417495",
+      "sourceTime": "1789594472064.058000",
+      "priceChangedAt": 1789594457491.156,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594474468.209,
+      "p": 760623,
+      "id": "219417496",
+      "sequence": "219417496",
+      "sourceTime": "1789594474468.209000",
+      "priceChangedAt": 1789594474468.209,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594474468.343,
+      "p": 760623,
+      "id": "219417497",
+      "sequence": "219417497",
+      "sourceTime": "1789594474468.343000",
+      "priceChangedAt": 1789594474468.209,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594474470.231,
+      "p": 760623,
+      "id": "219417498",
+      "sequence": "219417498",
+      "sourceTime": "1789594474470.231000",
+      "priceChangedAt": 1789594474468.209,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594474470.542,
+      "p": 760623,
+      "id": "219417499",
+      "sequence": "219417499",
+      "sourceTime": "1789594474470.542000",
+      "priceChangedAt": 1789594474468.209,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594474472.084,
+      "p": 760623,
+      "id": "219417500",
+      "sequence": "219417500",
+      "sourceTime": "1789594474472.084000",
+      "priceChangedAt": 1789594474468.209,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594474472.374,
+      "p": 760623,
+      "id": "219417501",
+      "sequence": "219417501",
+      "sourceTime": "1789594474472.374000",
+      "priceChangedAt": 1789594474468.209,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594474472.659,
+      "p": 760623,
+      "id": "219417502",
+      "sequence": "219417502",
+      "sourceTime": "1789594474472.659000",
+      "priceChangedAt": 1789594474468.209,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594474472.965,
+      "p": 760623,
+      "id": "219417503",
+      "sequence": "219417503",
+      "sourceTime": "1789594474472.965000",
+      "priceChangedAt": 1789594474468.209,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594474473.409,
+      "p": 760623,
+      "id": "219417504",
+      "sequence": "219417504",
+      "sourceTime": "1789594474473.409000",
+      "priceChangedAt": 1789594474468.209,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594474474.594,
+      "p": 760623,
+      "id": "219417505",
+      "sequence": "219417505",
+      "sourceTime": "1789594474474.594000",
+      "priceChangedAt": 1789594474468.209,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594481109.079,
+      "p": 760622,
+      "id": "219417506",
+      "sequence": "219417506",
+      "sourceTime": "1789594481109.079000",
+      "priceChangedAt": 1789594481109.079,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594487038.725,
+      "p": 760622,
+      "id": "219417507",
+      "sequence": "219417507",
+      "sourceTime": "1789594487038.725000",
+      "priceChangedAt": 1789594481109.079,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594487608.698,
+      "p": 760623,
+      "id": "219417508",
+      "sequence": "219417508",
+      "sourceTime": "1789594487608.698000",
+      "priceChangedAt": 1789594487608.698,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594489318.858,
+      "p": 760612,
+      "id": "219417509",
+      "sequence": "219417509",
+      "sourceTime": "1789594489318.858000",
+      "priceChangedAt": 1789594489318.858,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594492886.016,
+      "p": 760613,
+      "id": "219417510",
+      "sequence": "219417510",
+      "sourceTime": "1789594492886.016000",
+      "priceChangedAt": 1789594492886.016,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594495604.237,
+      "p": 760612,
+      "id": "219417511",
+      "sequence": "219417511",
+      "sourceTime": "1789594495604.237000",
+      "priceChangedAt": 1789594495604.237,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594507461.004,
+      "p": 760613,
+      "id": "219417512",
+      "sequence": "219417512",
+      "sourceTime": "1789594507461.004000",
+      "priceChangedAt": 1789594507461.004,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594512330.055,
+      "p": 760612,
+      "id": "219417513",
+      "sequence": "219417513",
+      "sourceTime": "1789594512330.055000",
+      "priceChangedAt": 1789594512330.055,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594512359.009,
+      "p": 760613,
+      "id": "219417514",
+      "sequence": "219417514",
+      "sourceTime": "1789594512359.009000",
+      "priceChangedAt": 1789594512359.009,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594516584.04,
+      "p": 760604,
+      "id": "219417515",
+      "sequence": "219417515",
+      "sourceTime": "1789594516584.040000",
+      "priceChangedAt": 1789594516584.04,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594517998.41,
+      "p": 760604,
+      "id": "219417516",
+      "sequence": "219417516",
+      "sourceTime": "1789594517998.410000",
+      "priceChangedAt": 1789594516584.04,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594518376.771,
+      "p": 760604,
+      "id": "219417517",
+      "sequence": "219417517",
+      "sourceTime": "1789594518376.771000",
+      "priceChangedAt": 1789594516584.04,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594518376.777,
+      "p": 760604,
+      "id": "219417518",
+      "sequence": "219417518",
+      "sourceTime": "1789594518376.777000",
+      "priceChangedAt": 1789594516584.04,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594518376.786,
+      "p": 760604,
+      "id": "219417519",
+      "sequence": "219417519",
+      "sourceTime": "1789594518376.786000",
+      "priceChangedAt": 1789594516584.04,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594518376.791,
+      "p": 760604,
+      "id": "219417520",
+      "sequence": "219417520",
+      "sourceTime": "1789594518376.791000",
+      "priceChangedAt": 1789594516584.04,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594520879.214,
+      "p": 760605,
+      "id": "219417521",
+      "sequence": "219417521",
+      "sourceTime": "1789594520879.214000",
+      "priceChangedAt": 1789594520879.214,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594523681.509,
+      "p": 760604,
+      "id": "219417522",
+      "sequence": "219417522",
+      "sourceTime": "1789594523681.509000",
+      "priceChangedAt": 1789594523681.509,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594525341.923,
+      "p": 760604,
+      "id": "219417523",
+      "sequence": "219417523",
+      "sourceTime": "1789594525341.923000",
+      "priceChangedAt": 1789594523681.509,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594528881.37,
+      "p": 760605,
+      "id": "219417524",
+      "sequence": "219417524",
+      "sourceTime": "1789594528881.370000",
+      "priceChangedAt": 1789594528881.37,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594532931.376,
+      "p": 760605,
+      "id": "219417525",
+      "sequence": "219417525",
+      "sourceTime": "1789594532931.376000",
+      "priceChangedAt": 1789594528881.37,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594536944.441,
+      "p": 760605,
+      "id": "219417526",
+      "sequence": "219417526",
+      "sourceTime": "1789594536944.441000",
+      "priceChangedAt": 1789594528881.37,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594540875.771,
+      "p": 760605,
+      "id": "219417527",
+      "sequence": "219417527",
+      "sourceTime": "1789594540875.771000",
+      "priceChangedAt": 1789594528881.37,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594547075.786,
+      "p": 760604,
+      "id": "219417528",
+      "sequence": "219417528",
+      "sourceTime": "1789594547075.786000",
+      "priceChangedAt": 1789594547075.786,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594557501.165,
+      "p": 760605,
+      "id": "219417529",
+      "sequence": "219417529",
+      "sourceTime": "1789594557501.165000",
+      "priceChangedAt": 1789594557501.165,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594564335.93,
+      "p": 760605,
+      "id": "219417530",
+      "sequence": "219417530",
+      "sourceTime": "1789594564335.930000",
+      "priceChangedAt": 1789594557501.165,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594564437.599,
+      "p": 760604,
+      "id": "219417531",
+      "sequence": "219417531",
+      "sourceTime": "1789594564437.599000",
+      "priceChangedAt": 1789594564437.599,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594564730.788,
+      "p": 760605,
+      "id": "219417532",
+      "sequence": "219417532",
+      "sourceTime": "1789594564730.788000",
+      "priceChangedAt": 1789594564730.788,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594564730.792,
+      "p": 760605,
+      "id": "219417533",
+      "sequence": "219417533",
+      "sourceTime": "1789594564730.792000",
+      "priceChangedAt": 1789594564730.788,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594564730.799,
+      "p": 760605,
+      "id": "219417534",
+      "sequence": "219417534",
+      "sourceTime": "1789594564730.799000",
+      "priceChangedAt": 1789594564730.788,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594564730.804,
+      "p": 760605,
+      "id": "219417535",
+      "sequence": "219417535",
+      "sourceTime": "1789594564730.804000",
+      "priceChangedAt": 1789594564730.788,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594564732.458,
+      "p": 760613,
+      "id": "219417536",
+      "sequence": "219417536",
+      "sourceTime": "1789594564732.458000",
+      "priceChangedAt": 1789594564732.458,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594566053.802,
+      "p": 760678,
+      "id": "219417537",
+      "sequence": "219417537",
+      "sourceTime": "1789594566053.802000",
+      "priceChangedAt": 1789594566053.802,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594569507.972,
+      "p": 760679,
+      "id": "219417538",
+      "sequence": "219417538",
+      "sourceTime": "1789594569507.972000",
+      "priceChangedAt": 1789594569507.972,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594572014.922,
+      "p": 760678,
+      "id": "219417539",
+      "sequence": "219417539",
+      "sourceTime": "1789594572014.922000",
+      "priceChangedAt": 1789594572014.922,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594572039.718,
+      "p": 760679,
+      "id": "219417540",
+      "sequence": "219417540",
+      "sourceTime": "1789594572039.718000",
+      "priceChangedAt": 1789594572039.718,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594573186.025,
+      "p": 760678,
+      "id": "219417541",
+      "sequence": "219417541",
+      "sourceTime": "1789594573186.025000",
+      "priceChangedAt": 1789594573186.025,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594576618.769,
+      "p": 760678,
+      "id": "219417542",
+      "sequence": "219417542",
+      "sourceTime": "1789594576618.769000",
+      "priceChangedAt": 1789594573186.025,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594582390.424,
+      "p": 760678,
+      "id": "219417543",
+      "sequence": "219417543",
+      "sourceTime": "1789594582390.424000",
+      "priceChangedAt": 1789594573186.025,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594591448.527,
+      "p": 760679,
+      "id": "219417544",
+      "sequence": "219417544",
+      "sourceTime": "1789594591448.527000",
+      "priceChangedAt": 1789594591448.527,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594591448.562,
+      "p": 760679,
+      "id": "219417545",
+      "sequence": "219417545",
+      "sourceTime": "1789594591448.562000",
+      "priceChangedAt": 1789594591448.527,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594595401.804,
+      "p": 760678,
+      "id": "219417546",
+      "sequence": "219417546",
+      "sourceTime": "1789594595401.804000",
+      "priceChangedAt": 1789594595401.804,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594605235.7,
+      "p": 760679,
+      "id": "219417547",
+      "sequence": "219417547",
+      "sourceTime": "1789594605235.700000",
+      "priceChangedAt": 1789594605235.7,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594621058.332,
+      "p": 760679,
+      "id": "219417548",
+      "sequence": "219417548",
+      "sourceTime": "1789594621058.332000",
+      "priceChangedAt": 1789594605235.7,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594621058.336,
+      "p": 760679,
+      "id": "219417549",
+      "sequence": "219417549",
+      "sourceTime": "1789594621058.336000",
+      "priceChangedAt": 1789594605235.7,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594621065.718,
+      "p": 760680,
+      "id": "219417550",
+      "sequence": "219417550",
+      "sourceTime": "1789594621065.718000",
+      "priceChangedAt": 1789594621065.718,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594621065.751,
+      "p": 760680,
+      "id": "219417551",
+      "sequence": "219417551",
+      "sourceTime": "1789594621065.751000",
+      "priceChangedAt": 1789594621065.718,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594621065.755,
+      "p": 760681,
+      "id": "219417552",
+      "sequence": "219417552",
+      "sourceTime": "1789594621065.755000",
+      "priceChangedAt": 1789594621065.755,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594621595.465,
+      "p": 760735,
+      "id": "219417553",
+      "sequence": "219417553",
+      "sourceTime": "1789594621595.465000",
+      "priceChangedAt": 1789594621595.465,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594621760.612,
+      "p": 760736,
+      "id": "219417554",
+      "sequence": "219417554",
+      "sourceTime": "1789594621760.612000",
+      "priceChangedAt": 1789594621760.612,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594621760.618,
+      "p": 760736,
+      "id": "219417555",
+      "sequence": "219417555",
+      "sourceTime": "1789594621760.618000",
+      "priceChangedAt": 1789594621760.612,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594621760.621,
+      "p": 760736,
+      "id": "219417556",
+      "sequence": "219417556",
+      "sourceTime": "1789594621760.621000",
+      "priceChangedAt": 1789594621760.612,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594623578.709,
+      "p": 760791,
+      "id": "219417557",
+      "sequence": "219417557",
+      "sourceTime": "1789594623578.709000",
+      "priceChangedAt": 1789594623578.709,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594625627.386,
+      "p": 760792,
+      "id": "219417558",
+      "sequence": "219417558",
+      "sourceTime": "1789594625627.386000",
+      "priceChangedAt": 1789594625627.386,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594629500.949,
+      "p": 760792,
+      "id": "219417559",
+      "sequence": "219417559",
+      "sourceTime": "1789594629500.949000",
+      "priceChangedAt": 1789594625627.386,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594631565.72,
+      "p": 760791,
+      "id": "219417560",
+      "sequence": "219417560",
+      "sourceTime": "1789594631565.720000",
+      "priceChangedAt": 1789594631565.72,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594631591.547,
+      "p": 760792,
+      "id": "219417561",
+      "sequence": "219417561",
+      "sourceTime": "1789594631591.547000",
+      "priceChangedAt": 1789594631591.547,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594637313.621,
+      "p": 760791,
+      "id": "219417562",
+      "sequence": "219417562",
+      "sourceTime": "1789594637313.621000",
+      "priceChangedAt": 1789594637313.621,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594640066.823,
+      "p": 760791,
+      "id": "219417563",
+      "sequence": "219417563",
+      "sourceTime": "1789594640066.823000",
+      "priceChangedAt": 1789594637313.621,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594642382.865,
+      "p": 760792,
+      "id": "219417564",
+      "sequence": "219417564",
+      "sourceTime": "1789594642382.865000",
+      "priceChangedAt": 1789594642382.865,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594644278.002,
+      "p": 760742,
+      "id": "219417565",
+      "sequence": "219417565",
+      "sourceTime": "1789594644278.002000",
+      "priceChangedAt": 1789594644278.002,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594645501.3,
+      "p": 760742,
+      "id": "219417566",
+      "sequence": "219417566",
+      "sourceTime": "1789594645501.300000",
+      "priceChangedAt": 1789594644278.002,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594650466.532,
+      "p": 760742,
+      "id": "219417567",
+      "sequence": "219417567",
+      "sourceTime": "1789594650466.532000",
+      "priceChangedAt": 1789594644278.002,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594653750.421,
+      "p": 760701,
+      "id": "219417568",
+      "sequence": "219417568",
+      "sourceTime": "1789594653750.421000",
+      "priceChangedAt": 1789594653750.421,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594656143.433,
+      "p": 760701,
+      "id": "219417569",
+      "sequence": "219417569",
+      "sourceTime": "1789594656143.433000",
+      "priceChangedAt": 1789594653750.421,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594656917.758,
+      "p": 760701,
+      "id": "219417570",
+      "sequence": "219417570",
+      "sourceTime": "1789594656917.758000",
+      "priceChangedAt": 1789594653750.421,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594656917.763,
+      "p": 760701,
+      "id": "219417571",
+      "sequence": "219417571",
+      "sourceTime": "1789594656917.763000",
+      "priceChangedAt": 1789594653750.421,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594656926.496,
+      "p": 760679,
+      "id": "219417572",
+      "sequence": "219417572",
+      "sourceTime": "1789594656926.496000",
+      "priceChangedAt": 1789594656926.496,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594656926.502,
+      "p": 760679,
+      "id": "219417573",
+      "sequence": "219417573",
+      "sourceTime": "1789594656926.502000",
+      "priceChangedAt": 1789594656926.496,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594656941.884,
+      "p": 760679,
+      "id": "219417574",
+      "sequence": "219417574",
+      "sourceTime": "1789594656941.884000",
+      "priceChangedAt": 1789594656926.496,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594658026.186,
+      "p": 760623,
+      "id": "219417575",
+      "sequence": "219417575",
+      "sourceTime": "1789594658026.186000",
+      "priceChangedAt": 1789594658026.186,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594665501.082,
+      "p": 760622,
+      "id": "219417576",
+      "sequence": "219417576",
+      "sourceTime": "1789594665501.082000",
+      "priceChangedAt": 1789594665501.082,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594668300.559,
+      "p": 760623,
+      "id": "219417577",
+      "sequence": "219417577",
+      "sourceTime": "1789594668300.559000",
+      "priceChangedAt": 1789594668300.559,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594669504.729,
+      "p": 760622,
+      "id": "219417578",
+      "sequence": "219417578",
+      "sourceTime": "1789594669504.729000",
+      "priceChangedAt": 1789594669504.729,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594672003.309,
+      "p": 760622,
+      "id": "219417579",
+      "sequence": "219417579",
+      "sourceTime": "1789594672003.309000",
+      "priceChangedAt": 1789594669504.729,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594673504.125,
+      "p": 760565,
+      "id": "219417580",
+      "sequence": "219417580",
+      "sourceTime": "1789594673504.125000",
+      "priceChangedAt": 1789594673504.125,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594676533.929,
+      "p": 760565,
+      "id": "219417581",
+      "sequence": "219417581",
+      "sourceTime": "1789594676533.929000",
+      "priceChangedAt": 1789594673504.125,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594677576.025,
+      "p": 760558,
+      "id": "219417582",
+      "sequence": "219417582",
+      "sourceTime": "1789594677576.025000",
+      "priceChangedAt": 1789594677576.025,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680118.825,
+      "p": 760558,
+      "id": "219417583",
+      "sequence": "219417583",
+      "sourceTime": "1789594680118.825000",
+      "priceChangedAt": 1789594677576.025,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680695.786,
+      "p": 760512,
+      "id": "219417584",
+      "sequence": "219417584",
+      "sourceTime": "1789594680695.786000",
+      "priceChangedAt": 1789594680695.786,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680695.79,
+      "p": 760512,
+      "id": "219417585",
+      "sequence": "219417585",
+      "sourceTime": "1789594680695.790000",
+      "priceChangedAt": 1789594680695.786,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680723.994,
+      "p": 760507,
+      "id": "219417586",
+      "sequence": "219417586",
+      "sourceTime": "1789594680723.994000",
+      "priceChangedAt": 1789594680723.994,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680752.896,
+      "p": 760450,
+      "id": "219417587",
+      "sequence": "219417587",
+      "sourceTime": "1789594680752.896000",
+      "priceChangedAt": 1789594680752.896,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680960.979,
+      "p": 760400,
+      "id": "219417588",
+      "sequence": "219417588",
+      "sourceTime": "1789594680960.979000",
+      "priceChangedAt": 1789594680960.979,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680960.987,
+      "p": 760396,
+      "id": "219417589",
+      "sequence": "219417589",
+      "sourceTime": "1789594680960.987000",
+      "priceChangedAt": 1789594680960.987,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680962.761,
+      "p": 760396,
+      "id": "219417590",
+      "sequence": "219417590",
+      "sourceTime": "1789594680962.761000",
+      "priceChangedAt": 1789594680960.987,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680962.887,
+      "p": 760396,
+      "id": "219417591",
+      "sequence": "219417591",
+      "sourceTime": "1789594680962.887000",
+      "priceChangedAt": 1789594680960.987,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680963.045,
+      "p": 760396,
+      "id": "219417592",
+      "sequence": "219417592",
+      "sourceTime": "1789594680963.045000",
+      "priceChangedAt": 1789594680960.987,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680964.287,
+      "p": 760396,
+      "id": "219417593",
+      "sequence": "219417593",
+      "sourceTime": "1789594680964.287000",
+      "priceChangedAt": 1789594680960.987,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680964.293,
+      "p": 760396,
+      "id": "219417594",
+      "sequence": "219417594",
+      "sourceTime": "1789594680964.293000",
+      "priceChangedAt": 1789594680960.987,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680964.663,
+      "p": 760396,
+      "id": "219417595",
+      "sequence": "219417595",
+      "sourceTime": "1789594680964.663000",
+      "priceChangedAt": 1789594680960.987,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680964.825,
+      "p": 760393,
+      "id": "219417596",
+      "sequence": "219417596",
+      "sourceTime": "1789594680964.825000",
+      "priceChangedAt": 1789594680964.825,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680964.832,
+      "p": 760389,
+      "id": "219417597",
+      "sequence": "219417597",
+      "sourceTime": "1789594680964.832000",
+      "priceChangedAt": 1789594680964.832,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680964.84,
+      "p": 760386,
+      "id": "219417598",
+      "sequence": "219417598",
+      "sourceTime": "1789594680964.840000",
+      "priceChangedAt": 1789594680964.84,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680964.846,
+      "p": 760377,
+      "id": "219417599",
+      "sequence": "219417599",
+      "sourceTime": "1789594680964.846000",
+      "priceChangedAt": 1789594680964.846,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680964.852,
+      "p": 760373,
+      "id": "219417600",
+      "sequence": "219417600",
+      "sourceTime": "1789594680964.852000",
+      "priceChangedAt": 1789594680964.852,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680965.08,
+      "p": 760367,
+      "id": "219417601",
+      "sequence": "219417601",
+      "sourceTime": "1789594680965.080000",
+      "priceChangedAt": 1789594680965.08,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680965.088,
+      "p": 760365,
+      "id": "219417602",
+      "sequence": "219417602",
+      "sourceTime": "1789594680965.088000",
+      "priceChangedAt": 1789594680965.088,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680965.094,
+      "p": 760365,
+      "id": "219417603",
+      "sequence": "219417603",
+      "sourceTime": "1789594680965.094000",
+      "priceChangedAt": 1789594680965.088,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594680970.198,
+      "p": 760361,
+      "id": "219417604",
+      "sequence": "219417604",
+      "sourceTime": "1789594680970.198000",
+      "priceChangedAt": 1789594680970.198,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594681120.821,
+      "p": 760357,
+      "id": "219417605",
+      "sequence": "219417605",
+      "sourceTime": "1789594681120.821000",
+      "priceChangedAt": 1789594681120.821,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594681120.829,
+      "p": 760352,
+      "id": "219417606",
+      "sequence": "219417606",
+      "sourceTime": "1789594681120.829000",
+      "priceChangedAt": 1789594681120.829,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594681120.837,
+      "p": 760352,
+      "id": "219417607",
+      "sequence": "219417607",
+      "sourceTime": "1789594681120.837000",
+      "priceChangedAt": 1789594681120.829,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594681122.158,
+      "p": 760352,
+      "id": "219417608",
+      "sequence": "219417608",
+      "sourceTime": "1789594681122.158000",
+      "priceChangedAt": 1789594681120.829,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594681123.202,
+      "p": 760336,
+      "id": "219417609",
+      "sequence": "219417609",
+      "sourceTime": "1789594681123.202000",
+      "priceChangedAt": 1789594681123.202,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594681123.223,
+      "p": 760334,
+      "id": "219417610",
+      "sequence": "219417610",
+      "sourceTime": "1789594681123.223000",
+      "priceChangedAt": 1789594681123.223,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594681123.229,
+      "p": 760328,
+      "id": "219417611",
+      "sequence": "219417611",
+      "sourceTime": "1789594681123.229000",
+      "priceChangedAt": 1789594681123.229,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594681125.093,
+      "p": 760320,
+      "id": "219417612",
+      "sequence": "219417612",
+      "sourceTime": "1789594681125.093000",
+      "priceChangedAt": 1789594681125.093,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594681125.101,
+      "p": 760306,
+      "id": "219417613",
+      "sequence": "219417613",
+      "sourceTime": "1789594681125.101000",
+      "priceChangedAt": 1789594681125.101,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594681125.107,
+      "p": 760301,
+      "id": "219417614",
+      "sequence": "219417614",
+      "sourceTime": "1789594681125.107000",
+      "priceChangedAt": 1789594681125.107,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594681167.722,
+      "p": 760301,
+      "id": "219417615",
+      "sequence": "219417615",
+      "sourceTime": "1789594681167.722000",
+      "priceChangedAt": 1789594681125.107,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594681167.725,
+      "p": 760301,
+      "id": "219417616",
+      "sequence": "219417616",
+      "sourceTime": "1789594681167.725000",
+      "priceChangedAt": 1789594681125.107,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594682048.144,
+      "p": 760301,
+      "id": "219417617",
+      "sequence": "219417617",
+      "sourceTime": "1789594682048.144000",
+      "priceChangedAt": 1789594681125.107,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594682288.904,
+      "p": 760300,
+      "id": "219417618",
+      "sequence": "219417618",
+      "sourceTime": "1789594682288.904000",
+      "priceChangedAt": 1789594682288.904,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594685063.649,
+      "p": 760300,
+      "id": "219417619",
+      "sequence": "219417619",
+      "sourceTime": "1789594685063.649000",
+      "priceChangedAt": 1789594682288.904,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594685504.931,
+      "p": 760301,
+      "id": "219417620",
+      "sequence": "219417620",
+      "sourceTime": "1789594685504.931000",
+      "priceChangedAt": 1789594685504.931,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594686725.629,
+      "p": 760300,
+      "id": "219417621",
+      "sequence": "219417621",
+      "sourceTime": "1789594686725.629000",
+      "priceChangedAt": 1789594686725.629,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594686725.651,
+      "p": 760300,
+      "id": "219417622",
+      "sequence": "219417622",
+      "sourceTime": "1789594686725.651000",
+      "priceChangedAt": 1789594686725.629,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594689501.881,
+      "p": 760301,
+      "id": "219417623",
+      "sequence": "219417623",
+      "sourceTime": "1789594689501.881000",
+      "priceChangedAt": 1789594689501.881,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594691789.334,
+      "p": 760300,
+      "id": "219417624",
+      "sequence": "219417624",
+      "sourceTime": "1789594691789.334000",
+      "priceChangedAt": 1789594691789.334,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594691815.612,
+      "p": 760301,
+      "id": "219417625",
+      "sequence": "219417625",
+      "sourceTime": "1789594691815.612000",
+      "priceChangedAt": 1789594691815.612,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594692564.058,
+      "p": 760300,
+      "id": "219417626",
+      "sequence": "219417626",
+      "sourceTime": "1789594692564.058000",
+      "priceChangedAt": 1789594692564.058,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594693829.639,
+      "p": 760279,
+      "id": "219417627",
+      "sequence": "219417627",
+      "sourceTime": "1789594693829.639000",
+      "priceChangedAt": 1789594693829.639,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594693883.258,
+      "p": 760269,
+      "id": "219417628",
+      "sequence": "219417628",
+      "sourceTime": "1789594693883.258000",
+      "priceChangedAt": 1789594693883.258,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594697514.873,
+      "p": 760270,
+      "id": "219417629",
+      "sequence": "219417629",
+      "sourceTime": "1789594697514.873000",
+      "priceChangedAt": 1789594697514.873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594701530.485,
+      "p": 760269,
+      "id": "219417630",
+      "sequence": "219417630",
+      "sourceTime": "1789594701530.485000",
+      "priceChangedAt": 1789594701530.485,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594703200.759,
+      "p": 760269,
+      "id": "219417631",
+      "sequence": "219417631",
+      "sourceTime": "1789594703200.759000",
+      "priceChangedAt": 1789594701530.485,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594703200.768,
+      "p": 760269,
+      "id": "219417632",
+      "sequence": "219417632",
+      "sourceTime": "1789594703200.768000",
+      "priceChangedAt": 1789594701530.485,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594703200.775,
+      "p": 760269,
+      "id": "219417633",
+      "sequence": "219417633",
+      "sourceTime": "1789594703200.775000",
+      "priceChangedAt": 1789594701530.485,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594703200.779,
+      "p": 760269,
+      "id": "219417634",
+      "sequence": "219417634",
+      "sourceTime": "1789594703200.779000",
+      "priceChangedAt": 1789594701530.485,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594703353.868,
+      "p": 760237,
+      "id": "219417635",
+      "sequence": "219417635",
+      "sourceTime": "1789594703353.868000",
+      "priceChangedAt": 1789594703353.868,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594706453.669,
+      "p": 760231,
+      "id": "219417636",
+      "sequence": "219417636",
+      "sourceTime": "1789594706453.669000",
+      "priceChangedAt": 1789594706453.669,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594709173.366,
+      "p": 760227,
+      "id": "219417637",
+      "sequence": "219417637",
+      "sourceTime": "1789594709173.366000",
+      "priceChangedAt": 1789594709173.366,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594713519.811,
+      "p": 760223,
+      "id": "219417638",
+      "sequence": "219417638",
+      "sourceTime": "1789594713519.811000",
+      "priceChangedAt": 1789594713519.811,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594717534.424,
+      "p": 760223,
+      "id": "219417639",
+      "sequence": "219417639",
+      "sourceTime": "1789594717534.424000",
+      "priceChangedAt": 1789594713519.811,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718122.199,
+      "p": 760224,
+      "id": "219417640",
+      "sequence": "219417640",
+      "sourceTime": "1789594718122.199000",
+      "priceChangedAt": 1789594718122.199,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718857.228,
+      "p": 760223,
+      "id": "219417641",
+      "sequence": "219417641",
+      "sourceTime": "1789594718857.228000",
+      "priceChangedAt": 1789594718857.228,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718857.238,
+      "p": 760222,
+      "id": "219417642",
+      "sequence": "219417642",
+      "sourceTime": "1789594718857.238000",
+      "priceChangedAt": 1789594718857.238,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718857.242,
+      "p": 760212,
+      "id": "219417643",
+      "sequence": "219417643",
+      "sourceTime": "1789594718857.242000",
+      "priceChangedAt": 1789594718857.242,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718857.249,
+      "p": 760212,
+      "id": "219417644",
+      "sequence": "219417644",
+      "sourceTime": "1789594718857.249000",
+      "priceChangedAt": 1789594718857.242,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718857.255,
+      "p": 760209,
+      "id": "219417645",
+      "sequence": "219417645",
+      "sourceTime": "1789594718857.255000",
+      "priceChangedAt": 1789594718857.255,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718857.26,
+      "p": 760205,
+      "id": "219417646",
+      "sequence": "219417646",
+      "sourceTime": "1789594718857.260000",
+      "priceChangedAt": 1789594718857.26,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718857.28,
+      "p": 760205,
+      "id": "219417647",
+      "sequence": "219417647",
+      "sourceTime": "1789594718857.280000",
+      "priceChangedAt": 1789594718857.26,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718861.609,
+      "p": 760203,
+      "id": "219417648",
+      "sequence": "219417648",
+      "sourceTime": "1789594718861.609000",
+      "priceChangedAt": 1789594718861.609,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718861.615,
+      "p": 760200,
+      "id": "219417649",
+      "sequence": "219417649",
+      "sourceTime": "1789594718861.615000",
+      "priceChangedAt": 1789594718861.615,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718861.621,
+      "p": 760192,
+      "id": "219417650",
+      "sequence": "219417650",
+      "sourceTime": "1789594718861.621000",
+      "priceChangedAt": 1789594718861.621,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718861.626,
+      "p": 760190,
+      "id": "219417651",
+      "sequence": "219417651",
+      "sourceTime": "1789594718861.626000",
+      "priceChangedAt": 1789594718861.626,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718864.736,
+      "p": 760180,
+      "id": "219417652",
+      "sequence": "219417652",
+      "sourceTime": "1789594718864.736000",
+      "priceChangedAt": 1789594718864.736,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718864.747,
+      "p": 760170,
+      "id": "219417653",
+      "sequence": "219417653",
+      "sourceTime": "1789594718864.747000",
+      "priceChangedAt": 1789594718864.747,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718864.755,
+      "p": 760170,
+      "id": "219417654",
+      "sequence": "219417654",
+      "sourceTime": "1789594718864.755000",
+      "priceChangedAt": 1789594718864.747,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718864.759,
+      "p": 760165,
+      "id": "219417655",
+      "sequence": "219417655",
+      "sourceTime": "1789594718864.759000",
+      "priceChangedAt": 1789594718864.759,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718864.788,
+      "p": 760153,
+      "id": "219417656",
+      "sequence": "219417656",
+      "sourceTime": "1789594718864.788000",
+      "priceChangedAt": 1789594718864.788,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718864.799,
+      "p": 760147,
+      "id": "219417657",
+      "sequence": "219417657",
+      "sourceTime": "1789594718864.799000",
+      "priceChangedAt": 1789594718864.799,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718864.806,
+      "p": 760142,
+      "id": "219417658",
+      "sequence": "219417658",
+      "sourceTime": "1789594718864.806000",
+      "priceChangedAt": 1789594718864.806,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718864.81,
+      "p": 760134,
+      "id": "219417659",
+      "sequence": "219417659",
+      "sourceTime": "1789594718864.810000",
+      "priceChangedAt": 1789594718864.81,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718864.814,
+      "p": 760128,
+      "id": "219417660",
+      "sequence": "219417660",
+      "sourceTime": "1789594718864.814000",
+      "priceChangedAt": 1789594718864.814,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718864.823,
+      "p": 760124,
+      "id": "219417661",
+      "sequence": "219417661",
+      "sourceTime": "1789594718864.823000",
+      "priceChangedAt": 1789594718864.823,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718869.907,
+      "p": 760110,
+      "id": "219417662",
+      "sequence": "219417662",
+      "sourceTime": "1789594718869.907000",
+      "priceChangedAt": 1789594718869.907,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718869.915,
+      "p": 760108,
+      "id": "219417663",
+      "sequence": "219417663",
+      "sourceTime": "1789594718869.915000",
+      "priceChangedAt": 1789594718869.915,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718869.933,
+      "p": 760084,
+      "id": "219417664",
+      "sequence": "219417664",
+      "sourceTime": "1789594718869.933000",
+      "priceChangedAt": 1789594718869.933,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718869.939,
+      "p": 760073,
+      "id": "219417665",
+      "sequence": "219417665",
+      "sourceTime": "1789594718869.939000",
+      "priceChangedAt": 1789594718869.939,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594718881.07,
+      "p": 760108,
+      "id": "219417666",
+      "sequence": "219417666",
+      "sourceTime": "1789594718881.070000",
+      "priceChangedAt": 1789594718881.07,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594720868.787,
+      "p": 760062,
+      "id": "219417667",
+      "sequence": "219417667",
+      "sourceTime": "1789594720868.787000",
+      "priceChangedAt": 1789594720868.787,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594721826.521,
+      "p": 760051,
+      "id": "219417668",
+      "sequence": "219417668",
+      "sourceTime": "1789594721826.521000",
+      "priceChangedAt": 1789594721826.521,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594723753.478,
+      "p": 760051,
+      "id": "219417669",
+      "sequence": "219417669",
+      "sourceTime": "1789594723753.478000",
+      "priceChangedAt": 1789594721826.521,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594726114.414,
+      "p": 760051,
+      "id": "219417670",
+      "sequence": "219417670",
+      "sourceTime": "1789594726114.414000",
+      "priceChangedAt": 1789594721826.521,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594726123.217,
+      "p": 760049,
+      "id": "219417671",
+      "sequence": "219417671",
+      "sourceTime": "1789594726123.217000",
+      "priceChangedAt": 1789594726123.217,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594728264.38,
+      "p": 760049,
+      "id": "219417672",
+      "sequence": "219417672",
+      "sourceTime": "1789594728264.380000",
+      "priceChangedAt": 1789594726123.217,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594728264.39,
+      "p": 760049,
+      "id": "219417673",
+      "sequence": "219417673",
+      "sourceTime": "1789594728264.390000",
+      "priceChangedAt": 1789594726123.217,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594729531.221,
+      "p": 760046,
+      "id": "219417674",
+      "sequence": "219417674",
+      "sourceTime": "1789594729531.221000",
+      "priceChangedAt": 1789594729531.221,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594729755.973,
+      "p": 760046,
+      "id": "219417675",
+      "sequence": "219417675",
+      "sourceTime": "1789594729755.973000",
+      "priceChangedAt": 1789594729531.221,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594729755.977,
+      "p": 760046,
+      "id": "219417676",
+      "sequence": "219417676",
+      "sourceTime": "1789594729755.977000",
+      "priceChangedAt": 1789594729531.221,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594729755.983,
+      "p": 760046,
+      "id": "219417677",
+      "sequence": "219417677",
+      "sourceTime": "1789594729755.983000",
+      "priceChangedAt": 1789594729531.221,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594729755.989,
+      "p": 760048,
+      "id": "219417678",
+      "sequence": "219417678",
+      "sourceTime": "1789594729755.989000",
+      "priceChangedAt": 1789594729755.989,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594729755.993,
+      "p": 760049,
+      "id": "219417679",
+      "sequence": "219417679",
+      "sourceTime": "1789594729755.993000",
+      "priceChangedAt": 1789594729755.993,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594729781.435,
+      "p": 760052,
+      "id": "219417680",
+      "sequence": "219417680",
+      "sourceTime": "1789594729781.435000",
+      "priceChangedAt": 1789594729781.435,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594729781.44,
+      "p": 760052,
+      "id": "219417681",
+      "sequence": "219417681",
+      "sourceTime": "1789594729781.440000",
+      "priceChangedAt": 1789594729781.435,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594729781.445,
+      "p": 760063,
+      "id": "219417682",
+      "sequence": "219417682",
+      "sourceTime": "1789594729781.445000",
+      "priceChangedAt": 1789594729781.445,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594729781.452,
+      "p": 760108,
+      "id": "219417683",
+      "sequence": "219417683",
+      "sourceTime": "1789594729781.452000",
+      "priceChangedAt": 1789594729781.452,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594733559.212,
+      "p": 760147,
+      "id": "219417684",
+      "sequence": "219417684",
+      "sourceTime": "1789594733559.212000",
+      "priceChangedAt": 1789594733559.212,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594736561.893,
+      "p": 760146,
+      "id": "219417685",
+      "sequence": "219417685",
+      "sourceTime": "1789594736561.893000",
+      "priceChangedAt": 1789594736561.893,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594736791.188,
+      "p": 760146,
+      "id": "219417686",
+      "sequence": "219417686",
+      "sourceTime": "1789594736791.188000",
+      "priceChangedAt": 1789594736561.893,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594736791.194,
+      "p": 760146,
+      "id": "219417687",
+      "sequence": "219417687",
+      "sourceTime": "1789594736791.194000",
+      "priceChangedAt": 1789594736561.893,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594736793.337,
+      "p": 760145,
+      "id": "219417688",
+      "sequence": "219417688",
+      "sourceTime": "1789594736793.337000",
+      "priceChangedAt": 1789594736793.337,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594741501.273,
+      "p": 760051,
+      "id": "219417689",
+      "sequence": "219417689",
+      "sourceTime": "1789594741501.273000",
+      "priceChangedAt": 1789594741501.273,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594745609.452,
+      "p": 760051,
+      "id": "219417690",
+      "sequence": "219417690",
+      "sourceTime": "1789594745609.452000",
+      "priceChangedAt": 1789594741501.273,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594749504.623,
+      "p": 760051,
+      "id": "219417691",
+      "sequence": "219417691",
+      "sourceTime": "1789594749504.623000",
+      "priceChangedAt": 1789594741501.273,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594751315.829,
+      "p": 760051,
+      "id": "219417692",
+      "sequence": "219417692",
+      "sourceTime": "1789594751315.829000",
+      "priceChangedAt": 1789594741501.273,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594751346.354,
+      "p": 760052,
+      "id": "219417693",
+      "sequence": "219417693",
+      "sourceTime": "1789594751346.354000",
+      "priceChangedAt": 1789594751346.354,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594761869.982,
+      "p": 760052,
+      "id": "219417694",
+      "sequence": "219417694",
+      "sourceTime": "1789594761869.982000",
+      "priceChangedAt": 1789594751346.354,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594762075.121,
+      "p": 760051,
+      "id": "219417695",
+      "sequence": "219417695",
+      "sourceTime": "1789594762075.121000",
+      "priceChangedAt": 1789594762075.121,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594762075.127,
+      "p": 760051,
+      "id": "219417696",
+      "sequence": "219417696",
+      "sourceTime": "1789594762075.127000",
+      "priceChangedAt": 1789594762075.121,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594766351.305,
+      "p": 760051,
+      "id": "219417697",
+      "sequence": "219417697",
+      "sourceTime": "1789594766351.305000",
+      "priceChangedAt": 1789594762075.121,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594766351.325,
+      "p": 760051,
+      "id": "219417698",
+      "sequence": "219417698",
+      "sourceTime": "1789594766351.325000",
+      "priceChangedAt": 1789594762075.121,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594766359.563,
+      "p": 760045,
+      "id": "219417699",
+      "sequence": "219417699",
+      "sourceTime": "1789594766359.563000",
+      "priceChangedAt": 1789594766359.563,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594769840.89,
+      "p": 760046,
+      "id": "219417700",
+      "sequence": "219417700",
+      "sourceTime": "1789594769840.890000",
+      "priceChangedAt": 1789594769840.89,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594772811.276,
+      "p": 760045,
+      "id": "219417701",
+      "sequence": "219417701",
+      "sourceTime": "1789594772811.276000",
+      "priceChangedAt": 1789594772811.276,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594773501.306,
+      "p": 760046,
+      "id": "219417702",
+      "sequence": "219417702",
+      "sourceTime": "1789594773501.306000",
+      "priceChangedAt": 1789594773501.306,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594777504.834,
+      "p": 760046,
+      "id": "219417703",
+      "sequence": "219417703",
+      "sourceTime": "1789594777504.834000",
+      "priceChangedAt": 1789594773501.306,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594778178.76,
+      "p": 760045,
+      "id": "219417704",
+      "sequence": "219417704",
+      "sourceTime": "1789594778178.760000",
+      "priceChangedAt": 1789594778178.76,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594779494.163,
+      "p": 760045,
+      "id": "219417705",
+      "sequence": "219417705",
+      "sourceTime": "1789594779494.163000",
+      "priceChangedAt": 1789594778178.76,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594779496.36,
+      "p": 760043,
+      "id": "219417706",
+      "sequence": "219417706",
+      "sourceTime": "1789594779496.360000",
+      "priceChangedAt": 1789594779496.36,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594779496.367,
+      "p": 760041,
+      "id": "219417707",
+      "sequence": "219417707",
+      "sourceTime": "1789594779496.367000",
+      "priceChangedAt": 1789594779496.367,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594779586.297,
+      "p": 760033,
+      "id": "219417708",
+      "sequence": "219417708",
+      "sourceTime": "1789594779586.297000",
+      "priceChangedAt": 1789594779586.297,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594779586.305,
+      "p": 760033,
+      "id": "219417709",
+      "sequence": "219417709",
+      "sourceTime": "1789594779586.305000",
+      "priceChangedAt": 1789594779586.297,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594779586.31,
+      "p": 760033,
+      "id": "219417710",
+      "sequence": "219417710",
+      "sourceTime": "1789594779586.310000",
+      "priceChangedAt": 1789594779586.297,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594779677.604,
+      "p": 760027,
+      "id": "219417711",
+      "sequence": "219417711",
+      "sourceTime": "1789594779677.604000",
+      "priceChangedAt": 1789594779677.604,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594779677.716,
+      "p": 760027,
+      "id": "219417712",
+      "sequence": "219417712",
+      "sourceTime": "1789594779677.716000",
+      "priceChangedAt": 1789594779677.604,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594779677.783,
+      "p": 760027,
+      "id": "219417713",
+      "sequence": "219417713",
+      "sourceTime": "1789594779677.783000",
+      "priceChangedAt": 1789594779677.604,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594779678.112,
+      "p": 760027,
+      "id": "219417714",
+      "sequence": "219417714",
+      "sourceTime": "1789594779678.112000",
+      "priceChangedAt": 1789594779677.604,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594779774.828,
+      "p": 760027,
+      "id": "219417715",
+      "sequence": "219417715",
+      "sourceTime": "1789594779774.828000",
+      "priceChangedAt": 1789594779677.604,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594779776.616,
+      "p": 760020,
+      "id": "219417716",
+      "sequence": "219417716",
+      "sourceTime": "1789594779776.616000",
+      "priceChangedAt": 1789594779776.616,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594779776.655,
+      "p": 760018,
+      "id": "219417717",
+      "sequence": "219417717",
+      "sourceTime": "1789594779776.655000",
+      "priceChangedAt": 1789594779776.655,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594779776.66,
+      "p": 760015,
+      "id": "219417718",
+      "sequence": "219417718",
+      "sourceTime": "1789594779776.660000",
+      "priceChangedAt": 1789594779776.66,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.755,
+      "p": 760006,
+      "id": "219417719",
+      "sequence": "219417719",
+      "sourceTime": "1789594780395.755000",
+      "priceChangedAt": 1789594780395.755,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.764,
+      "p": 760000,
+      "id": "219417720",
+      "sequence": "219417720",
+      "sourceTime": "1789594780395.764000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.77,
+      "p": 760000,
+      "id": "219417721",
+      "sequence": "219417721",
+      "sourceTime": "1789594780395.770000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.777,
+      "p": 760000,
+      "id": "219417722",
+      "sequence": "219417722",
+      "sourceTime": "1789594780395.777000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.796,
+      "p": 760000,
+      "id": "219417723",
+      "sequence": "219417723",
+      "sourceTime": "1789594780395.796000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.803,
+      "p": 760000,
+      "id": "219417724",
+      "sequence": "219417724",
+      "sourceTime": "1789594780395.803000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.81,
+      "p": 760000,
+      "id": "219417725",
+      "sequence": "219417725",
+      "sourceTime": "1789594780395.810000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.816,
+      "p": 760000,
+      "id": "219417726",
+      "sequence": "219417726",
+      "sourceTime": "1789594780395.816000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.822,
+      "p": 760000,
+      "id": "219417727",
+      "sequence": "219417727",
+      "sourceTime": "1789594780395.822000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.828,
+      "p": 760000,
+      "id": "219417728",
+      "sequence": "219417728",
+      "sourceTime": "1789594780395.828000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.833,
+      "p": 760000,
+      "id": "219417729",
+      "sequence": "219417729",
+      "sourceTime": "1789594780395.833000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.839,
+      "p": 760000,
+      "id": "219417730",
+      "sequence": "219417730",
+      "sourceTime": "1789594780395.839000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.844,
+      "p": 760000,
+      "id": "219417731",
+      "sequence": "219417731",
+      "sourceTime": "1789594780395.844000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.848,
+      "p": 760000,
+      "id": "219417732",
+      "sequence": "219417732",
+      "sourceTime": "1789594780395.848000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.855,
+      "p": 760000,
+      "id": "219417733",
+      "sequence": "219417733",
+      "sourceTime": "1789594780395.855000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.861,
+      "p": 760000,
+      "id": "219417734",
+      "sequence": "219417734",
+      "sourceTime": "1789594780395.861000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.869,
+      "p": 760000,
+      "id": "219417735",
+      "sequence": "219417735",
+      "sourceTime": "1789594780395.869000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.875,
+      "p": 760000,
+      "id": "219417736",
+      "sequence": "219417736",
+      "sourceTime": "1789594780395.875000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.881,
+      "p": 760000,
+      "id": "219417737",
+      "sequence": "219417737",
+      "sourceTime": "1789594780395.881000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.887,
+      "p": 760000,
+      "id": "219417738",
+      "sequence": "219417738",
+      "sourceTime": "1789594780395.887000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.893,
+      "p": 760000,
+      "id": "219417739",
+      "sequence": "219417739",
+      "sourceTime": "1789594780395.893000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.897,
+      "p": 760000,
+      "id": "219417740",
+      "sequence": "219417740",
+      "sourceTime": "1789594780395.897000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.903,
+      "p": 760000,
+      "id": "219417741",
+      "sequence": "219417741",
+      "sourceTime": "1789594780395.903000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.909,
+      "p": 760000,
+      "id": "219417742",
+      "sequence": "219417742",
+      "sourceTime": "1789594780395.909000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.912,
+      "p": 760000,
+      "id": "219417743",
+      "sequence": "219417743",
+      "sourceTime": "1789594780395.912000",
+      "priceChangedAt": 1789594780395.764,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.916,
+      "p": 759999,
+      "id": "219417744",
+      "sequence": "219417744",
+      "sourceTime": "1789594780395.916000",
+      "priceChangedAt": 1789594780395.916,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.922,
+      "p": 759999,
+      "id": "219417745",
+      "sequence": "219417745",
+      "sourceTime": "1789594780395.922000",
+      "priceChangedAt": 1789594780395.916,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.944,
+      "p": 759999,
+      "id": "219417746",
+      "sequence": "219417746",
+      "sourceTime": "1789594780395.944000",
+      "priceChangedAt": 1789594780395.916,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.95,
+      "p": 759999,
+      "id": "219417747",
+      "sequence": "219417747",
+      "sourceTime": "1789594780395.950000",
+      "priceChangedAt": 1789594780395.916,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.957,
+      "p": 759999,
+      "id": "219417748",
+      "sequence": "219417748",
+      "sourceTime": "1789594780395.957000",
+      "priceChangedAt": 1789594780395.916,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.963,
+      "p": 759993,
+      "id": "219417749",
+      "sequence": "219417749",
+      "sourceTime": "1789594780395.963000",
+      "priceChangedAt": 1789594780395.963,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.97,
+      "p": 759989,
+      "id": "219417750",
+      "sequence": "219417750",
+      "sourceTime": "1789594780395.970000",
+      "priceChangedAt": 1789594780395.97,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780395.975,
+      "p": 759989,
+      "id": "219417751",
+      "sequence": "219417751",
+      "sourceTime": "1789594780395.975000",
+      "priceChangedAt": 1789594780395.97,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594780585.525,
+      "p": 759976,
+      "id": "219417752",
+      "sequence": "219417752",
+      "sourceTime": "1789594780585.525000",
+      "priceChangedAt": 1789594780585.525,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594785575.344,
+      "p": 759975,
+      "id": "219417753",
+      "sequence": "219417753",
+      "sourceTime": "1789594785575.344000",
+      "priceChangedAt": 1789594785575.344,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594785584.014,
+      "p": 759975,
+      "id": "219417754",
+      "sequence": "219417754",
+      "sourceTime": "1789594785584.014000",
+      "priceChangedAt": 1789594785575.344,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594787147.508,
+      "p": 759960,
+      "id": "219417755",
+      "sequence": "219417755",
+      "sourceTime": "1789594787147.508000",
+      "priceChangedAt": 1789594787147.508,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594788088.623,
+      "p": 759960,
+      "id": "219417756",
+      "sequence": "219417756",
+      "sourceTime": "1789594788088.623000",
+      "priceChangedAt": 1789594787147.508,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594791199.064,
+      "p": 759960,
+      "id": "219417757",
+      "sequence": "219417757",
+      "sourceTime": "1789594791199.064000",
+      "priceChangedAt": 1789594787147.508,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594793519.854,
+      "p": 759959,
+      "id": "219417758",
+      "sequence": "219417758",
+      "sourceTime": "1789594793519.854000",
+      "priceChangedAt": 1789594793519.854,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594797500.943,
+      "p": 759959,
+      "id": "219417759",
+      "sequence": "219417759",
+      "sourceTime": "1789594797500.943000",
+      "priceChangedAt": 1789594793519.854,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594798554.047,
+      "p": 759959,
+      "id": "219417760",
+      "sequence": "219417760",
+      "sourceTime": "1789594798554.047000",
+      "priceChangedAt": 1789594793519.854,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594798554.052,
+      "p": 759959,
+      "id": "219417761",
+      "sequence": "219417761",
+      "sourceTime": "1789594798554.052000",
+      "priceChangedAt": 1789594793519.854,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800045.629,
+      "p": 759958,
+      "id": "219417762",
+      "sequence": "219417762",
+      "sourceTime": "1789594800045.629000",
+      "priceChangedAt": 1789594800045.629,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800049.718,
+      "p": 759958,
+      "id": "219417763",
+      "sequence": "219417763",
+      "sourceTime": "1789594800049.718000",
+      "priceChangedAt": 1789594800045.629,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800050.453,
+      "p": 759958,
+      "id": "219417764",
+      "sequence": "219417764",
+      "sourceTime": "1789594800050.453000",
+      "priceChangedAt": 1789594800045.629,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800050.457,
+      "p": 759958,
+      "id": "219417765",
+      "sequence": "219417765",
+      "sourceTime": "1789594800050.457000",
+      "priceChangedAt": 1789594800045.629,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800050.461,
+      "p": 759958,
+      "id": "219417766",
+      "sequence": "219417766",
+      "sourceTime": "1789594800050.461000",
+      "priceChangedAt": 1789594800045.629,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800050.465,
+      "p": 759960,
+      "id": "219417767",
+      "sequence": "219417767",
+      "sourceTime": "1789594800050.465000",
+      "priceChangedAt": 1789594800050.465,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800050.468,
+      "p": 759960,
+      "id": "219417768",
+      "sequence": "219417768",
+      "sourceTime": "1789594800050.468000",
+      "priceChangedAt": 1789594800050.465,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800077.947,
+      "p": 759976,
+      "id": "219417769",
+      "sequence": "219417769",
+      "sourceTime": "1789594800077.947000",
+      "priceChangedAt": 1789594800077.947,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800078.218,
+      "p": 759976,
+      "id": "219417770",
+      "sequence": "219417770",
+      "sourceTime": "1789594800078.218000",
+      "priceChangedAt": 1789594800077.947,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800078.221,
+      "p": 759977,
+      "id": "219417771",
+      "sequence": "219417771",
+      "sourceTime": "1789594800078.221000",
+      "priceChangedAt": 1789594800078.221,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800078.226,
+      "p": 759990,
+      "id": "219417772",
+      "sequence": "219417772",
+      "sourceTime": "1789594800078.226000",
+      "priceChangedAt": 1789594800078.226,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800090.907,
+      "p": 759990,
+      "id": "219417773",
+      "sequence": "219417773",
+      "sourceTime": "1789594800090.907000",
+      "priceChangedAt": 1789594800078.226,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800098.528,
+      "p": 759990,
+      "id": "219417774",
+      "sequence": "219417774",
+      "sourceTime": "1789594800098.528000",
+      "priceChangedAt": 1789594800078.226,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800100.773,
+      "p": 759990,
+      "id": "219417775",
+      "sequence": "219417775",
+      "sourceTime": "1789594800100.773000",
+      "priceChangedAt": 1789594800078.226,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800125.924,
+      "p": 760038,
+      "id": "219417776",
+      "sequence": "219417776",
+      "sourceTime": "1789594800125.924000",
+      "priceChangedAt": 1789594800125.924,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800150.329,
+      "p": 760051,
+      "id": "219417777",
+      "sequence": "219417777",
+      "sourceTime": "1789594800150.329000",
+      "priceChangedAt": 1789594800150.329,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800776.79,
+      "p": 760108,
+      "id": "219417778",
+      "sequence": "219417778",
+      "sourceTime": "1789594800776.790000",
+      "priceChangedAt": 1789594800776.79,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800776.796,
+      "p": 760108,
+      "id": "219417779",
+      "sequence": "219417779",
+      "sourceTime": "1789594800776.796000",
+      "priceChangedAt": 1789594800776.79,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800776.802,
+      "p": 760165,
+      "id": "219417780",
+      "sequence": "219417780",
+      "sourceTime": "1789594800776.802000",
+      "priceChangedAt": 1789594800776.802,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800776.816,
+      "p": 760222,
+      "id": "219417781",
+      "sequence": "219417781",
+      "sourceTime": "1789594800776.816000",
+      "priceChangedAt": 1789594800776.816,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800776.827,
+      "p": 760250,
+      "id": "219417782",
+      "sequence": "219417782",
+      "sourceTime": "1789594800776.827000",
+      "priceChangedAt": 1789594800776.827,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800776.832,
+      "p": 760267,
+      "id": "219417783",
+      "sequence": "219417783",
+      "sourceTime": "1789594800776.832000",
+      "priceChangedAt": 1789594800776.832,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594800776.836,
+      "p": 760268,
+      "id": "219417784",
+      "sequence": "219417784",
+      "sourceTime": "1789594800776.836000",
+      "priceChangedAt": 1789594800776.836,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594801559.96,
+      "p": 760108,
+      "id": "219417785",
+      "sequence": "219417785",
+      "sourceTime": "1789594801559.960000",
+      "priceChangedAt": 1789594801559.96,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594805502.286,
+      "p": 760072,
+      "id": "219417786",
+      "sequence": "219417786",
+      "sourceTime": "1789594805502.286000",
+      "priceChangedAt": 1789594805502.286,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594807037.183,
+      "p": 760071,
+      "id": "219417787",
+      "sequence": "219417787",
+      "sourceTime": "1789594807037.183000",
+      "priceChangedAt": 1789594807037.183,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594809503.878,
+      "p": 759994,
+      "id": "219417788",
+      "sequence": "219417788",
+      "sourceTime": "1789594809503.878000",
+      "priceChangedAt": 1789594809503.878,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594811951.585,
+      "p": 759993,
+      "id": "219417789",
+      "sequence": "219417789",
+      "sourceTime": "1789594811951.585000",
+      "priceChangedAt": 1789594811951.585,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594811981.997,
+      "p": 759994,
+      "id": "219417790",
+      "sequence": "219417790",
+      "sourceTime": "1789594811981.997000",
+      "priceChangedAt": 1789594811981.997,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594823259.053,
+      "p": 759993,
+      "id": "219417791",
+      "sequence": "219417791",
+      "sourceTime": "1789594823259.053000",
+      "priceChangedAt": 1789594823259.053,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594825414.513,
+      "p": 759957,
+      "id": "219417792",
+      "sequence": "219417792",
+      "sourceTime": "1789594825414.513000",
+      "priceChangedAt": 1789594825414.513,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594825505.103,
+      "p": 759958,
+      "id": "219417793",
+      "sequence": "219417793",
+      "sourceTime": "1789594825505.103000",
+      "priceChangedAt": 1789594825505.103,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594828061.704,
+      "p": 759957,
+      "id": "219417794",
+      "sequence": "219417794",
+      "sourceTime": "1789594828061.704000",
+      "priceChangedAt": 1789594828061.704,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594831351.161,
+      "p": 759958,
+      "id": "219417795",
+      "sequence": "219417795",
+      "sourceTime": "1789594831351.161000",
+      "priceChangedAt": 1789594831351.161,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594831847.309,
+      "p": 759957,
+      "id": "219417796",
+      "sequence": "219417796",
+      "sourceTime": "1789594831847.309000",
+      "priceChangedAt": 1789594831847.309,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594831847.319,
+      "p": 759957,
+      "id": "219417797",
+      "sequence": "219417797",
+      "sourceTime": "1789594831847.319000",
+      "priceChangedAt": 1789594831847.309,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594832603.329,
+      "p": 759957,
+      "id": "219417798",
+      "sequence": "219417798",
+      "sourceTime": "1789594832603.329000",
+      "priceChangedAt": 1789594831847.309,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594838507.179,
+      "p": 759957,
+      "id": "219417799",
+      "sequence": "219417799",
+      "sourceTime": "1789594838507.179000",
+      "priceChangedAt": 1789594831847.309,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594841500.56,
+      "p": 759957,
+      "id": "219417800",
+      "sequence": "219417800",
+      "sourceTime": "1789594841500.560000",
+      "priceChangedAt": 1789594831847.309,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594842140.501,
+      "p": 759958,
+      "id": "219417801",
+      "sequence": "219417801",
+      "sourceTime": "1789594842140.501000",
+      "priceChangedAt": 1789594842140.501,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594842527.046,
+      "p": 759957,
+      "id": "219417802",
+      "sequence": "219417802",
+      "sourceTime": "1789594842527.046000",
+      "priceChangedAt": 1789594842527.046,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594842527.075,
+      "p": 759957,
+      "id": "219417803",
+      "sequence": "219417803",
+      "sourceTime": "1789594842527.075000",
+      "priceChangedAt": 1789594842527.046,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594842778.689,
+      "p": 759957,
+      "id": "219417804",
+      "sequence": "219417804",
+      "sourceTime": "1789594842778.689000",
+      "priceChangedAt": 1789594842527.046,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594843953.791,
+      "p": 759956,
+      "id": "219417805",
+      "sequence": "219417805",
+      "sourceTime": "1789594843953.791000",
+      "priceChangedAt": 1789594843953.791,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594845503.294,
+      "p": 759957,
+      "id": "219417806",
+      "sequence": "219417806",
+      "sourceTime": "1789594845503.294000",
+      "priceChangedAt": 1789594845503.294,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594845811.452,
+      "p": 759957,
+      "id": "219417807",
+      "sequence": "219417807",
+      "sourceTime": "1789594845811.452000",
+      "priceChangedAt": 1789594845503.294,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594849031.964,
+      "p": 759956,
+      "id": "219417808",
+      "sequence": "219417808",
+      "sourceTime": "1789594849031.964000",
+      "priceChangedAt": 1789594849031.964,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594849031.97,
+      "p": 759956,
+      "id": "219417809",
+      "sequence": "219417809",
+      "sourceTime": "1789594849031.970000",
+      "priceChangedAt": 1789594849031.964,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594849031.975,
+      "p": 759956,
+      "id": "219417810",
+      "sequence": "219417810",
+      "sourceTime": "1789594849031.975000",
+      "priceChangedAt": 1789594849031.964,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594849039.528,
+      "p": 759936,
+      "id": "219417811",
+      "sequence": "219417811",
+      "sourceTime": "1789594849039.528000",
+      "priceChangedAt": 1789594849039.528,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594849041.535,
+      "p": 759931,
+      "id": "219417812",
+      "sequence": "219417812",
+      "sourceTime": "1789594849041.535000",
+      "priceChangedAt": 1789594849041.535,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594849041.544,
+      "p": 759917,
+      "id": "219417813",
+      "sequence": "219417813",
+      "sourceTime": "1789594849041.544000",
+      "priceChangedAt": 1789594849041.544,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594851572.288,
+      "p": 759911,
+      "id": "219417814",
+      "sequence": "219417814",
+      "sourceTime": "1789594851572.288000",
+      "priceChangedAt": 1789594851572.288,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594861068.68,
+      "p": 759911,
+      "id": "219417815",
+      "sequence": "219417815",
+      "sourceTime": "1789594861068.680000",
+      "priceChangedAt": 1789594851572.288,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594861068.689,
+      "p": 759902,
+      "id": "219417816",
+      "sequence": "219417816",
+      "sourceTime": "1789594861068.689000",
+      "priceChangedAt": 1789594861068.689,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594861068.696,
+      "p": 759902,
+      "id": "219417817",
+      "sequence": "219417817",
+      "sourceTime": "1789594861068.696000",
+      "priceChangedAt": 1789594861068.689,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594861068.703,
+      "p": 759900,
+      "id": "219417818",
+      "sequence": "219417818",
+      "sourceTime": "1789594861068.703000",
+      "priceChangedAt": 1789594861068.703,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594861068.713,
+      "p": 759887,
+      "id": "219417819",
+      "sequence": "219417819",
+      "sourceTime": "1789594861068.713000",
+      "priceChangedAt": 1789594861068.713,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594861068.719,
+      "p": 759887,
+      "id": "219417820",
+      "sequence": "219417820",
+      "sourceTime": "1789594861068.719000",
+      "priceChangedAt": 1789594861068.713,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594861239.231,
+      "p": 759885,
+      "id": "219417821",
+      "sequence": "219417821",
+      "sourceTime": "1789594861239.231000",
+      "priceChangedAt": 1789594861239.231,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594862246.967,
+      "p": 759884,
+      "id": "219417822",
+      "sequence": "219417822",
+      "sourceTime": "1789594862246.967000",
+      "priceChangedAt": 1789594862246.967,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594862247.078,
+      "p": 759884,
+      "id": "219417823",
+      "sequence": "219417823",
+      "sourceTime": "1789594862247.078000",
+      "priceChangedAt": 1789594862246.967,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594862247.128,
+      "p": 759884,
+      "id": "219417824",
+      "sequence": "219417824",
+      "sourceTime": "1789594862247.128000",
+      "priceChangedAt": 1789594862246.967,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594862247.137,
+      "p": 759881,
+      "id": "219417825",
+      "sequence": "219417825",
+      "sourceTime": "1789594862247.137000",
+      "priceChangedAt": 1789594862247.137,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594862247.143,
+      "p": 759881,
+      "id": "219417826",
+      "sequence": "219417826",
+      "sourceTime": "1789594862247.143000",
+      "priceChangedAt": 1789594862247.137,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594862247.153,
+      "p": 759881,
+      "id": "219417827",
+      "sequence": "219417827",
+      "sourceTime": "1789594862247.153000",
+      "priceChangedAt": 1789594862247.137,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594862247.157,
+      "p": 759879,
+      "id": "219417828",
+      "sequence": "219417828",
+      "sourceTime": "1789594862247.157000",
+      "priceChangedAt": 1789594862247.157,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594862253.402,
+      "p": 759865,
+      "id": "219417829",
+      "sequence": "219417829",
+      "sourceTime": "1789594862253.402000",
+      "priceChangedAt": 1789594862253.402,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594862255.584,
+      "p": 759856,
+      "id": "219417830",
+      "sequence": "219417830",
+      "sourceTime": "1789594862255.584000",
+      "priceChangedAt": 1789594862255.584,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594864004.509,
+      "p": 759847,
+      "id": "219417831",
+      "sequence": "219417831",
+      "sourceTime": "1789594864004.509000",
+      "priceChangedAt": 1789594864004.509,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594864005.107,
+      "p": 759822,
+      "id": "219417832",
+      "sequence": "219417832",
+      "sourceTime": "1789594864005.107000",
+      "priceChangedAt": 1789594864005.107,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594864005.117,
+      "p": 759808,
+      "id": "219417833",
+      "sequence": "219417833",
+      "sourceTime": "1789594864005.117000",
+      "priceChangedAt": 1789594864005.117,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594864005.124,
+      "p": 759792,
+      "id": "219417834",
+      "sequence": "219417834",
+      "sourceTime": "1789594864005.124000",
+      "priceChangedAt": 1789594864005.124,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594864005.456,
+      "p": 759782,
+      "id": "219417835",
+      "sequence": "219417835",
+      "sourceTime": "1789594864005.456000",
+      "priceChangedAt": 1789594864005.456,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594864005.489,
+      "p": 759781,
+      "id": "219417836",
+      "sequence": "219417836",
+      "sourceTime": "1789594864005.489000",
+      "priceChangedAt": 1789594864005.489,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594864005.495,
+      "p": 759776,
+      "id": "219417837",
+      "sequence": "219417837",
+      "sourceTime": "1789594864005.495000",
+      "priceChangedAt": 1789594864005.495,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594864005.862,
+      "p": 759769,
+      "id": "219417838",
+      "sequence": "219417838",
+      "sourceTime": "1789594864005.862000",
+      "priceChangedAt": 1789594864005.862,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594864005.867,
+      "p": 759769,
+      "id": "219417839",
+      "sequence": "219417839",
+      "sourceTime": "1789594864005.867000",
+      "priceChangedAt": 1789594864005.862,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594864005.873,
+      "p": 759765,
+      "id": "219417840",
+      "sequence": "219417840",
+      "sourceTime": "1789594864005.873000",
+      "priceChangedAt": 1789594864005.873,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594864006.954,
+      "p": 759763,
+      "id": "219417841",
+      "sequence": "219417841",
+      "sourceTime": "1789594864006.954000",
+      "priceChangedAt": 1789594864006.954,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594864006.964,
+      "p": 759757,
+      "id": "219417842",
+      "sequence": "219417842",
+      "sourceTime": "1789594864006.964000",
+      "priceChangedAt": 1789594864006.964,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594864006.972,
+      "p": 759754,
+      "id": "219417843",
+      "sequence": "219417843",
+      "sourceTime": "1789594864006.972000",
+      "priceChangedAt": 1789594864006.972,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594864006.979,
+      "p": 759750,
+      "id": "219417844",
+      "sequence": "219417844",
+      "sourceTime": "1789594864006.979000",
+      "priceChangedAt": 1789594864006.979,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594864301.168,
+      "p": 759746,
+      "id": "219417845",
+      "sequence": "219417845",
+      "sourceTime": "1789594864301.168000",
+      "priceChangedAt": 1789594864301.168,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594866802.328,
+      "p": 759745,
+      "id": "219417846",
+      "sequence": "219417846",
+      "sourceTime": "1789594866802.328000",
+      "priceChangedAt": 1789594866802.328,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594866802.339,
+      "p": 759745,
+      "id": "219417847",
+      "sequence": "219417847",
+      "sourceTime": "1789594866802.339000",
+      "priceChangedAt": 1789594866802.328,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594866802.346,
+      "p": 759745,
+      "id": "219417848",
+      "sequence": "219417848",
+      "sourceTime": "1789594866802.346000",
+      "priceChangedAt": 1789594866802.328,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594866813.032,
+      "p": 759738,
+      "id": "219417849",
+      "sequence": "219417849",
+      "sourceTime": "1789594866813.032000",
+      "priceChangedAt": 1789594866813.032,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594869663.377,
+      "p": 759738,
+      "id": "219417850",
+      "sequence": "219417850",
+      "sourceTime": "1789594869663.377000",
+      "priceChangedAt": 1789594866813.032,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594870135.441,
+      "p": 759739,
+      "id": "219417851",
+      "sequence": "219417851",
+      "sourceTime": "1789594870135.441000",
+      "priceChangedAt": 1789594870135.441,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594871407.339,
+      "p": 759738,
+      "id": "219417852",
+      "sequence": "219417852",
+      "sourceTime": "1789594871407.339000",
+      "priceChangedAt": 1789594871407.339,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594871442.125,
+      "p": 759739,
+      "id": "219417853",
+      "sequence": "219417853",
+      "sourceTime": "1789594871442.125000",
+      "priceChangedAt": 1789594871442.125,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594872101.57,
+      "p": 759738,
+      "id": "219417854",
+      "sequence": "219417854",
+      "sourceTime": "1789594872101.570000",
+      "priceChangedAt": 1789594872101.57,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594877836.701,
+      "p": 759738,
+      "id": "219417855",
+      "sequence": "219417855",
+      "sourceTime": "1789594877836.701000",
+      "priceChangedAt": 1789594872101.57,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594879183.54,
+      "p": 759738,
+      "id": "219417856",
+      "sequence": "219417856",
+      "sourceTime": "1789594879183.540000",
+      "priceChangedAt": 1789594872101.57,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594883049.066,
+      "p": 759738,
+      "id": "219417857",
+      "sequence": "219417857",
+      "sourceTime": "1789594883049.066000",
+      "priceChangedAt": 1789594872101.57,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594900013.757,
+      "p": 759738,
+      "id": "219417858",
+      "sequence": "219417858",
+      "sourceTime": "1789594900013.757000",
+      "priceChangedAt": 1789594872101.57,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594912642.379,
+      "p": 759739,
+      "id": "219417859",
+      "sequence": "219417859",
+      "sourceTime": "1789594912642.379000",
+      "priceChangedAt": 1789594912642.379,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594912642.385,
+      "p": 759739,
+      "id": "219417860",
+      "sequence": "219417860",
+      "sourceTime": "1789594912642.385000",
+      "priceChangedAt": 1789594912642.379,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594912642.389,
+      "p": 759739,
+      "id": "219417861",
+      "sequence": "219417861",
+      "sourceTime": "1789594912642.389000",
+      "priceChangedAt": 1789594912642.379,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594912642.393,
+      "p": 759739,
+      "id": "219417862",
+      "sequence": "219417862",
+      "sourceTime": "1789594912642.393000",
+      "priceChangedAt": 1789594912642.379,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594912642.397,
+      "p": 759739,
+      "id": "219417863",
+      "sequence": "219417863",
+      "sourceTime": "1789594912642.397000",
+      "priceChangedAt": 1789594912642.379,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594912642.4,
+      "p": 759739,
+      "id": "219417864",
+      "sequence": "219417864",
+      "sourceTime": "1789594912642.400000",
+      "priceChangedAt": 1789594912642.379,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594912642.404,
+      "p": 759739,
+      "id": "219417865",
+      "sequence": "219417865",
+      "sourceTime": "1789594912642.404000",
+      "priceChangedAt": 1789594912642.379,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594912655.905,
+      "p": 759739,
+      "id": "219417866",
+      "sequence": "219417866",
+      "sourceTime": "1789594912655.905000",
+      "priceChangedAt": 1789594912642.379,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594912657.714,
+      "p": 759739,
+      "id": "219417867",
+      "sequence": "219417867",
+      "sourceTime": "1789594912657.714000",
+      "priceChangedAt": 1789594912642.379,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594912657.731,
+      "p": 759739,
+      "id": "219417868",
+      "sequence": "219417868",
+      "sourceTime": "1789594912657.731000",
+      "priceChangedAt": 1789594912642.379,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594912657.733,
+      "p": 759739,
+      "id": "219417869",
+      "sequence": "219417869",
+      "sourceTime": "1789594912657.733000",
+      "priceChangedAt": 1789594912642.379,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594912657.736,
+      "p": 759739,
+      "id": "219417870",
+      "sequence": "219417870",
+      "sourceTime": "1789594912657.736000",
+      "priceChangedAt": 1789594912642.379,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594912698.504,
+      "p": 759822,
+      "id": "219417871",
+      "sequence": "219417871",
+      "sourceTime": "1789594912698.504000",
+      "priceChangedAt": 1789594912698.504,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594912698.508,
+      "p": 759822,
+      "id": "219417872",
+      "sequence": "219417872",
+      "sourceTime": "1789594912698.508000",
+      "priceChangedAt": 1789594912698.504,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594914124.346,
+      "p": 759801,
+      "id": "219417873",
+      "sequence": "219417873",
+      "sourceTime": "1789594914124.346000",
+      "priceChangedAt": 1789594914124.346,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594916078.913,
+      "p": 759738,
+      "id": "219417874",
+      "sequence": "219417874",
+      "sourceTime": "1789594916078.913000",
+      "priceChangedAt": 1789594916078.913,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594919385.986,
+      "p": 759739,
+      "id": "219417875",
+      "sequence": "219417875",
+      "sourceTime": "1789594919385.986000",
+      "priceChangedAt": 1789594919385.986,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594931491.497,
+      "p": 759738,
+      "id": "219417876",
+      "sequence": "219417876",
+      "sourceTime": "1789594931491.497000",
+      "priceChangedAt": 1789594931491.497,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594931516.228,
+      "p": 759739,
+      "id": "219417877",
+      "sequence": "219417877",
+      "sourceTime": "1789594931516.228000",
+      "priceChangedAt": 1789594931516.228,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594937192.23,
+      "p": 759738,
+      "id": "219417878",
+      "sequence": "219417878",
+      "sourceTime": "1789594937192.230000",
+      "priceChangedAt": 1789594937192.23,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594937198.694,
+      "p": 759738,
+      "id": "219417879",
+      "sequence": "219417879",
+      "sourceTime": "1789594937198.694000",
+      "priceChangedAt": 1789594937192.23,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594942915.401,
+      "p": 759738,
+      "id": "219417880",
+      "sequence": "219417880",
+      "sourceTime": "1789594942915.401000",
+      "priceChangedAt": 1789594937192.23,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594951208.586,
+      "p": 759739,
+      "id": "219417881",
+      "sequence": "219417881",
+      "sourceTime": "1789594951208.586000",
+      "priceChangedAt": 1789594951208.586,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594959924.084,
+      "p": 759738,
+      "id": "219417882",
+      "sequence": "219417882",
+      "sourceTime": "1789594959924.084000",
+      "priceChangedAt": 1789594959924.084,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594967846.441,
+      "p": 759738,
+      "id": "219417883",
+      "sequence": "219417883",
+      "sourceTime": "1789594967846.441000",
+      "priceChangedAt": 1789594959924.084,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594967846.48,
+      "p": 759738,
+      "id": "219417884",
+      "sequence": "219417884",
+      "sourceTime": "1789594967846.480000",
+      "priceChangedAt": 1789594959924.084,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594967846.486,
+      "p": 759738,
+      "id": "219417885",
+      "sequence": "219417885",
+      "sourceTime": "1789594967846.486000",
+      "priceChangedAt": 1789594959924.084,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594970153.391,
+      "p": 759730,
+      "id": "219417886",
+      "sequence": "219417886",
+      "sourceTime": "1789594970153.391000",
+      "priceChangedAt": 1789594970153.391,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594970943.267,
+      "p": 759729,
+      "id": "219417887",
+      "sequence": "219417887",
+      "sourceTime": "1789594970943.267000",
+      "priceChangedAt": 1789594970943.267,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594970943.277,
+      "p": 759719,
+      "id": "219417888",
+      "sequence": "219417888",
+      "sourceTime": "1789594970943.277000",
+      "priceChangedAt": 1789594970943.277,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594970943.282,
+      "p": 759714,
+      "id": "219417889",
+      "sequence": "219417889",
+      "sourceTime": "1789594970943.282000",
+      "priceChangedAt": 1789594970943.282,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594970943.29,
+      "p": 759708,
+      "id": "219417890",
+      "sequence": "219417890",
+      "sourceTime": "1789594970943.290000",
+      "priceChangedAt": 1789594970943.29,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594970943.297,
+      "p": 759704,
+      "id": "219417891",
+      "sequence": "219417891",
+      "sourceTime": "1789594970943.297000",
+      "priceChangedAt": 1789594970943.297,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594970945.347,
+      "p": 759692,
+      "id": "219417892",
+      "sequence": "219417892",
+      "sourceTime": "1789594970945.347000",
+      "priceChangedAt": 1789594970945.347,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594970947.182,
+      "p": 759685,
+      "id": "219417893",
+      "sequence": "219417893",
+      "sourceTime": "1789594970947.182000",
+      "priceChangedAt": 1789594970947.182,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594970947.697,
+      "p": 759678,
+      "id": "219417894",
+      "sequence": "219417894",
+      "sourceTime": "1789594970947.697000",
+      "priceChangedAt": 1789594970947.697,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594974525.746,
+      "p": 759668,
+      "id": "219417895",
+      "sequence": "219417895",
+      "sourceTime": "1789594974525.746000",
+      "priceChangedAt": 1789594974525.746,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594977068.847,
+      "p": 759668,
+      "id": "219417896",
+      "sequence": "219417896",
+      "sourceTime": "1789594977068.847000",
+      "priceChangedAt": 1789594974525.746,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594977144.907,
+      "p": 759669,
+      "id": "219417897",
+      "sequence": "219417897",
+      "sourceTime": "1789594977144.907000",
+      "priceChangedAt": 1789594977144.907,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594978889.929,
+      "p": 759669,
+      "id": "219417898",
+      "sequence": "219417898",
+      "sourceTime": "1789594978889.929000",
+      "priceChangedAt": 1789594977144.907,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594978889.933,
+      "p": 759669,
+      "id": "219417899",
+      "sequence": "219417899",
+      "sourceTime": "1789594978889.933000",
+      "priceChangedAt": 1789594977144.907,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594978925.051,
+      "p": 759739,
+      "id": "219417900",
+      "sequence": "219417900",
+      "sourceTime": "1789594978925.051000",
+      "priceChangedAt": 1789594978925.051,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594978982.445,
+      "p": 759739,
+      "id": "219417901",
+      "sequence": "219417901",
+      "sourceTime": "1789594978982.445000",
+      "priceChangedAt": 1789594978925.051,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594990530.353,
+      "p": 759765,
+      "id": "219417902",
+      "sequence": "219417902",
+      "sourceTime": "1789594990530.353000",
+      "priceChangedAt": 1789594990530.353,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594991346.083,
+      "p": 759764,
+      "id": "219417903",
+      "sequence": "219417903",
+      "sourceTime": "1789594991346.083000",
+      "priceChangedAt": 1789594991346.083,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594991346.114,
+      "p": 759764,
+      "id": "219417904",
+      "sequence": "219417904",
+      "sourceTime": "1789594991346.114000",
+      "priceChangedAt": 1789594991346.083,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594991373.442,
+      "p": 759765,
+      "id": "219417905",
+      "sequence": "219417905",
+      "sourceTime": "1789594991373.442000",
+      "priceChangedAt": 1789594991373.442,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996338.419,
+      "p": 759764,
+      "id": "219417906",
+      "sequence": "219417906",
+      "sourceTime": "1789594996338.419000",
+      "priceChangedAt": 1789594996338.419,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996339.034,
+      "p": 759764,
+      "id": "219417907",
+      "sequence": "219417907",
+      "sourceTime": "1789594996339.034000",
+      "priceChangedAt": 1789594996338.419,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996349.051,
+      "p": 759764,
+      "id": "219417908",
+      "sequence": "219417908",
+      "sourceTime": "1789594996349.051000",
+      "priceChangedAt": 1789594996338.419,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996349.056,
+      "p": 759764,
+      "id": "219417909",
+      "sequence": "219417909",
+      "sourceTime": "1789594996349.056000",
+      "priceChangedAt": 1789594996338.419,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996349.143,
+      "p": 759764,
+      "id": "219417910",
+      "sequence": "219417910",
+      "sourceTime": "1789594996349.143000",
+      "priceChangedAt": 1789594996338.419,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996349.146,
+      "p": 759764,
+      "id": "219417911",
+      "sequence": "219417911",
+      "sourceTime": "1789594996349.146000",
+      "priceChangedAt": 1789594996338.419,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996349.875,
+      "p": 759764,
+      "id": "219417912",
+      "sequence": "219417912",
+      "sourceTime": "1789594996349.875000",
+      "priceChangedAt": 1789594996338.419,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996350.296,
+      "p": 759764,
+      "id": "219417913",
+      "sequence": "219417913",
+      "sourceTime": "1789594996350.296000",
+      "priceChangedAt": 1789594996338.419,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996350.434,
+      "p": 759764,
+      "id": "219417914",
+      "sequence": "219417914",
+      "sourceTime": "1789594996350.434000",
+      "priceChangedAt": 1789594996338.419,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996350.437,
+      "p": 759764,
+      "id": "219417915",
+      "sequence": "219417915",
+      "sourceTime": "1789594996350.437000",
+      "priceChangedAt": 1789594996338.419,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996350.516,
+      "p": 759764,
+      "id": "219417916",
+      "sequence": "219417916",
+      "sourceTime": "1789594996350.516000",
+      "priceChangedAt": 1789594996338.419,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996350.52,
+      "p": 759754,
+      "id": "219417917",
+      "sequence": "219417917",
+      "sourceTime": "1789594996350.520000",
+      "priceChangedAt": 1789594996350.52,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996350.81,
+      "p": 759684,
+      "id": "219417918",
+      "sequence": "219417918",
+      "sourceTime": "1789594996350.810000",
+      "priceChangedAt": 1789594996350.81,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996360.162,
+      "p": 759684,
+      "id": "219417919",
+      "sequence": "219417919",
+      "sourceTime": "1789594996360.162000",
+      "priceChangedAt": 1789594996350.81,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996360.165,
+      "p": 759684,
+      "id": "219417920",
+      "sequence": "219417920",
+      "sourceTime": "1789594996360.165000",
+      "priceChangedAt": 1789594996350.81,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996360.178,
+      "p": 759668,
+      "id": "219417921",
+      "sequence": "219417921",
+      "sourceTime": "1789594996360.178000",
+      "priceChangedAt": 1789594996360.178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996360.184,
+      "p": 759668,
+      "id": "219417922",
+      "sequence": "219417922",
+      "sourceTime": "1789594996360.184000",
+      "priceChangedAt": 1789594996360.178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996360.189,
+      "p": 759668,
+      "id": "219417923",
+      "sequence": "219417923",
+      "sourceTime": "1789594996360.189000",
+      "priceChangedAt": 1789594996360.178,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996360.195,
+      "p": 759667,
+      "id": "219417924",
+      "sequence": "219417924",
+      "sourceTime": "1789594996360.195000",
+      "priceChangedAt": 1789594996360.195,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996360.2,
+      "p": 759664,
+      "id": "219417925",
+      "sequence": "219417925",
+      "sourceTime": "1789594996360.200000",
+      "priceChangedAt": 1789594996360.2,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996360.205,
+      "p": 759664,
+      "id": "219417926",
+      "sequence": "219417926",
+      "sourceTime": "1789594996360.205000",
+      "priceChangedAt": 1789594996360.2,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996360.589,
+      "p": 759664,
+      "id": "219417927",
+      "sequence": "219417927",
+      "sourceTime": "1789594996360.589000",
+      "priceChangedAt": 1789594996360.2,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996418.738,
+      "p": 759664,
+      "id": "219417928",
+      "sequence": "219417928",
+      "sourceTime": "1789594996418.738000",
+      "priceChangedAt": 1789594996360.2,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996418.749,
+      "p": 759663,
+      "id": "219417929",
+      "sequence": "219417929",
+      "sourceTime": "1789594996418.749000",
+      "priceChangedAt": 1789594996418.749,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996461.572,
+      "p": 759663,
+      "id": "219417930",
+      "sequence": "219417930",
+      "sourceTime": "1789594996461.572000",
+      "priceChangedAt": 1789594996418.749,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594996461.658,
+      "p": 759663,
+      "id": "219417931",
+      "sequence": "219417931",
+      "sourceTime": "1789594996461.658000",
+      "priceChangedAt": 1789594996418.749,
+      "quietCensored": false
+    },
+    {
+      "t": 1789594998531.413,
+      "p": 759664,
+      "id": "219417932",
+      "sequence": "219417932",
+      "sourceTime": "1789594998531.413000",
+      "priceChangedAt": 1789594998531.413,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595010830.398,
+      "p": 759664,
+      "id": "219417933",
+      "sequence": "219417933",
+      "sourceTime": "1789595010830.398000",
+      "priceChangedAt": 1789594998531.413,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595012826.032,
+      "p": 759663,
+      "id": "219417934",
+      "sequence": "219417934",
+      "sourceTime": "1789595012826.032000",
+      "priceChangedAt": 1789595012826.032,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595023180.909,
+      "p": 759663,
+      "id": "219417935",
+      "sequence": "219417935",
+      "sourceTime": "1789595023180.909000",
+      "priceChangedAt": 1789595012826.032,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595023182.809,
+      "p": 759654,
+      "id": "219417936",
+      "sequence": "219417936",
+      "sourceTime": "1789595023182.809000",
+      "priceChangedAt": 1789595023182.809,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595023187.952,
+      "p": 759651,
+      "id": "219417937",
+      "sequence": "219417937",
+      "sourceTime": "1789595023187.952000",
+      "priceChangedAt": 1789595023187.952,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595023309.122,
+      "p": 759649,
+      "id": "219417938",
+      "sequence": "219417938",
+      "sourceTime": "1789595023309.122000",
+      "priceChangedAt": 1789595023309.122,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027048.829,
+      "p": 759649,
+      "id": "219417939",
+      "sequence": "219417939",
+      "sourceTime": "1789595027048.829000",
+      "priceChangedAt": 1789595023309.122,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027081.689,
+      "p": 759649,
+      "id": "219417940",
+      "sequence": "219417940",
+      "sourceTime": "1789595027081.689000",
+      "priceChangedAt": 1789595023309.122,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027081.74,
+      "p": 759649,
+      "id": "219417941",
+      "sequence": "219417941",
+      "sourceTime": "1789595027081.740000",
+      "priceChangedAt": 1789595023309.122,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027081.974,
+      "p": 759649,
+      "id": "219417942",
+      "sequence": "219417942",
+      "sourceTime": "1789595027081.974000",
+      "priceChangedAt": 1789595023309.122,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027081.986,
+      "p": 759649,
+      "id": "219417943",
+      "sequence": "219417943",
+      "sourceTime": "1789595027081.986000",
+      "priceChangedAt": 1789595023309.122,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027082.066,
+      "p": 759649,
+      "id": "219417944",
+      "sequence": "219417944",
+      "sourceTime": "1789595027082.066000",
+      "priceChangedAt": 1789595023309.122,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027111.511,
+      "p": 759649,
+      "id": "219417945",
+      "sequence": "219417945",
+      "sourceTime": "1789595027111.511000",
+      "priceChangedAt": 1789595023309.122,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027111.535,
+      "p": 759649,
+      "id": "219417946",
+      "sequence": "219417946",
+      "sourceTime": "1789595027111.535000",
+      "priceChangedAt": 1789595023309.122,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027112.394,
+      "p": 759649,
+      "id": "219417947",
+      "sequence": "219417947",
+      "sourceTime": "1789595027112.394000",
+      "priceChangedAt": 1789595023309.122,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027113.199,
+      "p": 759643,
+      "id": "219417948",
+      "sequence": "219417948",
+      "sourceTime": "1789595027113.199000",
+      "priceChangedAt": 1789595027113.199,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027113.206,
+      "p": 759643,
+      "id": "219417949",
+      "sequence": "219417949",
+      "sourceTime": "1789595027113.206000",
+      "priceChangedAt": 1789595027113.199,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027113.613,
+      "p": 759643,
+      "id": "219417950",
+      "sequence": "219417950",
+      "sourceTime": "1789595027113.613000",
+      "priceChangedAt": 1789595027113.199,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027115.318,
+      "p": 759642,
+      "id": "219417951",
+      "sequence": "219417951",
+      "sourceTime": "1789595027115.318000",
+      "priceChangedAt": 1789595027115.318,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027115.331,
+      "p": 759642,
+      "id": "219417952",
+      "sequence": "219417952",
+      "sourceTime": "1789595027115.331000",
+      "priceChangedAt": 1789595027115.318,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027115.338,
+      "p": 759642,
+      "id": "219417953",
+      "sequence": "219417953",
+      "sourceTime": "1789595027115.338000",
+      "priceChangedAt": 1789595027115.318,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027116.281,
+      "p": 759642,
+      "id": "219417954",
+      "sequence": "219417954",
+      "sourceTime": "1789595027116.281000",
+      "priceChangedAt": 1789595027115.318,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027117.344,
+      "p": 759639,
+      "id": "219417955",
+      "sequence": "219417955",
+      "sourceTime": "1789595027117.344000",
+      "priceChangedAt": 1789595027117.344,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027117.357,
+      "p": 759635,
+      "id": "219417956",
+      "sequence": "219417956",
+      "sourceTime": "1789595027117.357000",
+      "priceChangedAt": 1789595027117.357,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027918.527,
+      "p": 759622,
+      "id": "219417957",
+      "sequence": "219417957",
+      "sourceTime": "1789595027918.527000",
+      "priceChangedAt": 1789595027918.527,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595027918.532,
+      "p": 759622,
+      "id": "219417958",
+      "sequence": "219417958",
+      "sourceTime": "1789595027918.532000",
+      "priceChangedAt": 1789595027918.527,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595028933.402,
+      "p": 759620,
+      "id": "219417959",
+      "sequence": "219417959",
+      "sourceTime": "1789595028933.402000",
+      "priceChangedAt": 1789595028933.402,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595028933.417,
+      "p": 759620,
+      "id": "219417960",
+      "sequence": "219417960",
+      "sourceTime": "1789595028933.417000",
+      "priceChangedAt": 1789595028933.402,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595028935.601,
+      "p": 759615,
+      "id": "219417961",
+      "sequence": "219417961",
+      "sourceTime": "1789595028935.601000",
+      "priceChangedAt": 1789595028935.601,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595028935.612,
+      "p": 759608,
+      "id": "219417962",
+      "sequence": "219417962",
+      "sourceTime": "1789595028935.612000",
+      "priceChangedAt": 1789595028935.612,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595028948.399,
+      "p": 759604,
+      "id": "219417963",
+      "sequence": "219417963",
+      "sourceTime": "1789595028948.399000",
+      "priceChangedAt": 1789595028948.399,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595028949.08,
+      "p": 759604,
+      "id": "219417964",
+      "sequence": "219417964",
+      "sourceTime": "1789595028949.080000",
+      "priceChangedAt": 1789595028948.399,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595028950.65,
+      "p": 759601,
+      "id": "219417965",
+      "sequence": "219417965",
+      "sourceTime": "1789595028950.650000",
+      "priceChangedAt": 1789595028950.65,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595029807.153,
+      "p": 759594,
+      "id": "219417966",
+      "sequence": "219417966",
+      "sourceTime": "1789595029807.153000",
+      "priceChangedAt": 1789595029807.153,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595029809.536,
+      "p": 759592,
+      "id": "219417967",
+      "sequence": "219417967",
+      "sourceTime": "1789595029809.536000",
+      "priceChangedAt": 1789595029809.536,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595029809.544,
+      "p": 759587,
+      "id": "219417968",
+      "sequence": "219417968",
+      "sourceTime": "1789595029809.544000",
+      "priceChangedAt": 1789595029809.544,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595029850.061,
+      "p": 759570,
+      "id": "219417969",
+      "sequence": "219417969",
+      "sourceTime": "1789595029850.061000",
+      "priceChangedAt": 1789595029850.061,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595029855.38,
+      "p": 759558,
+      "id": "219417970",
+      "sequence": "219417970",
+      "sourceTime": "1789595029855.380000",
+      "priceChangedAt": 1789595029855.38,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033022.498,
+      "p": 759557,
+      "id": "219417971",
+      "sequence": "219417971",
+      "sourceTime": "1789595033022.498000",
+      "priceChangedAt": 1789595033022.498,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033022.504,
+      "p": 759557,
+      "id": "219417972",
+      "sequence": "219417972",
+      "sourceTime": "1789595033022.504000",
+      "priceChangedAt": 1789595033022.498,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033024.988,
+      "p": 759557,
+      "id": "219417973",
+      "sequence": "219417973",
+      "sourceTime": "1789595033024.988000",
+      "priceChangedAt": 1789595033022.498,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033024.993,
+      "p": 759557,
+      "id": "219417974",
+      "sequence": "219417974",
+      "sourceTime": "1789595033024.993000",
+      "priceChangedAt": 1789595033022.498,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033026.309,
+      "p": 759557,
+      "id": "219417975",
+      "sequence": "219417975",
+      "sourceTime": "1789595033026.309000",
+      "priceChangedAt": 1789595033022.498,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033026.644,
+      "p": 759555,
+      "id": "219417976",
+      "sequence": "219417976",
+      "sourceTime": "1789595033026.644000",
+      "priceChangedAt": 1789595033026.644,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033026.649,
+      "p": 759555,
+      "id": "219417977",
+      "sequence": "219417977",
+      "sourceTime": "1789595033026.649000",
+      "priceChangedAt": 1789595033026.644,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033026.653,
+      "p": 759550,
+      "id": "219417978",
+      "sequence": "219417978",
+      "sourceTime": "1789595033026.653000",
+      "priceChangedAt": 1789595033026.653,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033041.856,
+      "p": 759546,
+      "id": "219417979",
+      "sequence": "219417979",
+      "sourceTime": "1789595033041.856000",
+      "priceChangedAt": 1789595033041.856,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033041.941,
+      "p": 759546,
+      "id": "219417980",
+      "sequence": "219417980",
+      "sourceTime": "1789595033041.941000",
+      "priceChangedAt": 1789595033041.856,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033043.306,
+      "p": 759546,
+      "id": "219417981",
+      "sequence": "219417981",
+      "sourceTime": "1789595033043.306000",
+      "priceChangedAt": 1789595033041.856,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033044.307,
+      "p": 759542,
+      "id": "219417982",
+      "sequence": "219417982",
+      "sourceTime": "1789595033044.307000",
+      "priceChangedAt": 1789595033044.307,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033049.87,
+      "p": 759541,
+      "id": "219417983",
+      "sequence": "219417983",
+      "sourceTime": "1789595033049.870000",
+      "priceChangedAt": 1789595033049.87,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033049.876,
+      "p": 759541,
+      "id": "219417984",
+      "sequence": "219417984",
+      "sourceTime": "1789595033049.876000",
+      "priceChangedAt": 1789595033049.87,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033051.409,
+      "p": 759541,
+      "id": "219417985",
+      "sequence": "219417985",
+      "sourceTime": "1789595033051.409000",
+      "priceChangedAt": 1789595033049.87,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033051.412,
+      "p": 759541,
+      "id": "219417986",
+      "sequence": "219417986",
+      "sourceTime": "1789595033051.412000",
+      "priceChangedAt": 1789595033049.87,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033054.027,
+      "p": 759537,
+      "id": "219417987",
+      "sequence": "219417987",
+      "sourceTime": "1789595033054.027000",
+      "priceChangedAt": 1789595033054.027,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033054.031,
+      "p": 759537,
+      "id": "219417988",
+      "sequence": "219417988",
+      "sourceTime": "1789595033054.031000",
+      "priceChangedAt": 1789595033054.027,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033054.168,
+      "p": 759537,
+      "id": "219417989",
+      "sequence": "219417989",
+      "sourceTime": "1789595033054.168000",
+      "priceChangedAt": 1789595033054.027,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033054.294,
+      "p": 759537,
+      "id": "219417990",
+      "sequence": "219417990",
+      "sourceTime": "1789595033054.294000",
+      "priceChangedAt": 1789595033054.027,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033056.295,
+      "p": 759508,
+      "id": "219417991",
+      "sequence": "219417991",
+      "sourceTime": "1789595033056.295000",
+      "priceChangedAt": 1789595033056.295,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033074.616,
+      "p": 759506,
+      "id": "219417992",
+      "sequence": "219417992",
+      "sourceTime": "1789595033074.616000",
+      "priceChangedAt": 1789595033074.616,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033074.622,
+      "p": 759506,
+      "id": "219417993",
+      "sequence": "219417993",
+      "sourceTime": "1789595033074.622000",
+      "priceChangedAt": 1789595033074.616,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033074.627,
+      "p": 759500,
+      "id": "219417994",
+      "sequence": "219417994",
+      "sourceTime": "1789595033074.627000",
+      "priceChangedAt": 1789595033074.627,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033074.638,
+      "p": 759500,
+      "id": "219417995",
+      "sequence": "219417995",
+      "sourceTime": "1789595033074.638000",
+      "priceChangedAt": 1789595033074.627,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033076.901,
+      "p": 759497,
+      "id": "219417996",
+      "sequence": "219417996",
+      "sourceTime": "1789595033076.901000",
+      "priceChangedAt": 1789595033076.901,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033076.91,
+      "p": 759497,
+      "id": "219417997",
+      "sequence": "219417997",
+      "sourceTime": "1789595033076.910000",
+      "priceChangedAt": 1789595033076.901,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033183.132,
+      "p": 759480,
+      "id": "219417998",
+      "sequence": "219417998",
+      "sourceTime": "1789595033183.132000",
+      "priceChangedAt": 1789595033183.132,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033183.403,
+      "p": 759480,
+      "id": "219417999",
+      "sequence": "219417999",
+      "sourceTime": "1789595033183.403000",
+      "priceChangedAt": 1789595033183.132,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033183.443,
+      "p": 759480,
+      "id": "219418000",
+      "sequence": "219418000",
+      "sourceTime": "1789595033183.443000",
+      "priceChangedAt": 1789595033183.132,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033184.762,
+      "p": 759480,
+      "id": "219418001",
+      "sequence": "219418001",
+      "sourceTime": "1789595033184.762000",
+      "priceChangedAt": 1789595033183.132,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033184.768,
+      "p": 759473,
+      "id": "219418002",
+      "sequence": "219418002",
+      "sourceTime": "1789595033184.768000",
+      "priceChangedAt": 1789595033184.768,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033184.775,
+      "p": 759453,
+      "id": "219418003",
+      "sequence": "219418003",
+      "sourceTime": "1789595033184.775000",
+      "priceChangedAt": 1789595033184.775,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033217.007,
+      "p": 759453,
+      "id": "219418004",
+      "sequence": "219418004",
+      "sourceTime": "1789595033217.007000",
+      "priceChangedAt": 1789595033184.775,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033217.017,
+      "p": 759453,
+      "id": "219418005",
+      "sequence": "219418005",
+      "sourceTime": "1789595033217.017000",
+      "priceChangedAt": 1789595033184.775,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033217.024,
+      "p": 759453,
+      "id": "219418006",
+      "sequence": "219418006",
+      "sourceTime": "1789595033217.024000",
+      "priceChangedAt": 1789595033184.775,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033217.031,
+      "p": 759453,
+      "id": "219418007",
+      "sequence": "219418007",
+      "sourceTime": "1789595033217.031000",
+      "priceChangedAt": 1789595033184.775,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033218.987,
+      "p": 759441,
+      "id": "219418008",
+      "sequence": "219418008",
+      "sourceTime": "1789595033218.987000",
+      "priceChangedAt": 1789595033218.987,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033219.012,
+      "p": 759441,
+      "id": "219418009",
+      "sequence": "219418009",
+      "sourceTime": "1789595033219.012000",
+      "priceChangedAt": 1789595033218.987,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033219.348,
+      "p": 759441,
+      "id": "219418010",
+      "sequence": "219418010",
+      "sourceTime": "1789595033219.348000",
+      "priceChangedAt": 1789595033218.987,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033219.397,
+      "p": 759441,
+      "id": "219418011",
+      "sequence": "219418011",
+      "sourceTime": "1789595033219.397000",
+      "priceChangedAt": 1789595033218.987,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033219.521,
+      "p": 759441,
+      "id": "219418012",
+      "sequence": "219418012",
+      "sourceTime": "1789595033219.521000",
+      "priceChangedAt": 1789595033218.987,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033219.611,
+      "p": 759441,
+      "id": "219418013",
+      "sequence": "219418013",
+      "sourceTime": "1789595033219.611000",
+      "priceChangedAt": 1789595033218.987,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033219.931,
+      "p": 759441,
+      "id": "219418014",
+      "sequence": "219418014",
+      "sourceTime": "1789595033219.931000",
+      "priceChangedAt": 1789595033218.987,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033220.311,
+      "p": 759441,
+      "id": "219418015",
+      "sequence": "219418015",
+      "sourceTime": "1789595033220.311000",
+      "priceChangedAt": 1789595033218.987,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033221.234,
+      "p": 759441,
+      "id": "219418016",
+      "sequence": "219418016",
+      "sourceTime": "1789595033221.234000",
+      "priceChangedAt": 1789595033218.987,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033221.701,
+      "p": 759435,
+      "id": "219418017",
+      "sequence": "219418017",
+      "sourceTime": "1789595033221.701000",
+      "priceChangedAt": 1789595033221.701,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033221.709,
+      "p": 759435,
+      "id": "219418018",
+      "sequence": "219418018",
+      "sourceTime": "1789595033221.709000",
+      "priceChangedAt": 1789595033221.701,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033222.298,
+      "p": 759435,
+      "id": "219418019",
+      "sequence": "219418019",
+      "sourceTime": "1789595033222.298000",
+      "priceChangedAt": 1789595033221.701,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033224.082,
+      "p": 759432,
+      "id": "219418020",
+      "sequence": "219418020",
+      "sourceTime": "1789595033224.082000",
+      "priceChangedAt": 1789595033224.082,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033224.097,
+      "p": 759423,
+      "id": "219418021",
+      "sequence": "219418021",
+      "sourceTime": "1789595033224.097000",
+      "priceChangedAt": 1789595033224.097,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033224.101,
+      "p": 759421,
+      "id": "219418022",
+      "sequence": "219418022",
+      "sourceTime": "1789595033224.101000",
+      "priceChangedAt": 1789595033224.101,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033224.107,
+      "p": 759420,
+      "id": "219418023",
+      "sequence": "219418023",
+      "sourceTime": "1789595033224.107000",
+      "priceChangedAt": 1789595033224.107,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033224.115,
+      "p": 759419,
+      "id": "219418024",
+      "sequence": "219418024",
+      "sourceTime": "1789595033224.115000",
+      "priceChangedAt": 1789595033224.115,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033225.615,
+      "p": 759407,
+      "id": "219418025",
+      "sequence": "219418025",
+      "sourceTime": "1789595033225.615000",
+      "priceChangedAt": 1789595033225.615,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033225.621,
+      "p": 759401,
+      "id": "219418026",
+      "sequence": "219418026",
+      "sourceTime": "1789595033225.621000",
+      "priceChangedAt": 1789595033225.621,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033225.627,
+      "p": 759401,
+      "id": "219418027",
+      "sequence": "219418027",
+      "sourceTime": "1789595033225.627000",
+      "priceChangedAt": 1789595033225.621,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033227.929,
+      "p": 759395,
+      "id": "219418028",
+      "sequence": "219418028",
+      "sourceTime": "1789595033227.929000",
+      "priceChangedAt": 1789595033227.929,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033233.322,
+      "p": 759381,
+      "id": "219418029",
+      "sequence": "219418029",
+      "sourceTime": "1789595033233.322000",
+      "priceChangedAt": 1789595033233.322,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033233.328,
+      "p": 759381,
+      "id": "219418030",
+      "sequence": "219418030",
+      "sourceTime": "1789595033233.328000",
+      "priceChangedAt": 1789595033233.322,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033424.92,
+      "p": 759377,
+      "id": "219418031",
+      "sequence": "219418031",
+      "sourceTime": "1789595033424.920000",
+      "priceChangedAt": 1789595033424.92,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033424.924,
+      "p": 759377,
+      "id": "219418032",
+      "sequence": "219418032",
+      "sourceTime": "1789595033424.924000",
+      "priceChangedAt": 1789595033424.92,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595033576.06,
+      "p": 759376,
+      "id": "219418033",
+      "sequence": "219418033",
+      "sourceTime": "1789595033576.060000",
+      "priceChangedAt": 1789595033576.06,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595034047.535,
+      "p": 759376,
+      "id": "219418034",
+      "sequence": "219418034",
+      "sourceTime": "1789595034047.535000",
+      "priceChangedAt": 1789595033576.06,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595034143.177,
+      "p": 759375,
+      "id": "219418035",
+      "sequence": "219418035",
+      "sourceTime": "1789595034143.177000",
+      "priceChangedAt": 1789595034143.177,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595036961.662,
+      "p": 759376,
+      "id": "219418036",
+      "sequence": "219418036",
+      "sourceTime": "1789595036961.662000",
+      "priceChangedAt": 1789595036961.662,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595036961.673,
+      "p": 759376,
+      "id": "219418037",
+      "sequence": "219418037",
+      "sourceTime": "1789595036961.673000",
+      "priceChangedAt": 1789595036961.662,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595037085.782,
+      "p": 759436,
+      "id": "219418038",
+      "sequence": "219418038",
+      "sourceTime": "1789595037085.782000",
+      "priceChangedAt": 1789595037085.782,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595042182.402,
+      "p": 759537,
+      "id": "219418039",
+      "sequence": "219418039",
+      "sourceTime": "1789595042182.402000",
+      "priceChangedAt": 1789595042182.402,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595045893.585,
+      "p": 759537,
+      "id": "219418040",
+      "sequence": "219418040",
+      "sourceTime": "1789595045893.585000",
+      "priceChangedAt": 1789595042182.402,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595045893.59,
+      "p": 759537,
+      "id": "219418041",
+      "sequence": "219418041",
+      "sourceTime": "1789595045893.590000",
+      "priceChangedAt": 1789595042182.402,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595045893.593,
+      "p": 759537,
+      "id": "219418042",
+      "sequence": "219418042",
+      "sourceTime": "1789595045893.593000",
+      "priceChangedAt": 1789595042182.402,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595046197.758,
+      "p": 759593,
+      "id": "219418043",
+      "sequence": "219418043",
+      "sourceTime": "1789595046197.758000",
+      "priceChangedAt": 1789595046197.758,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595050128.908,
+      "p": 759594,
+      "id": "219418044",
+      "sequence": "219418044",
+      "sourceTime": "1789595050128.908000",
+      "priceChangedAt": 1789595050128.908,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595051438.22,
+      "p": 759593,
+      "id": "219418045",
+      "sequence": "219418045",
+      "sourceTime": "1789595051438.220000",
+      "priceChangedAt": 1789595051438.22,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595051466.354,
+      "p": 759594,
+      "id": "219418046",
+      "sequence": "219418046",
+      "sourceTime": "1789595051466.354000",
+      "priceChangedAt": 1789595051466.354,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595057123.779,
+      "p": 759593,
+      "id": "219418047",
+      "sequence": "219418047",
+      "sourceTime": "1789595057123.779000",
+      "priceChangedAt": 1789595057123.779,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595057859.746,
+      "p": 759593,
+      "id": "219418048",
+      "sequence": "219418048",
+      "sourceTime": "1789595057859.746000",
+      "priceChangedAt": 1789595057123.779,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595083286.512,
+      "p": 759593,
+      "id": "219418049",
+      "sequence": "219418049",
+      "sourceTime": "1789595083286.512000",
+      "priceChangedAt": 1789595057123.779,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595097059.909,
+      "p": 759594,
+      "id": "219418050",
+      "sequence": "219418050",
+      "sourceTime": "1789595097059.909000",
+      "priceChangedAt": 1789595097059.909,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595102133.303,
+      "p": 759651,
+      "id": "219418051",
+      "sequence": "219418051",
+      "sourceTime": "1789595102133.303000",
+      "priceChangedAt": 1789595102133.303,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595102174.027,
+      "p": 759651,
+      "id": "219418052",
+      "sequence": "219418052",
+      "sourceTime": "1789595102174.027000",
+      "priceChangedAt": 1789595102133.303,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595102174.032,
+      "p": 759651,
+      "id": "219418053",
+      "sequence": "219418053",
+      "sourceTime": "1789595102174.032000",
+      "priceChangedAt": 1789595102133.303,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595104323.46,
+      "p": 759651,
+      "id": "219418054",
+      "sequence": "219418054",
+      "sourceTime": "1789595104323.460000",
+      "priceChangedAt": 1789595102133.303,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595106118.084,
+      "p": 759651,
+      "id": "219418055",
+      "sequence": "219418055",
+      "sourceTime": "1789595106118.084000",
+      "priceChangedAt": 1789595102133.303,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595107055.504,
+      "p": 759650,
+      "id": "219418056",
+      "sequence": "219418056",
+      "sourceTime": "1789595107055.504000",
+      "priceChangedAt": 1789595107055.504,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595107344.074,
+      "p": 759651,
+      "id": "219418057",
+      "sequence": "219418057",
+      "sourceTime": "1789595107344.074000",
+      "priceChangedAt": 1789595107344.074,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595107866,
+      "p": 759651,
+      "id": "219418058",
+      "sequence": "219418058",
+      "sourceTime": "1789595107866.000000",
+      "priceChangedAt": 1789595107344.074,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595111650.225,
+      "p": 759650,
+      "id": "219418059",
+      "sequence": "219418059",
+      "sourceTime": "1789595111650.225000",
+      "priceChangedAt": 1789595111650.225,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595111687.566,
+      "p": 759651,
+      "id": "219418060",
+      "sequence": "219418060",
+      "sourceTime": "1789595111687.566000",
+      "priceChangedAt": 1789595111687.566,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595115973.661,
+      "p": 759650,
+      "id": "219418061",
+      "sequence": "219418061",
+      "sourceTime": "1789595115973.661000",
+      "priceChangedAt": 1789595115973.661,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595122434,
+      "p": 759650,
+      "id": "219418062",
+      "sequence": "219418062",
+      "sourceTime": "1789595122434.000000",
+      "priceChangedAt": 1789595115973.661,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595123145.264,
+      "p": 759650,
+      "id": "219418063",
+      "sequence": "219418063",
+      "sourceTime": "1789595123145.264000",
+      "priceChangedAt": 1789595115973.661,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595130181.127,
+      "p": 759620,
+      "id": "219418064",
+      "sequence": "219418064",
+      "sourceTime": "1789595130181.127000",
+      "priceChangedAt": 1789595130181.127,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595130462.525,
+      "p": 759621,
+      "id": "219418065",
+      "sequence": "219418065",
+      "sourceTime": "1789595130462.525000",
+      "priceChangedAt": 1789595130462.525,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595131456.667,
+      "p": 759537,
+      "id": "219418066",
+      "sequence": "219418066",
+      "sourceTime": "1789595131456.667000",
+      "priceChangedAt": 1789595131456.667,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595132969.473,
+      "p": 759480,
+      "id": "219418067",
+      "sequence": "219418067",
+      "sourceTime": "1789595132969.473000",
+      "priceChangedAt": 1789595132969.473,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595134257.624,
+      "p": 759424,
+      "id": "219418068",
+      "sequence": "219418068",
+      "sourceTime": "1789595134257.624000",
+      "priceChangedAt": 1789595134257.624,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595136013.584,
+      "p": 759423,
+      "id": "219418069",
+      "sequence": "219418069",
+      "sourceTime": "1789595136013.584000",
+      "priceChangedAt": 1789595136013.584,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595138105.476,
+      "p": 759481,
+      "id": "219418070",
+      "sequence": "219418070",
+      "sourceTime": "1789595138105.476000",
+      "priceChangedAt": 1789595138105.476,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595140272.441,
+      "p": 759460,
+      "id": "219418071",
+      "sequence": "219418071",
+      "sourceTime": "1789595140272.441000",
+      "priceChangedAt": 1789595140272.441,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595141634.478,
+      "p": 759460,
+      "id": "219418072",
+      "sequence": "219418072",
+      "sourceTime": "1789595141634.478000",
+      "priceChangedAt": 1789595140272.441,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595144301.509,
+      "p": 759460,
+      "id": "219418073",
+      "sequence": "219418073",
+      "sourceTime": "1789595144301.509000",
+      "priceChangedAt": 1789595140272.441,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595152315.988,
+      "p": 759461,
+      "id": "219418074",
+      "sequence": "219418074",
+      "sourceTime": "1789595152315.988000",
+      "priceChangedAt": 1789595152315.988,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595152846.869,
+      "p": 759461,
+      "id": "219418075",
+      "sequence": "219418075",
+      "sourceTime": "1789595152846.869000",
+      "priceChangedAt": 1789595152315.988,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595152847.056,
+      "p": 759461,
+      "id": "219418076",
+      "sequence": "219418076",
+      "sourceTime": "1789595152847.056000",
+      "priceChangedAt": 1789595152315.988,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595152847.06,
+      "p": 759461,
+      "id": "219418077",
+      "sequence": "219418077",
+      "sourceTime": "1789595152847.060000",
+      "priceChangedAt": 1789595152315.988,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595152847.064,
+      "p": 759476,
+      "id": "219418078",
+      "sequence": "219418078",
+      "sourceTime": "1789595152847.064000",
+      "priceChangedAt": 1789595152847.064,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595152847.069,
+      "p": 759480,
+      "id": "219418079",
+      "sequence": "219418079",
+      "sourceTime": "1789595152847.069000",
+      "priceChangedAt": 1789595152847.069,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595152858.579,
+      "p": 759509,
+      "id": "219418080",
+      "sequence": "219418080",
+      "sourceTime": "1789595152858.579000",
+      "priceChangedAt": 1789595152858.579,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595160321.757,
+      "p": 759536,
+      "id": "219418081",
+      "sequence": "219418081",
+      "sourceTime": "1789595160321.757000",
+      "priceChangedAt": 1789595160321.757,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595163133.982,
+      "p": 759423,
+      "id": "219418082",
+      "sequence": "219418082",
+      "sourceTime": "1789595163133.982000",
+      "priceChangedAt": 1789595163133.982,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595163133.996,
+      "p": 759423,
+      "id": "219418083",
+      "sequence": "219418083",
+      "sourceTime": "1789595163133.996000",
+      "priceChangedAt": 1789595163133.982,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595167661.76,
+      "p": 759430,
+      "id": "219418084",
+      "sequence": "219418084",
+      "sourceTime": "1789595167661.760000",
+      "priceChangedAt": 1789595167661.76,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595167661.765,
+      "p": 759430,
+      "id": "219418085",
+      "sequence": "219418085",
+      "sourceTime": "1789595167661.765000",
+      "priceChangedAt": 1789595167661.76,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595167762.602,
+      "p": 759489,
+      "id": "219418086",
+      "sequence": "219418086",
+      "sourceTime": "1789595167762.602000",
+      "priceChangedAt": 1789595167762.602,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595167762.607,
+      "p": 759532,
+      "id": "219418087",
+      "sequence": "219418087",
+      "sourceTime": "1789595167762.607000",
+      "priceChangedAt": 1789595167762.607,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595167766.262,
+      "p": 759537,
+      "id": "219418088",
+      "sequence": "219418088",
+      "sourceTime": "1789595167766.262000",
+      "priceChangedAt": 1789595167766.262,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595167768.486,
+      "p": 759536,
+      "id": "219418089",
+      "sequence": "219418089",
+      "sourceTime": "1789595167768.486000",
+      "priceChangedAt": 1789595167768.486,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595167773.258,
+      "p": 759536,
+      "id": "219418090",
+      "sequence": "219418090",
+      "sourceTime": "1789595167773.258000",
+      "priceChangedAt": 1789595167768.486,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595168293.687,
+      "p": 759593,
+      "id": "219418091",
+      "sequence": "219418091",
+      "sourceTime": "1789595168293.687000",
+      "priceChangedAt": 1789595168293.687,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595172088.567,
+      "p": 759593,
+      "id": "219418092",
+      "sequence": "219418092",
+      "sourceTime": "1789595172088.567000",
+      "priceChangedAt": 1789595168293.687,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595172119.163,
+      "p": 759594,
+      "id": "219418093",
+      "sequence": "219418093",
+      "sourceTime": "1789595172119.163000",
+      "priceChangedAt": 1789595172119.163,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595178325.915,
+      "p": 759593,
+      "id": "219418094",
+      "sequence": "219418094",
+      "sourceTime": "1789595178325.915000",
+      "priceChangedAt": 1789595178325.915,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595178585.59,
+      "p": 759593,
+      "id": "219418095",
+      "sequence": "219418095",
+      "sourceTime": "1789595178585.590000",
+      "priceChangedAt": 1789595178325.915,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595182462.861,
+      "p": 759594,
+      "id": "219418096",
+      "sequence": "219418096",
+      "sourceTime": "1789595182462.861000",
+      "priceChangedAt": 1789595182462.861,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595182462.869,
+      "p": 759594,
+      "id": "219418097",
+      "sequence": "219418097",
+      "sourceTime": "1789595182462.869000",
+      "priceChangedAt": 1789595182462.861,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595196733.68,
+      "p": 759567,
+      "id": "219418098",
+      "sequence": "219418098",
+      "sourceTime": "1789595196733.680000",
+      "priceChangedAt": 1789595196733.68,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595200271.467,
+      "p": 759480,
+      "id": "219418099",
+      "sequence": "219418099",
+      "sourceTime": "1789595200271.467000",
+      "priceChangedAt": 1789595200271.467,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595202347.071,
+      "p": 759481,
+      "id": "219418100",
+      "sequence": "219418100",
+      "sourceTime": "1789595202347.071000",
+      "priceChangedAt": 1789595202347.071,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595208218.922,
+      "p": 759481,
+      "id": "219418101",
+      "sequence": "219418101",
+      "sourceTime": "1789595208218.922000",
+      "priceChangedAt": 1789595202347.071,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595210461.169,
+      "p": 759481,
+      "id": "219418102",
+      "sequence": "219418102",
+      "sourceTime": "1789595210461.169000",
+      "priceChangedAt": 1789595202347.071,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595210466.034,
+      "p": 759481,
+      "id": "219418103",
+      "sequence": "219418103",
+      "sourceTime": "1789595210466.034000",
+      "priceChangedAt": 1789595202347.071,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595212273.346,
+      "p": 759480,
+      "id": "219418104",
+      "sequence": "219418104",
+      "sourceTime": "1789595212273.346000",
+      "priceChangedAt": 1789595212273.346,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595216272.091,
+      "p": 759480,
+      "id": "219418105",
+      "sequence": "219418105",
+      "sourceTime": "1789595216272.091000",
+      "priceChangedAt": 1789595212273.346,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595222213.817,
+      "p": 759481,
+      "id": "219418106",
+      "sequence": "219418106",
+      "sourceTime": "1789595222213.817000",
+      "priceChangedAt": 1789595222213.817,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595228344.365,
+      "p": 759480,
+      "id": "219418107",
+      "sequence": "219418107",
+      "sourceTime": "1789595228344.365000",
+      "priceChangedAt": 1789595228344.365,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595232226.033,
+      "p": 759480,
+      "id": "219418108",
+      "sequence": "219418108",
+      "sourceTime": "1789595232226.033000",
+      "priceChangedAt": 1789595228344.365,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595232251.205,
+      "p": 759481,
+      "id": "219418109",
+      "sequence": "219418109",
+      "sourceTime": "1789595232251.205000",
+      "priceChangedAt": 1789595232251.205,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595232272.335,
+      "p": 759480,
+      "id": "219418110",
+      "sequence": "219418110",
+      "sourceTime": "1789595232272.335000",
+      "priceChangedAt": 1789595232272.335,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595232550.528,
+      "p": 759480,
+      "id": "219418111",
+      "sequence": "219418111",
+      "sourceTime": "1789595232550.528000",
+      "priceChangedAt": 1789595232272.335,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595232550.533,
+      "p": 759480,
+      "id": "219418112",
+      "sequence": "219418112",
+      "sourceTime": "1789595232550.533000",
+      "priceChangedAt": 1789595232272.335,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595233465.443,
+      "p": 759481,
+      "id": "219418113",
+      "sequence": "219418113",
+      "sourceTime": "1789595233465.443000",
+      "priceChangedAt": 1789595233465.443,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595233465.447,
+      "p": 759481,
+      "id": "219418114",
+      "sequence": "219418114",
+      "sourceTime": "1789595233465.447000",
+      "priceChangedAt": 1789595233465.443,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595233465.452,
+      "p": 759481,
+      "id": "219418115",
+      "sequence": "219418115",
+      "sourceTime": "1789595233465.452000",
+      "priceChangedAt": 1789595233465.443,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595233825.619,
+      "p": 759526,
+      "id": "219418116",
+      "sequence": "219418116",
+      "sourceTime": "1789595233825.619000",
+      "priceChangedAt": 1789595233825.619,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595233825.624,
+      "p": 759526,
+      "id": "219418117",
+      "sequence": "219418117",
+      "sourceTime": "1789595233825.624000",
+      "priceChangedAt": 1789595233825.619,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595233829.297,
+      "p": 759537,
+      "id": "219418118",
+      "sequence": "219418118",
+      "sourceTime": "1789595233829.297000",
+      "priceChangedAt": 1789595233829.297,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595236290.867,
+      "p": 759594,
+      "id": "219418119",
+      "sequence": "219418119",
+      "sourceTime": "1789595236290.867000",
+      "priceChangedAt": 1789595236290.867,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595240274.034,
+      "p": 759594,
+      "id": "219418120",
+      "sequence": "219418120",
+      "sourceTime": "1789595240274.034000",
+      "priceChangedAt": 1789595236290.867,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595243034.06,
+      "p": 759594,
+      "id": "219418121",
+      "sequence": "219418121",
+      "sourceTime": "1789595243034.060000",
+      "priceChangedAt": 1789595236290.867,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595243034.066,
+      "p": 759594,
+      "id": "219418122",
+      "sequence": "219418122",
+      "sourceTime": "1789595243034.066000",
+      "priceChangedAt": 1789595236290.867,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595243051.957,
+      "p": 759643,
+      "id": "219418123",
+      "sequence": "219418123",
+      "sourceTime": "1789595243051.957000",
+      "priceChangedAt": 1789595243051.957,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595244289.293,
+      "p": 759650,
+      "id": "219418124",
+      "sequence": "219418124",
+      "sourceTime": "1789595244289.293000",
+      "priceChangedAt": 1789595244289.293,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595248131.576,
+      "p": 759650,
+      "id": "219418125",
+      "sequence": "219418125",
+      "sourceTime": "1789595248131.576000",
+      "priceChangedAt": 1789595244289.293,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595252084.127,
+      "p": 759651,
+      "id": "219418126",
+      "sequence": "219418126",
+      "sourceTime": "1789595252084.127000",
+      "priceChangedAt": 1789595252084.127,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595260369.347,
+      "p": 759651,
+      "id": "219418127",
+      "sequence": "219418127",
+      "sourceTime": "1789595260369.347000",
+      "priceChangedAt": 1789595252084.127,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595264196.957,
+      "p": 759650,
+      "id": "219418128",
+      "sequence": "219418128",
+      "sourceTime": "1789595264196.957000",
+      "priceChangedAt": 1789595264196.957,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595264274.217,
+      "p": 759651,
+      "id": "219418129",
+      "sequence": "219418129",
+      "sourceTime": "1789595264274.217000",
+      "priceChangedAt": 1789595264274.217,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595270414.74,
+      "p": 759651,
+      "id": "219418130",
+      "sequence": "219418130",
+      "sourceTime": "1789595270414.740000",
+      "priceChangedAt": 1789595264274.217,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595270414.75,
+      "p": 759651,
+      "id": "219418131",
+      "sequence": "219418131",
+      "sourceTime": "1789595270414.750000",
+      "priceChangedAt": 1789595264274.217,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595270414.756,
+      "p": 759651,
+      "id": "219418132",
+      "sequence": "219418132",
+      "sourceTime": "1789595270414.756000",
+      "priceChangedAt": 1789595264274.217,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595273269.807,
+      "p": 759655,
+      "id": "219418133",
+      "sequence": "219418133",
+      "sourceTime": "1789595273269.807000",
+      "priceChangedAt": 1789595273269.807,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595276273.841,
+      "p": 759656,
+      "id": "219418134",
+      "sequence": "219418134",
+      "sourceTime": "1789595276273.841000",
+      "priceChangedAt": 1789595276273.841,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595281639.583,
+      "p": 759656,
+      "id": "219418135",
+      "sequence": "219418135",
+      "sourceTime": "1789595281639.583000",
+      "priceChangedAt": 1789595276273.841,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595284282.349,
+      "p": 759655,
+      "id": "219418136",
+      "sequence": "219418136",
+      "sourceTime": "1789595284282.349000",
+      "priceChangedAt": 1789595284282.349,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595291337.046,
+      "p": 759655,
+      "id": "219418137",
+      "sequence": "219418137",
+      "sourceTime": "1789595291337.046000",
+      "priceChangedAt": 1789595284282.349,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595291362.477,
+      "p": 759656,
+      "id": "219418138",
+      "sequence": "219418138",
+      "sourceTime": "1789595291362.477000",
+      "priceChangedAt": 1789595291362.477,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595293799.694,
+      "p": 759656,
+      "id": "219418139",
+      "sequence": "219418139",
+      "sourceTime": "1789595293799.694000",
+      "priceChangedAt": 1789595291362.477,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595297024.124,
+      "p": 759655,
+      "id": "219418140",
+      "sequence": "219418140",
+      "sourceTime": "1789595297024.124000",
+      "priceChangedAt": 1789595297024.124,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595302831.548,
+      "p": 759655,
+      "id": "219418141",
+      "sequence": "219418141",
+      "sourceTime": "1789595302831.548000",
+      "priceChangedAt": 1789595297024.124,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595310487.866,
+      "p": 759655,
+      "id": "219418142",
+      "sequence": "219418142",
+      "sourceTime": "1789595310487.866000",
+      "priceChangedAt": 1789595297024.124,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595319356.72,
+      "p": 759656,
+      "id": "219418143",
+      "sequence": "219418143",
+      "sourceTime": "1789595319356.720000",
+      "priceChangedAt": 1789595319356.72,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595319356.725,
+      "p": 759656,
+      "id": "219418144",
+      "sequence": "219418144",
+      "sourceTime": "1789595319356.725000",
+      "priceChangedAt": 1789595319356.72,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595319410.728,
+      "p": 759662,
+      "id": "219418145",
+      "sequence": "219418145",
+      "sourceTime": "1789595319410.728000",
+      "priceChangedAt": 1789595319410.728,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595320744.525,
+      "p": 759663,
+      "id": "219418146",
+      "sequence": "219418146",
+      "sourceTime": "1789595320744.525000",
+      "priceChangedAt": 1789595320744.525,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595321557.449,
+      "p": 759663,
+      "id": "219418147",
+      "sequence": "219418147",
+      "sourceTime": "1789595321557.449000",
+      "priceChangedAt": 1789595320744.525,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595321557.456,
+      "p": 759664,
+      "id": "219418148",
+      "sequence": "219418148",
+      "sourceTime": "1789595321557.456000",
+      "priceChangedAt": 1789595321557.456,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595325332.002,
+      "p": 759707,
+      "id": "219418149",
+      "sequence": "219418149",
+      "sourceTime": "1789595325332.002000",
+      "priceChangedAt": 1789595325332.002,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595328271.716,
+      "p": 759708,
+      "id": "219418150",
+      "sequence": "219418150",
+      "sourceTime": "1789595328271.716000",
+      "priceChangedAt": 1789595328271.716,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595332551.716,
+      "p": 759708,
+      "id": "219418151",
+      "sequence": "219418151",
+      "sourceTime": "1789595332551.716000",
+      "priceChangedAt": 1789595328271.716,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595336402.833,
+      "p": 759708,
+      "id": "219418152",
+      "sequence": "219418152",
+      "sourceTime": "1789595336402.833000",
+      "priceChangedAt": 1789595328271.716,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595340290.997,
+      "p": 759708,
+      "id": "219418153",
+      "sequence": "219418153",
+      "sourceTime": "1789595340290.997000",
+      "priceChangedAt": 1789595328271.716,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595344306.84,
+      "p": 759707,
+      "id": "219418154",
+      "sequence": "219418154",
+      "sourceTime": "1789595344306.840000",
+      "priceChangedAt": 1789595344306.84,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595348302.073,
+      "p": 759708,
+      "id": "219418155",
+      "sequence": "219418155",
+      "sourceTime": "1789595348302.073000",
+      "priceChangedAt": 1789595348302.073,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595352253.983,
+      "p": 759707,
+      "id": "219418156",
+      "sequence": "219418156",
+      "sourceTime": "1789595352253.983000",
+      "priceChangedAt": 1789595352253.983,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595352279.207,
+      "p": 759708,
+      "id": "219418157",
+      "sequence": "219418157",
+      "sourceTime": "1789595352279.207000",
+      "priceChangedAt": 1789595352279.207,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595357713.733,
+      "p": 759707,
+      "id": "219418158",
+      "sequence": "219418158",
+      "sourceTime": "1789595357713.733000",
+      "priceChangedAt": 1789595357713.733,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595363383.683,
+      "p": 759707,
+      "id": "219418159",
+      "sequence": "219418159",
+      "sourceTime": "1789595363383.683000",
+      "priceChangedAt": 1789595357713.733,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595376315.865,
+      "p": 759708,
+      "id": "219418160",
+      "sequence": "219418160",
+      "sourceTime": "1789595376315.865000",
+      "priceChangedAt": 1789595376315.865,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595377154.136,
+      "p": 759711,
+      "id": "219418161",
+      "sequence": "219418161",
+      "sourceTime": "1789595377154.136000",
+      "priceChangedAt": 1789595377154.136,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595380271.547,
+      "p": 759712,
+      "id": "219418162",
+      "sequence": "219418162",
+      "sourceTime": "1789595380271.547000",
+      "priceChangedAt": 1789595380271.547,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595384370.685,
+      "p": 759711,
+      "id": "219418163",
+      "sequence": "219418163",
+      "sourceTime": "1789595384370.685000",
+      "priceChangedAt": 1789595384370.685,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595388271.215,
+      "p": 759712,
+      "id": "219418164",
+      "sequence": "219418164",
+      "sourceTime": "1789595388271.215000",
+      "priceChangedAt": 1789595388271.215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595392288.078,
+      "p": 759712,
+      "id": "219418165",
+      "sequence": "219418165",
+      "sourceTime": "1789595392288.078000",
+      "priceChangedAt": 1789595388271.215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595396296.84,
+      "p": 759712,
+      "id": "219418166",
+      "sequence": "219418166",
+      "sourceTime": "1789595396296.840000",
+      "priceChangedAt": 1789595388271.215,
+      "quietCensored": false
+    },
+    {
+      "t": 1789595397598.761,
+      "p": 759711,
+      "id": "219418167",
+      "sequence": "219418167",
+      "sourceTime": "1789595397598.761000",
+      "priceChangedAt": 1789595397598.761,
+      "quietCensored": false
+    }
+  ]
+}

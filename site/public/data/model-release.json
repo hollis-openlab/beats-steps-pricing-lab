@@ -1,0 +1,19 @@
+{
+  "version": "conditional-event-path-v5",
+  "createdAt": "2026-09-18T04:08:20.517Z",
+  "policy": "Beats quotes every supported contract under the unchanged conservative 94% payout budget, minimum 1.01 and cap 50. Removed the infeasible 80% nominal-return hard gate; Steps optimization unchanged.",
+  "libraries": {
+    "BTC_USDT": {
+      "file": "data/artifacts/BTC_USDT-library-v5.json.gz",
+      "sha256": "14c7a742bf47829e1909cbe91c0f0a420fb96d24b1bbab9239a1a19471df7ba9"
+    },
+    "ETH_USDT": {
+      "file": "data/artifacts/ETH_USDT-library-v5.json.gz",
+      "sha256": "df27893f532e5717a9fd595ffa72fc54fdb96afeff060c2e34f8c5bc62f31591"
+    },
+    "XAU_USDT": {
+      "file": "data/artifacts/XAU_USDT-library-v5.json.gz",
+      "sha256": "7ade73cf4d5c496319a3ca564e3ef68e270ea7465f345ac4f7940e92e465b026"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+site/node_modules/
+site/.next/
+.run/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+.env*
+.DS_Store
+npm-debug.log*
+

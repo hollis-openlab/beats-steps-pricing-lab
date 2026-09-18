@@ -32,7 +32,7 @@ export function BeatsPage() {
       <Card title="赔率板" action={<div className="board-legend"><span />高概率 <span />低概率</div>}>
         <div className="board-toolbar">
           <label htmlFor="settlement-convention">结算口径</label>
-          <select id="settlement-convention" value={state?.health.convention ?? 'carried'} onChange={event => void control({ convention: event.target.value }).catch(error => setMessage(error instanceof Error ? error.message : String(error)))}>
+          <select className="settlement-select" id="settlement-convention" value={state?.health.convention ?? 'carried'} onChange={event => void control({ convention: event.target.value }).catch(error => setMessage(error instanceof Error ? error.message : String(error)))}>
             <option value="carried">末笔价格延续</option><option value="trade">窗口内新成交</option>
           </select>
         </div>

@@ -39,8 +39,8 @@ export function Shell({ children }: { children: ReactNode }) {
           </button>)}</div>
           <div className="mode-controls">
             <span className={`connection-dot ${lab.connected ? 'connected' : ''}`} role="status" aria-label={lab.connected ? '服务已连接' : '服务未连接'} />
-            {simulated ? <span className="subtle-badge">合成行情</span> : <select aria-label="行情模式" value={lab.state?.health.mode ?? 'replay'} onChange={event => void control({ mode: event.target.value, ...(event.target.value === 'replay' ? { caseId: defaultCase(lab.asset) } : {}) })}><option value="replay">历史回放</option><option value="live">实时行情</option></select>}
-            {lab.state?.health.mode === 'replay' ? <button className="icon-button" aria-label={lab.state.health.playing ? '暂停回放' : '继续回放'} onClick={() => void control({ playing: !lab.state?.health.playing })}>{lab.state.health.playing ? <Pause size={15} /> : <Play size={15} />}</button> : <Radio size={16} className="green" />}
+            {simulated ? <span className="subtle-badge">合成行情</span> : <select className="mode-select" aria-label="行情模式" value={lab.state?.health.mode ?? 'replay'} onChange={event => void control({ mode: event.target.value, ...(event.target.value === 'replay' ? { caseId: defaultCase(lab.asset) } : {}) })}><option value="replay">历史回放</option><option value="live">实时行情</option></select>}
+            {lab.state?.health.mode === 'replay' ? <button className={`replay-toggle ${lab.state.health.playing ? 'is-playing' : 'is-paused'}`} aria-label={lab.state.health.playing ? '暂停回放' : '继续回放'} aria-pressed={lab.state.health.playing} onClick={() => void control({ playing: !lab.state?.health.playing })}>{lab.state.health.playing ? <><Pause size={15} />暂停</> : <><Play size={15} />继续</>}</button> : <Radio size={16} className="green" />}
             <span className="clock">{lab.state ? `${dateTime(lab.state.health.now)} UTC` : '等待行情'}</span>
           </div>
         </div>

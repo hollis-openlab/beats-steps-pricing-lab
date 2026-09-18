@@ -1,6 +1,6 @@
 # Beats / Steps 赔率工作台
 
-这是 Beats 触碰板与 Steps 方向阶梯的可运行网站。网站使用 Gate 的 BTC／ETH 现货和 XAU_USDT 黄金永续历史成交与实时成交，展示动态赔率、历史回放、模拟接单、结算记录和数据验证结果。
+仓库包含 Beats 触碰板与 Steps 方向阶梯的完整实现。网站使用 Gate 的 BTC／ETH 现货和 XAU_USDT 黄金永续成交数据，提供动态赔率、历史回放、实时行情、模拟接单与结算记录。
 
 正式文字作答见 [正式提交答案](正式提交答案.md)。
 
@@ -42,11 +42,10 @@ npm run build
 ## 项目结构
 
 - `site/app`：Next.js 页面和全局样式
-- `site/components/lab`：Beats、Steps、行情回放和数据验证界面
+- `site/components/lab`：Beats、Steps、行情回放与验证组件
 - `site/lib/engine`：概率、校准、赔率与结算逻辑
 - `site/service`：实时行情、回放、接单、账本和恢复服务
 - `site/public/data`：网站使用的回放与验证数据
 - `data/artifacts`：网站运行所需的模型库
 
 该项目是模拟交易系统，不连接真实资金账户。线上服务使用免费 IP 子域名和自动 HTTPS 证书。
-

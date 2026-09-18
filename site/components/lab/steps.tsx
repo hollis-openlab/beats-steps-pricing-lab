@@ -52,7 +52,7 @@ export function StepsPage() {
         </Card>
         <Card title="模拟合约">
           <div className="metric-grid two compact"><Metric label="预期赔付率" value={pct(quote.rawRtp, 2)} /><Metric label="保守赔付率" value={pct(quote.robustRtp, 2)} /></div>
-          <p className="action-note">门槛按同方向正变动样本分为四档，百分比为近似显示，以价格门槛为准；价格完全不动属于未达标。{asset === 'LOWVOL_SIM' ? '本标的使用独立合成路径估算概率，安全余量为演示设定，未经过真实市场校准。' : `赔率同时满足递增、保守预算 ≤94% 和估计返还率 ≥80%。达到各门槛的最大安全余量 ${pct(margin, 2)}。这些预算与分配目标是明确的产品选择，实际返还率需要另行验证。`}</p>
+          <p className="action-note">门槛按同方向历史变动样本分档，以价格门槛为准；价格不变属于未达标。{asset === 'LOWVOL_SIM' ? '虚拟标的仅用于静市测试，概率和安全余量未经真实市场校准。' : `保守赔付率已计入最高 ${pct(margin, 2)} 的安全余量。`}</p>
           <label className="stake-label">虚拟本金<input type="number" min={1} max={100} step={1} value={stake} onChange={event => setStake(Number(event.target.value))} /></label>
           <button className="primary-button full" disabled={!quote.odds || pending || stake < 1 || stake > 100 || !Number.isInteger(stake)} onClick={() => void accept()}><LockKeyhole size={16} />{pending ? '提交中…' : `锁定模拟合约 · ${direction === 'up' ? '看涨' : '看跌'} ${horizon} 秒`}</button>
           {quote.reason && <p className="inline-message">{quote.reason}</p>}{message && <p role="status" className="inline-message">{message}</p>}
